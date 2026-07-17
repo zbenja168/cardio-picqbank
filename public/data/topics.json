@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": "gross-anatomy",
+      "name": "Gross Anatomy",
+      "topics": [
+        {
+          "id": "gross-anatomy",
+          "name": "Gross Anatomy",
+          "sourceFile": "cardio bricks",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "lab-diagnostics",
+      "name": "Lab & Diagnostics",
+      "topics": [
+        {
+          "id": "lab-diagnostics",
+          "name": "Lab & Diagnostics",
+          "sourceFile": "cardio bricks",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "pathology",
+      "name": "Pathology",
+      "topics": [
+        {
+          "id": "pathology",
+          "name": "Pathology",
+          "sourceFile": "cardio bricks",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "physiology-mechanisms",
+      "name": "Physiology & Mechanisms",
+      "topics": [
+        {
+          "id": "physiology-mechanisms",
+          "name": "Physiology & Mechanisms",
+          "sourceFile": "cardio bricks",
+          "questionCount": 4
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 12
+}

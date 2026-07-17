@@ -1,0 +1,123 @@
+{
+  "categoryId": "lab-diagnostics",
+  "categoryName": "Lab & Diagnostics",
+  "questions": [
+    {
+      "id": "capic-004",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This ECG tracing shows a beat-to-beat alternation in the amplitude of the QRS complexes. What mechanism produces this finding in a patient with a large pericardial effusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beat-to-beat variation in AV node conduction"
+        },
+        {
+          "label": "B",
+          "text": "Swinging motion of the heart within the fluid-filled pericardial sac"
+        },
+        {
+          "label": "C",
+          "text": "Alternating bundle branch block"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory motion artifact"
+        },
+        {
+          "label": "E",
+          "text": "Intermittent ventricular pacing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Electrical alternans is caused by the heart physically swinging back and forth within a large volume of pericardial fluid, changing the beat-to-beat orientation of the heart relative to the ECG electrodes and thus altering QRS amplitude. It is a relatively specific but insensitive sign of large effusion/tamponade, seen in only a minority of patients.",
+        "whyCorrect": "Electrical alternans is caused by the heart physically swinging back and forth within a large volume of pericardial fluid, changing the beat-to-beat orientation of the heart relative to the ECG electrodes and thus altering QRS amplitude. It is a relatively specific but insensitive sign of large effusion/tamponade, seen in only a minority of patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-004_ca02_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-005",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This echocardiogram (with accompanying schematic) demonstrates inward buckling of the right ventricular free wall during ventricular diastole. What is the significance of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe aortic regurgitation"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "D",
+          "text": "Normal right ventricular filling"
+        },
+        {
+          "label": "E",
+          "text": "An early echocardiographic sign of cardiac tamponade"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diastolic collapse of the low-pressure right ventricle indicates that the pressure in the pericardial space is transiently exceeding the RV filling pressure. This is an early echocardiographic sign of cardiac tamponade, and echocardiography is the preferred imaging modality for diagnosing effusion and tamponade.",
+        "whyCorrect": "Diastolic collapse of the low-pressure right ventricle indicates that the pressure in the pericardial space is transiently exceeding the RV filling pressure. This is an early echocardiographic sign of cardiac tamponade, and echocardiography is the preferred imaging modality for diagnosing effusion and tamponade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-005_ca02_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-006",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This illustration shows a needle being advanced at an angle beneath the sternum toward the sac surrounding the heart. What is the primary purpose of the procedure depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To obtain a myocardial biopsy"
+        },
+        {
+          "label": "B",
+          "text": "To place a transvenous pacemaker lead"
+        },
+        {
+          "label": "C",
+          "text": "To drain fluid from the pleural space"
+        },
+        {
+          "label": "D",
+          "text": "To aspirate fluid from the pericardial space"
+        },
+        {
+          "label": "E",
+          "text": "To inject contrast into a coronary artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure depicts pericardiocentesis, in which a needle is inserted percutaneously into the pericardial space to remove accumulated fluid. It is the treatment of choice for cardiac tamponade with hemodynamic compromise and can also be used diagnostically to sample the effusion.",
+        "whyCorrect": "The figure depicts pericardiocentesis, in which a needle is inserted percutaneously into the pericardial space to remove accumulated fluid. It is the treatment of choice for cardiac tamponade with hemodynamic compromise and can also be used diagnostically to sample the effusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-006_ca02_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

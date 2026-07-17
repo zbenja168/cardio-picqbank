@@ -1,0 +1,123 @@
+{
+  "categoryId": "gross-anatomy",
+  "categoryName": "Gross Anatomy",
+  "questions": [
+    {
+      "id": "capic-001",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This surgical illustration shows the fibrous sac surrounding the heart being stripped away, with insets contrasting a normal versus a removed layer. In a patient with constrictive pericarditis, what is the primary therapeutic rationale for this operation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It drains a large pericardial effusion that is acutely compressing the heart"
+        },
+        {
+          "label": "B",
+          "text": "It ligates the coronary arteries feeding the diseased tissue to prevent further fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "It replaces the diseased sac with a synthetic membrane that actively pumps blood"
+        },
+        {
+          "label": "D",
+          "text": "It ablates abnormal electrical pathways causing arrhythmias in the pericardium"
+        },
+        {
+          "label": "E",
+          "text": "Removing the rigid, fibrotic pericardial encasement frees the ventricles so they can expand and fill normally during diastole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The image depicts pericardiectomy, surgical removal of the pericardium. In constrictive pericarditis the pericardium becomes thick, fibrotic, and inelastic, restricting diastolic filling of all chambers. Excising this rigid shell relieves the constriction and restores normal ventricular expansion. It benefits markedly symptomatic patients but carries a high operative mortality (roughly 4-12%).",
+        "whyCorrect": "The image depicts pericardiectomy, surgical removal of the pericardium. In constrictive pericarditis the pericardium becomes thick, fibrotic, and inelastic, restricting diastolic filling of all chambers. Excising this rigid shell relieves the constriction and restores normal ventricular expansion. It benefits markedly symptomatic patients but carries a high operative mortality (roughly 4-12%).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-001_ca00_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-002",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This labeled diagram shows the layers of the heart wall and the surrounding pericardium. Abnormal accumulation of fluid within the potential space depicted between the two serous layers would produce which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrothorax"
+        },
+        {
+          "label": "B",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Ascites"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The space between the visceral (epicardial) and parietal serous pericardial layers is the pericardial cavity, which normally holds only a small amount of lubricating fluid. Excess fluid here is a pericardial effusion; if large, it can compress the heart and cause cardiac tamponade. Fluid in the pleural space is a pleural effusion, and fluid in the peritoneal cavity is ascites.",
+        "whyCorrect": "The space between the visceral (epicardial) and parietal serous pericardial layers is the pericardial cavity, which normally holds only a small amount of lubricating fluid. Excess fluid here is a pericardial effusion; if large, it can compress the heart and cause cardiac tamponade. Fluid in the pleural space is a pleural effusion, and fluid in the peritoneal cavity is ascites.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-002_ca02_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-003",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The paired arteries running within the segmented arches on the head-and-neck region of this early embryo remodel to form which set of adult structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The coronary arteries"
+        },
+        {
+          "label": "B",
+          "text": "The hepatic portal venous system"
+        },
+        {
+          "label": "C",
+          "text": "The pulmonary veins"
+        },
+        {
+          "label": "D",
+          "text": "The cardinal (systemic) veins"
+        },
+        {
+          "label": "E",
+          "text": "The great arteries of the head, neck, and thorax"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The segmented structures shown are the pharyngeal (branchial) arches, each containing a paired aortic arch artery. Through selective regression, persistence, and remodeling these embryonic arch arteries give rise to the asymmetric great arteries supplying the head, neck, and thorax.",
+        "whyCorrect": "The segmented structures shown are the pharyngeal (branchial) arches, each containing a paired aortic arch artery. Through selective regression, persistence, and remodeling these embryonic arch arteries give rise to the asymmetric great arteries supplying the head, neck, and thorax.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-003_ca03_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

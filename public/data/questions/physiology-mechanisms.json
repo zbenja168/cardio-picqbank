@@ -1,0 +1,162 @@
+{
+  "categoryId": "physiology-mechanisms",
+  "categoryName": "Physiology & Mechanisms",
+  "questions": [
+    {
+      "id": "capic-009",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This tracing plots arterial blood pressure above a respiration curve and shows systolic pressure falling with each inspiration. In constrictive (and tamponade) physiology, what is the primary mechanism that produces this inspiratory drop in systemic pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchoconstriction during inspiration lowers arterial oxygen content and blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "Inspiration directly compresses the aorta, mechanically lowering measured systolic pressure"
+        },
+        {
+          "label": "C",
+          "text": "Reflex vagal slowing of the heart rate during inspiration reduces cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "Inspiratory augmentation of right ventricular filling shifts the interventricular septum toward the left ventricle, transiently reducing left ventricular filling and stroke volume"
+        },
+        {
+          "label": "E",
+          "text": "Inspiration raises intrathoracic pressure, squeezing blood out of the pulmonary veins into the left atrium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The waveform depicts pulsus paradoxus: an exaggerated (>10 mmHg) fall in systolic blood pressure during inspiration. With a stiff, non-compliant pericardium, inspiratory increases in venous return fill the right ventricle at the expense of the left. Because total cardiac volume is fixed, the interventricular septum bows leftward (ventricular interdependence), decreasing LV filling and stroke volume, and thus systolic pressure, during inspiration.",
+        "whyCorrect": "The waveform depicts pulsus paradoxus: an exaggerated (>10 mmHg) fall in systolic blood pressure during inspiration. With a stiff, non-compliant pericardium, inspiratory increases in venous return fill the right ventricle at the expense of the left. Because total cardiac volume is fixed, the interventricular septum bows leftward (ventricular interdependence), decreasing LV filling and stroke volume, and thus systolic pressure, during inspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-009_ca00_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-010",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The right-hand panel of this diagram depicts the pathophysiology responsible for which characteristic auscultatory finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A crescendo-decrescendo systolic ejection murmur at the right upper sternal border"
+        },
+        {
+          "label": "B",
+          "text": "An early diastolic decrescendo murmur at the left sternal border"
+        },
+        {
+          "label": "C",
+          "text": "A mid-diastolic rumble with an opening snap at the apex"
+        },
+        {
+          "label": "D",
+          "text": "A continuous machine-like murmur below the left clavicle"
+        },
+        {
+          "label": "E",
+          "text": "A holosystolic murmur best heard at the cardiac apex"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The right panel shows leaflets that fail to coapt, allowing systolic backflow from the left ventricle into the left atrium. This regurgitant jet during systole produces a holosystolic (pansystolic) murmur best heard at the apex, often radiating to the axilla.",
+        "whyCorrect": "The right panel shows leaflets that fail to coapt, allowing systolic backflow from the left ventricle into the left atrium. This regurgitant jet during systole produces a holosystolic (pansystolic) murmur best heard at the apex, often radiating to the axilla.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-010_ca04_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-011",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The boxed drugs in this coagulation diagram act on the enzyme where the intrinsic and extrinsic pathways converge. What downstream reaction do they most directly prevent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of factor IX by factor XIa"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking of fibrin by factor XIII"
+        },
+        {
+          "label": "C",
+          "text": "Activation of factor VII by tissue factor"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of fibrinogen to fibrin"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of prothrombin (II) to thrombin (IIa)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The highlighted agents are direct factor Xa inhibitors. Factor Xa sits at the start of the common pathway and drives the conversion of prothrombin (II) to thrombin (IIa); inhibiting Xa blocks this step and prevents subsequent fibrin formation.",
+        "whyCorrect": "The highlighted agents are direct factor Xa inhibitors. Factor Xa sits at the start of the common pathway and drives the conversion of prothrombin (II) to thrombin (IIa); inhibiting Xa blocks this step and prevents subsequent fibrin formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-011_ca05_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-012",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In the left-hand diagram, the pulmonary and aortic valves are drawn open while the tricuspid and mitral valves are drawn closed. Which phase of the cardiac cycle does this valve configuration represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isovolumetric ventricular relaxation"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular systole (ejection)"
+        },
+        {
+          "label": "C",
+          "text": "Ventricular diastole (filling)"
+        },
+        {
+          "label": "D",
+          "text": "Isovolumetric ventricular contraction"
+        },
+        {
+          "label": "E",
+          "text": "Atrial systole"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When both semilunar valves (aortic and pulmonary) are open while both atrioventricular valves (mitral and tricuspid) are closed, the ventricles are actively ejecting blood into the aorta and pulmonary artery, which defines the ejection phase of ventricular systole.",
+        "whyCorrect": "When both semilunar valves (aortic and pulmonary) are open while both atrioventricular valves (mitral and tricuspid) are closed, the ventricles are actively ejecting blood into the aorta and pulmonary artery, which defines the ejection phase of ventricular systole.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-012_ca06_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

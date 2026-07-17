@@ -1,0 +1,84 @@
+{
+  "categoryId": "pathology",
+  "categoryName": "Pathology",
+  "questions": [
+    {
+      "id": "capic-007",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The friable masses seen on this mitral valve specimen most characteristically give rise to which complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Septic systemic emboli"
+        },
+        {
+          "label": "B",
+          "text": "Constrictive pericardial calcification"
+        },
+        {
+          "label": "C",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "D",
+          "text": "Primary pulmonary hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Coronary artery vasospasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The valve shows friable vegetations composed of fibrin, platelets, and microorganisms. Fragments of these lesions readily break off and travel through the systemic circulation, producing septic emboli to organs such as the brain, kidneys, and spleen.",
+        "whyCorrect": "The valve shows friable vegetations composed of fibrin, platelets, and microorganisms. Fragments of these lesions readily break off and travel through the systemic circulation, producing septic emboli to organs such as the brain, kidneys, and spleen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-007_ca04_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-008",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This illustration shows an aortic root complicated by an acute type A aortic dissection. By what mechanism does the depicted lesion produce aortic regurgitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic commissural fusion narrowing the valve orifice"
+        },
+        {
+          "label": "B",
+          "text": "Fusion of two congenitally malformed cusps into a bicuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "Calcific fibrosis stiffens and fuses the leaflet cusps"
+        },
+        {
+          "label": "D",
+          "text": "The dissection flap distorts leaflet alignment, preventing valve coaptation"
+        },
+        {
+          "label": "E",
+          "text": "Infective vegetations perforate and destroy the leaflet tissue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In type A dissection the intimal flap extends into the aortic root and distorts the normal alignment of the aortic valve leaflets, causing malcoaptation so the cusps cannot close completely, which allows diastolic backflow (regurgitation) rather than obstruction or leaflet destruction.",
+        "whyCorrect": "In type A dissection the intimal flap extends into the aortic root and distorts the normal alignment of the aortic valve leaflets, causing malcoaptation so the cusps cannot close completely, which allows diastolic backflow (regurgitation) rather than obstruction or leaflet destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-008_ca06_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
