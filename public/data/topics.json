@@ -8,7 +8,19 @@
           "id": "gross-anatomy",
           "name": "Gross Anatomy",
           "sourceFile": "cardio bricks",
-          "questionCount": 3
+          "questionCount": 31
+        }
+      ]
+    },
+    {
+      "id": "histology-cell-biology",
+      "name": "Histology & Cell Biology",
+      "topics": [
+        {
+          "id": "histology-cell-biology",
+          "name": "Histology & Cell Biology",
+          "sourceFile": "cardio bricks",
+          "questionCount": 15
         }
       ]
     },
@@ -20,7 +32,7 @@
           "id": "lab-diagnostics",
           "name": "Lab & Diagnostics",
           "sourceFile": "cardio bricks",
-          "questionCount": 3
+          "questionCount": 73
         }
       ]
     },
@@ -32,7 +44,19 @@
           "id": "pathology",
           "name": "Pathology",
           "sourceFile": "cardio bricks",
-          "questionCount": 2
+          "questionCount": 57
+        }
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "topics": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "sourceFile": "cardio bricks",
+          "questionCount": 5
         }
       ]
     },
@@ -44,10 +68,10 @@
           "id": "physiology-mechanisms",
           "name": "Physiology & Mechanisms",
           "sourceFile": "cardio bricks",
-          "questionCount": 4
+          "questionCount": 89
         }
       ]
     }
   ],
-  "totalQuestions": 12
+  "totalQuestions": 270
 }

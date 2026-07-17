@@ -3,79 +3,2220 @@
   "categoryName": "Pathology",
   "questions": [
     {
-      "id": "capic-007",
+      "id": "capic-120",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "The friable masses seen on this mitral valve specimen most characteristically give rise to which complication?",
+      "stem": "This clinical photograph shows bluish discoloration of the nailbeds, fingers, and toes in an infant. This physical sign is a direct marker of what?",
       "choices": [
         {
           "label": "A",
-          "text": "Septic systemic emboli"
+          "text": "Elevated carboxyhemoglobin from carbon monoxide exposure"
         },
         {
           "label": "B",
-          "text": "Constrictive pericardial calcification"
+          "text": "An elevated concentration of deoxygenated (reduced) hemoglobin in the blood, typically greater than 5 g/dL"
         },
         {
           "label": "C",
-          "text": "Aortic dissection"
+          "text": "An absolute deficiency of total hemoglobin (anemia)"
         },
         {
           "label": "D",
-          "text": "Primary pulmonary hypertension"
+          "text": "Increased methemoglobin from an oxidizing drug"
         },
         {
           "label": "E",
-          "text": "Coronary artery vasospasm"
+          "text": "Excess bilirubin deposition in the skin and mucous membranes"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The valve shows friable vegetations composed of fibrin, platelets, and microorganisms. Fragments of these lesions readily break off and travel through the systemic circulation, producing septic emboli to organs such as the brain, kidneys, and spleen.",
-        "whyCorrect": "The valve shows friable vegetations composed of fibrin, platelets, and microorganisms. Fragments of these lesions readily break off and travel through the systemic circulation, producing septic emboli to organs such as the brain, kidneys, and spleen.",
+        "summary": "Cyanosis is the bluish discoloration seen when the level of deoxygenated hemoglobin rises (roughly above 5 g/dL). In right-to-left shunting cyanotic CHDs, poorly oxygenated blood reaches the systemic circulation, producing peripheral and central cyanosis.",
+        "whyCorrect": "Cyanosis is the bluish discoloration seen when the level of deoxygenated hemoglobin rises (roughly above 5 g/dL). In right-to-left shunting cyanotic CHDs, poorly oxygenated blood reaches the systemic circulation, producing peripheral and central cyanosis.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "capic-007_ca04_f03.png",
+      "imageRef": "capic-120_ca006_f03.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "capic-008",
+      "id": "capic-121",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This illustration shows an aortic root complicated by an acute type A aortic dissection. By what mechanism does the depicted lesion produce aortic regurgitation?",
+      "stem": "A neonate with a right-to-left shunt shows the bluish discoloration seen here in the nailbeds, fingers, and toes. This clinical sign results directly from an increased blood concentration of what?",
       "choices": [
         {
           "label": "A",
-          "text": "Rheumatic commissural fusion narrowing the valve orifice"
+          "text": "Carboxyhemoglobin"
         },
         {
           "label": "B",
-          "text": "Fusion of two congenitally malformed cusps into a bicuspid valve"
+          "text": "Deoxygenated (reduced) hemoglobin"
         },
         {
           "label": "C",
-          "text": "Calcific fibrosis stiffens and fuses the leaflet cusps"
+          "text": "Unconjugated bilirubin"
         },
         {
           "label": "D",
-          "text": "The dissection flap distorts leaflet alignment, preventing valve coaptation"
+          "text": "Methemoglobin"
         },
         {
           "label": "E",
-          "text": "Infective vegetations perforate and destroy the leaflet tissue"
+          "text": "Oxygenated hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cyanosis becomes visible when the absolute amount of reduced (deoxygenated) hemoglobin in the blood rises above roughly 5 g/dL, which occurs when a right-to-left shunt allows deoxygenated blood to bypass the lungs and enter the systemic circulation.",
+        "whyCorrect": "Cyanosis becomes visible when the absolute amount of reduced (deoxygenated) hemoglobin in the blood rises above roughly 5 g/dL, which occurs when a right-to-left shunt allows deoxygenated blood to bypass the lungs and enter the systemic circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-121_ca008_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-122",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen shows an opened aortic valve with thickened, rigid, immobile leaflets. What process is most responsible for this appearance in an elderly patient with aortic stenosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myxomatous degeneration of the leaflets"
+        },
+        {
+          "label": "B",
+          "text": "Calcific degeneration of the valve leaflets"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatic fusion of the commissures"
+        },
+        {
+          "label": "D",
+          "text": "Infective vegetations on the leaflets"
+        },
+        {
+          "label": "E",
+          "text": "Congenital fusion into a single cusp"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In older adults the most common cause of aortic stenosis is age-related calcific (degenerative) change, which scars and stiffens the leaflets so they can no longer open fully. Rheumatic disease and congenital bicuspid valves are less common causes and produce different morphology.",
+        "whyCorrect": "In older adults the most common cause of aortic stenosis is age-related calcific (degenerative) change, which scars and stiffens the leaflets so they can no longer open fully. Rheumatic disease and congenital bicuspid valves are less common causes and produce different morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-122_ca010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-123",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This cross-sectioned heart specimen shows marked thickening of the left ventricular wall (arrow). In aortic stenosis this change most directly produces which functional abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated right ventricular failure"
+        },
+        {
+          "label": "B",
+          "text": "Increased ventricular compliance"
+        },
+        {
+          "label": "C",
+          "text": "Aortic valve regurgitation"
+        },
+        {
+          "label": "D",
+          "text": "Systolic dysfunction from ventricular dilation"
+        },
+        {
+          "label": "E",
+          "text": "Diastolic dysfunction from reduced ventricular compliance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic pressure overload causes concentric left ventricular hypertrophy. The thick, stiff wall cannot relax and fill normally, so the ventricle develops diastolic (nonsystolic) dysfunction, reducing end-diastolic volume and stroke volume.",
+        "whyCorrect": "Chronic pressure overload causes concentric left ventricular hypertrophy. The thick, stiff wall cannot relax and fill normally, so the ventricle develops diastolic (nonsystolic) dysfunction, reducing end-diastolic volume and stroke volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-123_ca010_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-124",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This clinical photograph shows bilateral lower-extremity swelling with a persistent indentation left after finger pressure. What does this finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pretibial myxedema"
+        },
+        {
+          "label": "B",
+          "text": "Pitting edema from excess interstitial fluid"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis with abscess formation"
+        },
+        {
+          "label": "D",
+          "text": "Non-pitting lymphedema"
+        },
+        {
+          "label": "E",
+          "text": "Chronic venous stasis hyperpigmentation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome.",
+        "whyCorrect": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-124_ca014_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-125",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This renal biopsy from a patient with long-standing hypertension shows a small arteriole with homogeneous pink wall thickening (arrow) and a markedly narrowed lumen adjacent to a glomerulus. Which vascular lesion does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid angiopathy"
+        },
+        {
+          "label": "D",
+          "text": "Hyaline arteriolosclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Atherosclerotic plaque"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "In type A dissection the intimal flap extends into the aortic root and distorts the normal alignment of the aortic valve leaflets, causing malcoaptation so the cusps cannot close completely, which allows diastolic backflow (regurgitation) rather than obstruction or leaflet destruction.",
-        "whyCorrect": "In type A dissection the intimal flap extends into the aortic root and distorts the normal alignment of the aortic valve leaflets, causing malcoaptation so the cusps cannot close completely, which allows diastolic backflow (regurgitation) rather than obstruction or leaflet destruction.",
+        "summary": "Chronic benign hypertension drives leakage of plasma proteins into the arteriolar wall, producing a homogeneous, glassy (hyaline) thickening that narrows the lumen. This reduces downstream perfusion and contributes to nephrosclerosis. It is distinct from the concentric 'onion-skin' hyperplastic arteriolosclerosis of severe/malignant hypertension.",
+        "whyCorrect": "Chronic benign hypertension drives leakage of plasma proteins into the arteriolar wall, producing a homogeneous, glassy (hyaline) thickening that narrows the lumen. This reduces downstream perfusion and contributes to nephrosclerosis. It is distinct from the concentric 'onion-skin' hyperplastic arteriolosclerosis of severe/malignant hypertension.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "capic-008_ca06_f02.png",
+      "imageRef": "capic-125_ca018_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-126",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This schematic classifies hypertension into two categories based on cause and prevalence. Into which category would a patient found to have primary aldosteronism most appropriately be placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secondary hypertension"
+        },
+        {
+          "label": "B",
+          "text": "White-coat hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Primary hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Malignant hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Prehypertension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagram splits hypertension into primary (90-95%, cause unknown) and secondary (5-10%, identifiable cause such as renovascular or endocrine disease). Primary aldosteronism is an identifiable endocrine cause, so it produces secondary hypertension.",
+        "whyCorrect": "The diagram splits hypertension into primary (90-95%, cause unknown) and secondary (5-10%, identifiable cause such as renovascular or endocrine disease). Primary aldosteronism is an identifiable endocrine cause, so it produces secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-126_ca019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-127",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This illustration of a renal artery shows thickened arterial smooth muscle producing alternating areas of luminal narrowing and dilation. This vascular abnormality is most commonly found in which patient population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infants with congenital renal disease"
+        },
+        {
+          "label": "B",
+          "text": "Elderly men with atherosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Diabetic men over 60"
+        },
+        {
+          "label": "D",
+          "text": "Young women"
+        },
+        {
+          "label": "E",
+          "text": "Postmenopausal women with hyperlipidemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The artery depicts fibromuscular dysplasia, a non-inflammatory, non-atherosclerotic disease that classically affects young women without cardiovascular risk factors and is a leading cause of secondary hypertension from renal artery stenosis in this group.",
+        "whyCorrect": "The artery depicts fibromuscular dysplasia, a non-inflammatory, non-atherosclerotic disease that classically affects young women without cardiovascular risk factors and is a leading cause of secondary hypertension from renal artery stenosis in this group.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-127_ca020_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-128",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This intraoperative photograph of an infant's outflow tract (RV and PA labeled) shows a domed valve with a single raphe. What is the underlying valve abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vegetations from infective endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Rheumatic commissural thickening of the mitral valve"
+        },
+        {
+          "label": "C",
+          "text": "Fused commissures of a bicuspid pulmonary valve"
+        },
+        {
+          "label": "D",
+          "text": "Myxomatous leaflet prolapse"
+        },
+        {
+          "label": "E",
+          "text": "Calcific degeneration of a tricuspid aortic valve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery.",
+        "whyCorrect": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-128_ca021_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-129",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This renal biopsy from a patient with longstanding severe hypertension shows an arteriole whose wall has concentric 'onion-skin' layering that narrows the lumen. What produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proliferation of arteriolar smooth muscle with reduplicated basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Dense inflammatory-cell infiltration of the wall"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of hyaline plasma proteins in the wall"
+        },
+        {
+          "label": "D",
+          "text": "A fibrin thrombus occluding the lumen"
+        },
+        {
+          "label": "E",
+          "text": "Neoplastic proliferation of endothelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia.",
+        "whyCorrect": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-129_ca022_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-130",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This nasal profile, showing collapse of the bridge with a rounded tip, is a classic structural deformity seen in one of the small-vessel vasculitides. Which disease most characteristically produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microscopic polyangiitis"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophilic granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Cryoglobulinemic vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "IgA vasculitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides.",
+        "whyCorrect": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-130_ca026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-131",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The left panel shows small-vessel inflammation with multinucleated giant cells and the right panel shows a lung with a large nodular cavitary lesion. Which disease do these paired histologic and gross findings represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryoglobulinemic vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "IgA vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "D",
+          "text": "Microscopic polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here.",
+        "whyCorrect": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-131_ca026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-132",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This skin shows numerous raised purple-red lesions that can be felt on palpation and do not blanch. What underlying vascular process produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermal melanin deposition"
+        },
+        {
+          "label": "B",
+          "text": "Subcutaneous fat necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Epidermal hyperkeratosis"
+        },
+        {
+          "label": "D",
+          "text": "Extravasation of blood from inflamed small vessels"
+        },
+        {
+          "label": "E",
+          "text": "Platelet-fibrin thrombi occluding arterioles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change.",
+        "whyCorrect": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-132_ca026_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-133",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient has crops of purpuric lesions concentrated on the lower legs and buttocks. In a child presenting with this distribution plus abdominal pain and hematuria, which vasculitis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-GBM disease"
+        },
+        {
+          "label": "B",
+          "text": "IgA vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Microscopic polyangiitis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "Cryoglobulinemic vasculitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children.",
+        "whyCorrect": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-133_ca026_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-134",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This clinical photograph shows a thickened, nodular, cord-like scalp vessel that was tender to palpation in a 72-year-old woman with a new headache and jaw pain while chewing. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giant cell (temporal) arteritis"
+        },
+        {
+          "label": "B",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "C",
+          "text": "Thromboangiitis obliterans (Buerger disease)"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Takayasu arteritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
+        "whyCorrect": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-134_ca027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-135",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This section of a large elastic artery shows destruction and fibrosis of the media with mononuclear infiltrates and occasional giant cells (arrows). Loss of the elastic lamina and muscular media in this disease predisposes the vessel to which structural complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol embolization"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac valve vegetation"
+        },
+        {
+          "label": "C",
+          "text": "Aneurysm formation"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaque deposition"
+        },
+        {
+          "label": "E",
+          "text": "Fatty streak formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
+        "whyCorrect": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-135_ca027_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-136",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This oral finding was noted in a febrile young child who also had bilateral nonexudative conjunctivitis and a truncal rash. What is the most feared long-term complication of the underlying disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ruptured cerebral aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery aneurysm"
+        },
+        {
+          "label": "D",
+          "text": "Renal artery stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
+        "whyCorrect": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-136_ca028_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-137",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A 3-year-old with 5 days of high fever developed this nonspecific truncal eruption along with red eyes and a swollen red tongue. First-line treatment includes high-dose aspirin plus which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "D",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous immunoglobulin (IVIG)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
+        "whyCorrect": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-137_ca028_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-138",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This palmar finding in a child with prolonged fever, conjunctival injection, and mucosal changes is characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "B",
+          "text": "Scarlet fever"
+        },
+        {
+          "label": "C",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "D",
+          "text": "Henoch-Schonlein purpura"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
+        "whyCorrect": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-138_ca028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-139",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This muscle biopsy from a patient with fever, weight loss, and myalgias shows transmural inflammation and bright-pink change of the vessel wall. Chronic infection with which virus is classically associated with the diagnosis shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis A virus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella zoster virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
+        "whyCorrect": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-139_ca028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-140",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This cross-section of an artery showing transmural necrotizing inflammation and fibrinoid necrosis is diagnostic of polyarteritis nodosa. Which organ system is characteristically spared by this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lungs"
+        },
+        {
+          "label": "B",
+          "text": "The kidneys"
+        },
+        {
+          "label": "C",
+          "text": "The skin"
+        },
+        {
+          "label": "D",
+          "text": "The gastrointestinal tract"
+        },
+        {
+          "label": "E",
+          "text": "The peripheral nerves"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
+        "whyCorrect": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-140_ca028_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-141",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This vessel from a young smoker shows a highly cellular inflammatory thrombus occluding the lumen with relative sparing of the vessel wall. Which diagnosis does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "B",
+          "text": "Giant cell arteritis"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
+        "whyCorrect": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-141_ca028_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-142",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The lower panel of this diagram shows the change that has occurred in the artery compared with the upper panel. What is the primary hemodynamic consequence of this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased blood flow from vessel dilation"
+        },
+        {
+          "label": "B",
+          "text": "Reduced blood flow due to luminal narrowing"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary permeability"
+        },
+        {
+          "label": "D",
+          "text": "Loss of arterial pulsatility from wall thinning"
+        },
+        {
+          "label": "E",
+          "text": "Backflow from valve incompetence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
+        "whyCorrect": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-142_ca030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-143",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This arterial cross-section shows a mature atheroma. Rupture of the thin fibrous cap overlying it would most directly precipitate which acute event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of an aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Coronary vasospasm"
+        },
+        {
+          "label": "D",
+          "text": "Chronic stable angina"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis with luminal occlusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
+        "whyCorrect": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-143_ca030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-144",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This opened aorta shows raised yellow lesions on the intimal surface, some ulcerated with overlying thrombus. These lesions represent what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Syphilitic gummas"
+        },
+        {
+          "label": "C",
+          "text": "Thrombi within an otherwise normal wall"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaques (atheromas)"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinous exudate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
+        "whyCorrect": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-144_ca030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-145",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen of a mitral valve shows friable masses attached to the leaflet edges. What do these masses most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myxomatous nodules from degeneration"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial vegetations"
+        },
+        {
+          "label": "C",
+          "text": "Organized mural thrombus"
+        },
+        {
+          "label": "D",
+          "text": "Lambl excrescences"
+        },
+        {
+          "label": "E",
+          "text": "Calcific deposits along the annulus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Irregular, friable masses along the leaflet closure line are vegetations of infective endocarditis, composed of fibrin, platelets, and microorganisms, which can destroy leaflet tissue and cause acute regurgitation.",
+        "whyCorrect": "Irregular, friable masses along the leaflet closure line are vegetations of infective endocarditis, composed of fibrin, platelets, and microorganisms, which can destroy leaflet tissue and cause acute regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-145_ca032_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-146",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This resected mitral valve specimen shows leaflets that are thickened, redundant, and floppy. What underlying process best explains this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital leaflet cleft"
+        },
+        {
+          "label": "B",
+          "text": "Dystrophic calcification of the annulus"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatic commissural fusion"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic papillary muscle rupture"
+        },
+        {
+          "label": "E",
+          "text": "Myxomatous degeneration of the leaflet connective tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Excess spongiosa (myxomatous) connective tissue thickens and enlarges the leaflets, weakening the chordae and widening the annulus, producing mitral valve prolapse and regurgitation.",
+        "whyCorrect": "Excess spongiosa (myxomatous) connective tissue thickens and enlarges the leaflets, weakening the chordae and widening the annulus, producing mitral valve prolapse and regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-146_ca032_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-147",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen shows a longitudinally opened common carotid artery at its bifurcation, with a bulky, irregular yellow-tan mass narrowing the lumen. What is the primary pathological process responsible for the narrowing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque formation"
+        },
+        {
+          "label": "B",
+          "text": "Fibromuscular dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Vasculitis (giant cell arteritis)"
+        },
+        {
+          "label": "D",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "E",
+          "text": "Spontaneous arterial dissection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli.",
+        "whyCorrect": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-147_ca033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-148",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These lower limbs belong to a patient with long-standing peripheral arterial disease. Which chronic finding is most clearly demonstrated by the appearance of the legs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis of the lower leg"
+        },
+        {
+          "label": "B",
+          "text": "Pitting edema from heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Muscle atrophy from chronic ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Acute swelling of deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Lymphedema from lymphatic obstruction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
+        "whyCorrect": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-148_ca035_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-149",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen shows a transversely sectioned heart with early ischemic injury. What histochemical technique is classically used to reveal an early (few-hour-old) infarct that is not yet visible on routine gross inspection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prussian blue staining"
+        },
+        {
+          "label": "B",
+          "text": "Periodic acid-Schiff staining"
+        },
+        {
+          "label": "C",
+          "text": "Oil red O staining"
+        },
+        {
+          "label": "D",
+          "text": "Triphenyltetrazolium chloride (TTC) staining"
+        },
+        {
+          "label": "E",
+          "text": "Congo red staining"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the first several hours after an MI there are no visible gross changes. TTC is reduced by intact dehydrogenase enzymes in viable myocardium to a brick-red color, so infarcted tissue that has lost these enzymes remains pale/unstained, allowing early infarcts to be demonstrated.",
+        "whyCorrect": "In the first several hours after an MI there are no visible gross changes. TTC is reduced by intact dehydrogenase enzymes in viable myocardium to a brick-red color, so infarcted tissue that has lost these enzymes remains pale/unstained, allowing early infarcts to be demonstrated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-149_ca037_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-150",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This myocardial micrograph shows coagulative necrosis with a dense inflammatory infiltrate. Approximately how long after the MI does this histologic picture typically appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "More than 8 weeks"
+        },
+        {
+          "label": "B",
+          "text": "3 to 10 days"
+        },
+        {
+          "label": "C",
+          "text": "1 to 2 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Within the first 4 hours"
+        },
+        {
+          "label": "E",
+          "text": "1 to 3 days"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The dense neutrophilic infiltrate seen here is characteristic of the 1-3 day window after an MI. Neutrophils arrive to clear debris left behind by the dead myocytes, while coagulative necrosis (bright pink cells retaining outlines but lacking nuclei) is still present.",
+        "whyCorrect": "The dense neutrophilic infiltrate seen here is characteristic of the 1-3 day window after an MI. Neutrophils arrive to clear debris left behind by the dead myocytes, while coagulative necrosis (bright pink cells retaining outlines but lacking nuclei) is still present.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-150_ca037_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-151",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This micrograph shows the end-stage healed lesion of a prior myocardial infarction. What functional consequence does this tissue impose on the affected region of myocardium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is noncontractile and does not conduct electrical impulses"
+        },
+        {
+          "label": "B",
+          "text": "It regenerates into new functional cardiomyocytes"
+        },
+        {
+          "label": "C",
+          "text": "It conducts impulses faster than surrounding myocardium"
+        },
+        {
+          "label": "D",
+          "text": "It actively secretes natriuretic peptides"
+        },
+        {
+          "label": "E",
+          "text": "It contracts more forcefully than normal myocardium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mature scar is composed of dense layers of collagen laid down by fibroblasts. Unlike myocardium it neither contracts nor conducts electricity, which produces chronic ECG abnormalities (e.g., pathologic Q waves) and reduced contractile function.",
+        "whyCorrect": "The mature scar is composed of dense layers of collagen laid down by fibroblasts. Unlike myocardium it neither contracts nor conducts electricity, which produces chronic ECG abnormalities (e.g., pathologic Q waves) and reduced contractile function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-151_ca037_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-152",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This micrograph shows myocardium after reperfusion of an infarct. What mechanism produces the thick, intensely eosinophilic transverse bands seen here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophil-mediated enzymatic digestion of the myocytes"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblast-driven collagen deposition"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid deposition within the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial invasion of the necrotic tissue"
+        },
+        {
+          "label": "E",
+          "text": "Calcium influx into reperfused myocytes causing hypercontraction of sarcomeres"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When an infarcted vessel is reopened, an influx of calcium into damaged, reperfused myocytes causes uncontrolled hypercontraction of the muscle fibers. This forms the thick eosinophilic contraction bands (about 4-5 micrometers wide) that span the short axis of the myocyte, a hallmark of reperfusion injury.",
+        "whyCorrect": "When an infarcted vessel is reopened, an influx of calcium into damaged, reperfused myocytes causes uncontrolled hypercontraction of the muscle fibers. This forms the thick eosinophilic contraction bands (about 4-5 micrometers wide) that span the short axis of the myocyte, a hallmark of reperfusion injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-152_ca037_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-153",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These paired cross-sections of the ventricular wall contrast two depths of ischemic injury and their ST effects. Which region of the myocardium is the most vulnerable to ischemia and therefore the first to be affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The subendocardial layer"
+        },
+        {
+          "label": "B",
+          "text": "The mid-myocardial layer"
+        },
+        {
+          "label": "C",
+          "text": "The pericardium"
+        },
+        {
+          "label": "D",
+          "text": "The endocardial surface of the atria"
+        },
+        {
+          "label": "E",
+          "text": "The epicardial layer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The subendocardium is farthest from the epicardial coronary supply and endures the highest wall stress, making it the most vulnerable layer and the first affected. Injury limited to it (illustration A) causes ST depression, whereas transmural injury extending to the epicardium (illustration B) causes ST elevation.",
+        "whyCorrect": "The subendocardium is farthest from the epicardial coronary supply and endures the highest wall stress, making it the most vulnerable layer and the first affected. Injury limited to it (illustration A) causes ST depression, whereas transmural injury extending to the epicardium (illustration B) causes ST elevation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-153_ca038_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-154",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient's right leg shows unilateral swelling and erythema. Which condition is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Ruptured Baker cyst"
+        },
+        {
+          "label": "C",
+          "text": "Lower extremity lymphedema"
+        },
+        {
+          "label": "D",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral chronic venous insufficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis.",
+        "whyCorrect": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-154_ca040_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-155",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This markedly edematous and cyanotic limb resulting from massive iliofemoral venous occlusion represents which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phlegmasia cerulea dolens"
+        },
+        {
+          "label": "B",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "C",
+          "text": "Acute limb ischemia from an arterial embolus"
+        },
+        {
+          "label": "D",
+          "text": "Acute compartment syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Cellulitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency.",
+        "whyCorrect": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-155_ca040_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-156",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The engorged, serpiginous superficial veins seen bulging on this patient's leg develop primarily because of which underlying abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstruction of lymphatic drainage channels"
+        },
+        {
+          "label": "B",
+          "text": "Inflammatory destruction of capillary walls"
+        },
+        {
+          "label": "C",
+          "text": "Acute thrombotic occlusion of a deep vein"
+        },
+        {
+          "label": "D",
+          "text": "Incompetent venous valves permitting retrograde (reflux) blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Atherosclerotic narrowing of the leg arteries"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Varicose veins result from failure (incompetence) of the one-way venous valves, allowing blood to flow backward and pool, which dilates and distends the superficial veins into the characteristic tortuous appearance.",
+        "whyCorrect": "Varicose veins result from failure (incompetence) of the one-way venous valves, allowing blood to flow backward and pool, which dilates and distends the superficial veins into the characteristic tortuous appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-156_ca042_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-157",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This illustration depicts two mechanical failures of the mitral valve apparatus that allow a leaflet to flail. Both lead most directly to which acute clinical consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Acute mitral regurgitation with pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic mitral stenosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rupture of the chordae tendineae or a papillary muscle lets a leaflet flail into the left atrium, producing sudden severe regurgitation into a non-compliant LA and flash pulmonary edema.",
+        "whyCorrect": "Rupture of the chordae tendineae or a papillary muscle lets a leaflet flail into the left atrium, producing sudden severe regurgitation into a non-compliant LA and flash pulmonary edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-157_ca043_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-158",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen of a mitral valve shows bulky, friable masses along the leaflet margins. These lesions are most characteristic of which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Papillary fibroelastoma"
+        },
+        {
+          "label": "B",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatic valvulitis"
+        },
+        {
+          "label": "D",
+          "text": "Myxomatous degeneration"
+        },
+        {
+          "label": "E",
+          "text": "Nonbacterial thrombotic endocarditis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Friable vegetations composed of organisms, fibrin, and inflammatory cells on the leaflet margins are the hallmark of infective endocarditis, which can destroy leaflet tissue and cause acute MR.",
+        "whyCorrect": "Friable vegetations composed of organisms, fibrin, and inflammatory cells on the leaflet margins are the hallmark of infective endocarditis, which can destroy leaflet tissue and cause acute MR.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-158_ca043_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-159",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The heart on the right shows a thickened ventricular wall with a smaller chamber cavity compared with the normal heart on the left. This geometry most directly predisposes to which functional type of heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heart failure with preserved ejection fraction (diastolic dysfunction)"
+        },
+        {
+          "label": "B",
+          "text": "Acute valvular regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Heart failure with reduced ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "High-output heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Right-sided failure from cor pulmonale"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
+        "whyCorrect": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-159_ca052_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-160",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The far-right branch of this classification of edema causes points to a protein-losing renal process. Which single laboratory abnormality would you most expect to underlie that branch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypernatremia"
+        },
+        {
+          "label": "B",
+          "text": "Hypercalcemia"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "Hypoalbuminemia"
+        },
+        {
+          "label": "E",
+          "text": "Elevated serum creatine kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium.",
+        "whyCorrect": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-160_ca053_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-161",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross cross-section of a heart shows a spherical shape with markedly dilated ventricular cavities and thin walls. Which condition does it best demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "A structurally normal heart"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac amyloidosis"
+        },
+        {
+          "label": "D",
+          "text": "Acute myocardial infarction"
+        },
+        {
+          "label": "E",
+          "text": "Hypertrophic cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy.",
+        "whyCorrect": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-161_ca057_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-162",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This panel shows four cross-sections of the same valve arranged left to right. What pathological process best explains the progressive change from the leftmost to the rightmost image?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infective endocarditis vegetations perforating the leaflets"
+        },
+        {
+          "label": "B",
+          "text": "Rheumatic commissural fusion producing a fish-mouth mitral orifice"
+        },
+        {
+          "label": "C",
+          "text": "Congenital leaflet fenestration widening the effective orifice"
+        },
+        {
+          "label": "D",
+          "text": "Progressive fibrocalcific thickening and calcification of the valve leaflets narrowing the orifice"
+        },
+        {
+          "label": "E",
+          "text": "Myxomatous degeneration causing leaflet redundancy and prolapse"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The series depicts degrees of aortic stenosis, from a normal tricuspid valve through aortic sclerosis to severe stenosis. The narrowing results from age-related and atherosclerotic-type fibrocalcific remodeling that thickens and calcifies the leaflets, progressively reducing the systolic orifice area.",
+        "whyCorrect": "The series depicts degrees of aortic stenosis, from a normal tricuspid valve through aortic sclerosis to severe stenosis. The narrowing results from age-related and atherosclerotic-type fibrocalcific remodeling that thickens and calcifies the leaflets, progressively reducing the systolic orifice area.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-162_ca062_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-163",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This illustration depicts acute type A aortic dissection complicated by aortic regurgitation. What is the mechanism by which the dissection produces valvular incompetence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic scarring shortens the chordae tendineae"
+        },
+        {
+          "label": "B",
+          "text": "Vegetations deposited on the cusps hold the valve open"
+        },
+        {
+          "label": "C",
+          "text": "Dilation of the mitral annulus pulls the aortic cusps apart"
+        },
+        {
+          "label": "D",
+          "text": "The dissection flap distorts leaflet alignment, preventing full coaptation of the aortic cusps"
+        },
+        {
+          "label": "E",
+          "text": "Calcific stiffening fuses the cusps and blocks forward flow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease.",
+        "whyCorrect": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-163_ca063_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-164",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The lower panel shows rupture of the posteromedial papillary muscle producing a flail mitral leaflet. Occlusion of which single vessel classically causes this because that muscle has a solitary blood supply?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left main coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "Obtuse marginal artery"
+        },
+        {
+          "label": "C",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "D",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "E",
+          "text": "Right coronary artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The posteromedial papillary muscle usually has a single blood supply (typically from the RCA-dependent posterior descending artery), so it is far more vulnerable to infarction and rupture than the dual-supplied anterolateral muscle.",
+        "whyCorrect": "The posteromedial papillary muscle usually has a single blood supply (typically from the RCA-dependent posterior descending artery), so it is far more vulnerable to infarction and rupture than the dual-supplied anterolateral muscle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-164_ca065_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-165",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This diagram contrasts a normal heart with a congenital condition in which the tricuspid valve is elongated and displaced apically toward the right ventricle, creating an atrialized ventricular segment and an associated atrial septal defect. Maternal use of which medication during pregnancy increases the risk of this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isotretinoin"
+        },
+        {
+          "label": "B",
+          "text": "Lithium"
+        },
+        {
+          "label": "C",
+          "text": "Valproate"
+        },
+        {
+          "label": "D",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The depicted anomaly is Ebstein anomaly, characterized by apical displacement of the tricuspid valve and an atrialized right ventricle. Maternal lithium exposure during pregnancy is the classic teratogenic association. Warfarin causes fetal warfarin syndrome, isotretinoin causes craniofacial/CNS defects, and valproate causes neural tube defects.",
+        "whyCorrect": "The depicted anomaly is Ebstein anomaly, characterized by apical displacement of the tricuspid valve and an atrialized right ventricle. Maternal lithium exposure during pregnancy is the classic teratogenic association. Warfarin causes fetal warfarin syndrome, isotretinoin causes craniofacial/CNS defects, and valproate causes neural tube defects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-165_ca066_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-166",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This histologic image shows surface deposits on the pericardium in the most common form of acute pericarditis. What is the classic gross descriptive term applied to this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\"Onion skin\" appearance"
+        },
+        {
+          "label": "B",
+          "text": "\"Ground glass\" appearance"
+        },
+        {
+          "label": "C",
+          "text": "\"Bread and butter\" appearance"
+        },
+        {
+          "label": "D",
+          "text": "\"Nutmeg\" appearance"
+        },
+        {
+          "label": "E",
+          "text": "\"Fried egg\" appearance"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibrinous pericarditis, the most common type, deposits fibrin on the pericardial surfaces producing the classic 'bread and butter' appearance.",
+        "whyCorrect": "Fibrinous pericarditis, the most common type, deposits fibrin on the pericardial surfaces producing the classic 'bread and butter' appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-166_ca070_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-167",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen shows the pericardial cavity filled with a thick, opaque exudate. This finding is most characteristic of pericarditis caused by which etiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uremia"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune disease"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "D",
+          "text": "Ionizing radiation"
+        },
+        {
+          "label": "E",
+          "text": "Viral infection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Purulent pericarditis, marked by pus within the pericardial cavity, is typically caused by bacterial infection (e.g., Staphylococcus aureus).",
+        "whyCorrect": "Purulent pericarditis, marked by pus within the pericardial cavity, is typically caused by bacterial infection (e.g., Staphylococcus aureus).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-167_ca070_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-168",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross valve specimen shows sterile vegetations distributed along the free margins of the leaflet in a patient with systemic lupus erythematosus. What eponymous term is used for this pattern of endocarditis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoid-related valve fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Acute infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatic valvulitis with commissural fusion"
+        },
+        {
+          "label": "D",
+          "text": "Marantic endocarditis of underlying malignancy"
+        },
+        {
+          "label": "E",
+          "text": "Libman-Sacks endocarditis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The sterile vegetations of SLE that form along leaflet margins (and can occur on both surfaces of the valve) are termed Libman-Sacks endocarditis, a form of NBTE.",
+        "whyCorrect": "The sterile vegetations of SLE that form along leaflet margins (and can occur on both surfaces of the valve) are termed Libman-Sacks endocarditis, a form of NBTE.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-168_ca075_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-169",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen shows a heart whose pericardial surface is coated with a thick, opaque, grossly purulent exudate. What organism is the most common cause of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus B"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus viridans"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Purulent (bacterial) pericarditis produces grossly purulent pericardial fluid and is most commonly caused by Staphylococcus aureus.",
+        "whyCorrect": "Purulent (bacterial) pericarditis produces grossly purulent pericardial fluid and is most commonly caused by Staphylococcus aureus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-169_ca075_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-170",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The right-hand illustration contrasts a normal heart with an obstructive right-sided valvular lesion. Long-standing disease of this type leads to hypertrophy of which chamber?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both ventricles equally"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Right atrium"
+        },
+        {
+          "label": "D",
+          "text": "Left atrium"
+        },
+        {
+          "label": "E",
+          "text": "Right ventricle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure.",
+        "whyCorrect": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-170_ca078_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-171",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The right-hand illustration contrasts a normal heart with an obstructive left-sided valvular lesion. This congenital lesion most commonly results from which valve morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quadricuspid aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Ebstein anomaly of the valve"
+        },
+        {
+          "label": "C",
+          "text": "Unicuspid aortic valve"
+        },
+        {
+          "label": "D",
+          "text": "Fused mitral commissures"
+        },
+        {
+          "label": "E",
+          "text": "Bicuspid aortic valve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time.",
+        "whyCorrect": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-171_ca078_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-172",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This clinical photograph shows simultaneous pulse-oximetry readings from a foot and a hand in a patient with congenital heart disease. What phenomenon does the disparity demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methemoglobinemia"
+        },
+        {
+          "label": "B",
+          "text": "Differential cyanosis"
+        },
+        {
+          "label": "C",
+          "text": "Newborn acrocyanosis"
+        },
+        {
+          "label": "D",
+          "text": "Central cyanosis"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral vasoconstriction from shock"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A right-to-left shunt through a PDA delivers deoxygenated blood to the descending aorta distal to the head/arm vessels, so the lower extremities read a lower saturation than the upper extremities, producing differential cyanosis.",
+        "whyCorrect": "A right-to-left shunt through a PDA delivers deoxygenated blood to the descending aorta distal to the head/arm vessels, so the lower extremities read a lower saturation than the upper extremities, producing differential cyanosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-172_ca079_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-173",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This fingertip finding developed gradually in a patient with long-standing cyanotic congenital heart disease. What process is most directly responsible for it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial occlusion causing digital ischemia"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune synovial inflammation of the interphalangeal joints"
+        },
+        {
+          "label": "C",
+          "text": "Acute bacterial infection of the nail bed"
+        },
+        {
+          "label": "D",
+          "text": "Chronic hypoxemia driving distal soft-tissue proliferation"
+        },
+        {
+          "label": "E",
+          "text": "Deposition of urate crystals in the distal joints"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The photograph shows digital clubbing, with loss of the normal nail-fold angle and bulbous fingertips. In cyanotic CHD such as tetralogy of Fallot, chronic hypoxemia promotes release of platelet-derived growth factor and VEGF, causing connective-tissue proliferation in the distal digits.",
+        "whyCorrect": "The photograph shows digital clubbing, with loss of the normal nail-fold angle and bulbous fingertips. In cyanotic CHD such as tetralogy of Fallot, chronic hypoxemia promotes release of platelet-derived growth factor and VEGF, causing connective-tissue proliferation in the distal digits.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-173_ca080_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-174",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross image shows a heart valve leaflet studded with small growths along its margin, with the underlying chordae visible. Which underlying condition most characteristically produces these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age-related degenerative calcification"
+        },
+        {
+          "label": "B",
+          "text": "A hypercoagulable state such as malignancy or SLE"
+        },
+        {
+          "label": "C",
+          "text": "A congenital bicuspid malformation"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial seeding during transient bacteremia"
+        },
+        {
+          "label": "E",
+          "text": "Post-streptococcal rheumatic scarring"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The sterile platelet-fibrin vegetations shown form on the valve cusp margins in nonbacterial thrombotic endocarditis, which arises from hypercoagulable states such as advanced malignancy, SLE (Libman-Sacks), or antiphospholipid syndrome rather than from infection or inflammation.",
+        "whyCorrect": "The sterile platelet-fibrin vegetations shown form on the valve cusp margins in nonbacterial thrombotic endocarditis, which arises from hypercoagulable states such as advanced malignancy, SLE (Libman-Sacks), or antiphospholipid syndrome rather than from infection or inflammation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-174_ca081_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-175",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This histologic section shows eosinophilic strands deposited on a thickened, inflamed visceral pericardial surface. This pathologic process classically produces which physical examination finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pericardial friction rub on auscultation"
+        },
+        {
+          "label": "B",
+          "text": "A pericardial knock in early diastole"
+        },
+        {
+          "label": "C",
+          "text": "An S3 gallop at the apex"
+        },
+        {
+          "label": "D",
+          "text": "An opening snap after S2"
+        },
+        {
+          "label": "E",
+          "text": "A continuous machinery murmur"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The image shows acute fibrinous pericarditis, with fibrin deposited on the inflamed pericardium. The roughened, fibrin-coated surfaces sliding against each other create the classic scratchy pericardial friction rub heard on auscultation.",
+        "whyCorrect": "The image shows acute fibrinous pericarditis, with fibrin deposited on the inflamed pericardium. The roughened, fibrin-coated surfaces sliding against each other create the classic scratchy pericardial friction rub heard on auscultation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-175_ca082_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-176",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen shows thick, opaque purulent material filling the pericardial cavity. This finding is most characteristically caused by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "B",
+          "text": "Viral (coxsackievirus) infection"
+        },
+        {
+          "label": "C",
+          "text": "Uremia from chronic kidney disease"
+        },
+        {
+          "label": "D",
+          "text": "Post-myocardial infarction (Dressler) autoimmune reaction"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Purulent pericarditis, with frank pus in the pericardial space, is characteristically bacterial in origin. Viral, uremic, and autoimmune causes typically produce serous or fibrinous rather than frankly purulent exudates.",
+        "whyCorrect": "Purulent pericarditis, with frank pus in the pericardial space, is characteristically bacterial in origin. Viral, uremic, and autoimmune causes typically produce serous or fibrinous rather than frankly purulent exudates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-176_ca082_f03.png",
       "tags": [
         "picture"
       ]
