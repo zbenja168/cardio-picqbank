@@ -1,0 +1,279 @@
+{
+  "categoryId": "starling-forces",
+  "categoryName": "Starling Forces",
+  "questions": [
+    {
+      "id": "capic-034",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This figure compares three capillary wall structures. Which type is found in organs such as the liver and bone marrow and is the most permeable, allowing passage of plasma proteins and cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tight-junction capillary of the blood-brain barrier"
+        },
+        {
+          "label": "B",
+          "text": "Discontinuous (sinusoidal) capillary"
+        },
+        {
+          "label": "C",
+          "text": "Fenestrated capillary"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic capillary"
+        },
+        {
+          "label": "E",
+          "text": "Continuous capillary"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Discontinuous (sinusoidal) capillaries have large gaps in their wall, making them highly permeable; they are found where large substances and cells must cross, such as liver, spleen, and bone marrow.",
+        "whyCorrect": "Discontinuous (sinusoidal) capillaries have large gaps in their wall, making them highly permeable; they are found where large substances and cells must cross, such as liver, spleen, and bone marrow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-034_ca014_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-124",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This clinical photograph shows bilateral lower-extremity swelling with a persistent indentation left after finger pressure. What does this finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pretibial myxedema"
+        },
+        {
+          "label": "B",
+          "text": "Pitting edema from excess interstitial fluid"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis with abscess formation"
+        },
+        {
+          "label": "D",
+          "text": "Non-pitting lymphedema"
+        },
+        {
+          "label": "E",
+          "text": "Chronic venous stasis hyperpigmentation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome.",
+        "whyCorrect": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-124_ca014_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-203",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This schematic shows fluid exchange across a capillary bed, including a blind-ended vessel (bottom) draining the surrounding interstitium. What is the primary role of that blind-ended vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It generates the capillary hydrostatic pressure that drives filtration"
+        },
+        {
+          "label": "B",
+          "text": "It delivers freshly oxygenated blood to the tissues"
+        },
+        {
+          "label": "C",
+          "text": "It secretes plasma proteins directly into the interstitium"
+        },
+        {
+          "label": "D",
+          "text": "It returns excess interstitial fluid and leaked proteins back to the circulation"
+        },
+        {
+          "label": "E",
+          "text": "It is the principal site of alveolar gas exchange"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The blind-ended lymphatic capillary collects the small excess of filtered fluid and proteins not reabsorbed at the venular end, returning them to the venous circulation and preventing interstitial fluid accumulation (edema).",
+        "whyCorrect": "The blind-ended lymphatic capillary collects the small excess of filtered fluid and proteins not reabsorbed at the venular end, returning them to the venous circulation and preventing interstitial fluid accumulation (edema).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-203_ca014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-204",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "In this diagram of the body fluid compartments, which structure separates the two compartments that together constitute the extracellular fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The capillary wall, which separates plasma from interstitial fluid"
+        },
+        {
+          "label": "B",
+          "text": "The blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "The lymphatic endothelium"
+        },
+        {
+          "label": "D",
+          "text": "The cell membrane, which separates interstitial from intracellular fluid"
+        },
+        {
+          "label": "E",
+          "text": "The glomerular basement membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Extracellular fluid comprises plasma (intravascular) and interstitial fluid; these are separated by the capillary wall. The cell membrane instead separates extracellular from intracellular fluid.",
+        "whyCorrect": "Extracellular fluid comprises plasma (intravascular) and interstitial fluid; these are separated by the capillary wall. The cell membrane instead separates extracellular from intracellular fluid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-204_ca014_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-205",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This figure depicts how capillary hydrostatic pressure changes from the arteriolar to the venular end. Why does net filtration predominate at the arteriolar end?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary oncotic pressure is highest at the arteriolar end"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic drainage is greatest at the arteriolar end"
+        },
+        {
+          "label": "C",
+          "text": "Interstitial hydrostatic pressure is strongly positive at the arteriolar end"
+        },
+        {
+          "label": "D",
+          "text": "Capillary hydrostatic pressure there exceeds the opposing oncotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "The capillary wall is impermeable at the arteriolar end"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At the arteriolar end, high capillary hydrostatic pressure outweighs the relatively constant oncotic pressure, driving fluid out (filtration); pressure falls toward the venular end, where reabsorption dominates.",
+        "whyCorrect": "At the arteriolar end, high capillary hydrostatic pressure outweighs the relatively constant oncotic pressure, driving fluid out (filtration); pressure falls toward the venular end, where reabsorption dominates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-205_ca014_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-206",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "In this figure, hydrostatic pressure (blue arrows) declines along the capillary length while oncotic pressure (orange) stays relatively constant. What is the net result at the venular end?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversal of the direction of blood flow"
+        },
+        {
+          "label": "B",
+          "text": "No net movement of fluid"
+        },
+        {
+          "label": "C",
+          "text": "Maximal filtration into the lymphatics"
+        },
+        {
+          "label": "D",
+          "text": "Net reabsorption of fluid into the capillary"
+        },
+        {
+          "label": "E",
+          "text": "Net filtration of fluid out of the capillary"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because hydrostatic pressure falls below the roughly constant oncotic pressure toward the venular end, the balance of Starling forces favors reabsorption of fluid back into the capillary.",
+        "whyCorrect": "Because hydrostatic pressure falls below the roughly constant oncotic pressure toward the venular end, the balance of Starling forces favors reabsorption of fluid back into the capillary.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-206_ca014_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-207",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Given the balance of hydrostatic and oncotic pressures depicted at this distal (venular) capillary, what is the direction of net fluid movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluid moves only into the lymphatic vessels"
+        },
+        {
+          "label": "B",
+          "text": "Filtration, with fluid moving out of the capillary into the interstitium"
+        },
+        {
+          "label": "C",
+          "text": "Reabsorption, with fluid moving from the interstitium into the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Bidirectional oscillating flow with each heartbeat"
+        },
+        {
+          "label": "E",
+          "text": "No net movement, because the forces are exactly balanced"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At the distal capillary the capillary oncotic pressure exceeds the reduced hydrostatic pressure, so the net Starling force draws fluid back into the vessel (reabsorption).",
+        "whyCorrect": "At the distal capillary the capillary oncotic pressure exceeds the reduced hydrostatic pressure, so the net Starling force draws fluid back into the vessel (reabsorption).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-207_ca014_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

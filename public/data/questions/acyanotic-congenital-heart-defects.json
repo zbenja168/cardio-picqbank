@@ -1,0 +1,240 @@
+{
+  "categoryId": "acyanotic-congenital-heart-defects",
+  "categoryName": "Acyanotic Congenital Heart Defects",
+  "questions": [
+    {
+      "id": "capic-053",
+      "topicId": "acyanotic-congenital-heart-defects",
+      "topicName": "Acyanotic Congenital Heart Defects",
+      "stem": "In this color-Doppler echocardiogram of a patent ductus arteriosus, what does the bright mosaic (multicolored) signal at the pulmonary-artery end most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal antegrade flow across the pulmonary valve"
+        },
+        {
+          "label": "B",
+          "text": "Turbulent, high-velocity shunt flow producing color aliasing"
+        },
+        {
+          "label": "C",
+          "text": "Laminar low-velocity systemic venous return"
+        },
+        {
+          "label": "D",
+          "text": "Motion artifact from transducer movement"
+        },
+        {
+          "label": "E",
+          "text": "A calcified thrombus occluding the duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The high pressure gradient from aorta to pulmonary artery accelerates flow through the duct; the resulting turbulence exceeds the Nyquist limit and appears as a mosaic of aliased colors on Doppler.",
+        "whyCorrect": "The high pressure gradient from aorta to pulmonary artery accelerates flow through the duct; the resulting turbulence exceeds the Nyquist limit and appears as a mosaic of aliased colors on Doppler.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-053_ca007_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-185",
+      "topicId": "acyanotic-congenital-heart-defects",
+      "topicName": "Acyanotic Congenital Heart Defects",
+      "stem": "This photograph shows a patient with a PDA whose lower-extremity oxygen saturation (foot probe) is markedly lower than the upper-extremity saturation (hand probe). What mechanism best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A left-to-right shunt through an atrial septal defect"
+        },
+        {
+          "label": "B",
+          "text": "Right-to-left shunting of deoxygenated blood into the aorta distal to the origin of the head/arm vessels"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral vasoconstriction from systemic hypothermia"
+        },
+        {
+          "label": "D",
+          "text": "Aortic coarctation located proximal to the left subclavian artery"
+        },
+        {
+          "label": "E",
+          "text": "Methemoglobinemia selectively affecting the lower limbs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In Eisenmenger physiology the reversed PDA shunt delivers deoxygenated blood to the descending aorta beyond the arch vessels, so the legs appear cyanotic (differential cyanosis) while the upper body remains pink.",
+        "whyCorrect": "In Eisenmenger physiology the reversed PDA shunt delivers deoxygenated blood to the descending aorta beyond the arch vessels, so the legs appear cyanotic (differential cyanosis) while the upper body remains pink.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-185_ca007_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-186",
+      "topicId": "acyanotic-congenital-heart-defects",
+      "topicName": "Acyanotic Congenital Heart Defects",
+      "stem": "This schematic depicts an atrial septal defect. Why does blood cross the defect in the direction shown rather than the reverse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left atrial pressure normally exceeds right atrial pressure"
+        },
+        {
+          "label": "B",
+          "text": "The septal defect actively pumps blood toward the left"
+        },
+        {
+          "label": "C",
+          "text": "Right atrial pressure normally exceeds left atrial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary artery pressure exceeds systemic arterial pressure"
+        },
+        {
+          "label": "E",
+          "text": "Gravity directs blood across the interatrial septum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because the left atrium operates at higher pressure than the right, an interatrial communication produces a left-to-right shunt, increasing pulmonary blood flow.",
+        "whyCorrect": "Because the left atrium operates at higher pressure than the right, an interatrial communication produces a left-to-right shunt, increasing pulmonary blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-186_ca007_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-187",
+      "topicId": "acyanotic-congenital-heart-defects",
+      "topicName": "Acyanotic Congenital Heart Defects",
+      "stem": "This diagram shows the normal sequence of fetal atrial septation. Failure of the septum primum to fuse with the endocardial cushions produces which type of defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patent foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "Sinus venosus defect"
+        },
+        {
+          "label": "C",
+          "text": "Ostium secundum atrial septal defect"
+        },
+        {
+          "label": "D",
+          "text": "Coronary sinus defect"
+        },
+        {
+          "label": "E",
+          "text": "Ostium primum atrial septal defect"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Persistence of the ostium primum from incomplete fusion of the septum primum with the endocardial cushions yields a primum ASD, located low in the atrial septum.",
+        "whyCorrect": "Persistence of the ostium primum from incomplete fusion of the septum primum with the endocardial cushions yields a primum ASD, located low in the atrial septum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-187_ca007_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-188",
+      "topicId": "acyanotic-congenital-heart-defects",
+      "topicName": "Acyanotic Congenital Heart Defects",
+      "stem": "This diagram illustrates formation of the interventricular septum. The membranous portion forms from fusion of the endocardial cushions, the aorticopulmonary septum, and which additional structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The septum secundum"
+        },
+        {
+          "label": "B",
+          "text": "The foramen ovale"
+        },
+        {
+          "label": "C",
+          "text": "The muscular interventricular septum"
+        },
+        {
+          "label": "D",
+          "text": "The sinus venosus"
+        },
+        {
+          "label": "E",
+          "text": "The crista terminalis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The membranous IV septum completes when the muscular septum, the endocardial cushions, and the aorticopulmonary (conotruncal) septum meet; failure of this fusion is the most common cause of a VSD.",
+        "whyCorrect": "The membranous IV septum completes when the muscular septum, the endocardial cushions, and the aorticopulmonary (conotruncal) septum meet; failure of this fusion is the most common cause of a VSD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-188_ca007_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-189",
+      "topicId": "acyanotic-congenital-heart-defects",
+      "topicName": "Acyanotic Congenital Heart Defects",
+      "stem": "Comparing the normal heart with the heart with a VSD in this diagram, why is the oxygen saturation in the right ventricle higher than normal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary sinus blood draining into the right ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Retrograde flow from aortic valve regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Right-to-left shunting of deoxygenated blood"
+        },
+        {
+          "label": "D",
+          "text": "Increased oxygen extraction by the pulmonary circulation"
+        },
+        {
+          "label": "E",
+          "text": "Left-to-right shunting of oxygenated blood across the septal defect"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oxygenated LV blood crosses the VSD into the RV, raising RV oxygen saturation (an oxygen 'step-up') detectable on catheterization.",
+        "whyCorrect": "Oxygenated LV blood crosses the VSD into the RV, raising RV oxygen saturation (an oxygen 'step-up') detectable on catheterization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-189_ca007_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

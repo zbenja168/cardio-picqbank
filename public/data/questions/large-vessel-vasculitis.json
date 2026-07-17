@@ -1,0 +1,240 @@
+{
+  "categoryId": "large-vessel-vasculitis",
+  "categoryName": "Large-Vessel Vasculitis",
+  "questions": [
+    {
+      "id": "capic-009",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This diagram of the head and neck arterial tree illustrates the vessels relevant to the most feared complication of giant cell arteritis. Which complication does occlusion within this arterial supply produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scalp necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic stroke"
+        },
+        {
+          "label": "C",
+          "text": "Sensorineural hearing loss"
+        },
+        {
+          "label": "D",
+          "text": "Permanent vision loss (blindness)"
+        },
+        {
+          "label": "E",
+          "text": "Facial nerve palsy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return.",
+        "whyCorrect": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-009_ca027_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-040",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This H&E section of an artery from an elderly patient shows dense inflammation with multinucleated cells extending across the vessel wall and a markedly narrowed lumen. This inflammatory process most classically involves which portion of the vessel wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All layers (transmural)"
+        },
+        {
+          "label": "B",
+          "text": "Intima only"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial lining only"
+        },
+        {
+          "label": "D",
+          "text": "Media only"
+        },
+        {
+          "label": "E",
+          "text": "Adventitia only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic.",
+        "whyCorrect": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-040_ca027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-072",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This duplex ultrasound of the temporal artery shows a dark hypoechoic ring surrounding the flowing vessel lumen. What does this characteristic 'halo' represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcified atherosclerotic plaque"
+        },
+        {
+          "label": "B",
+          "text": "Perivascular abscess"
+        },
+        {
+          "label": "C",
+          "text": "Aneurysmal outpouching of the wall"
+        },
+        {
+          "label": "D",
+          "text": "Organized intraluminal thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Edema and thickening of the inflamed arterial wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection.",
+        "whyCorrect": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-072_ca027_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-073",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This MR angiogram (brackets) of a young woman demonstrates narrowing of the aorta and its branches. Which pattern of stenosis, characteristic of this disease, distinguishes it from atherosclerotic disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Focal saccular aneurysm only"
+        },
+        {
+          "label": "B",
+          "text": "Short, irregular, eccentric stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse aortic ectasia"
+        },
+        {
+          "label": "D",
+          "text": "String-of-beads beaded appearance"
+        },
+        {
+          "label": "E",
+          "text": "Long, smooth, tapered stenosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia.",
+        "whyCorrect": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-073_ca027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-134",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This clinical photograph shows a thickened, nodular, cord-like scalp vessel that was tender to palpation in a 72-year-old woman with a new headache and jaw pain while chewing. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giant cell (temporal) arteritis"
+        },
+        {
+          "label": "B",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "C",
+          "text": "Thromboangiitis obliterans (Buerger disease)"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Takayasu arteritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
+        "whyCorrect": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-134_ca027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-135",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This section of a large elastic artery shows destruction and fibrosis of the media with mononuclear infiltrates and occasional giant cells (arrows). Loss of the elastic lamina and muscular media in this disease predisposes the vessel to which structural complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol embolization"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac valve vegetation"
+        },
+        {
+          "label": "C",
+          "text": "Aneurysm formation"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaque deposition"
+        },
+        {
+          "label": "E",
+          "text": "Fatty streak formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
+        "whyCorrect": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-135_ca027_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

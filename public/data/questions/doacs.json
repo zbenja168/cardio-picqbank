@@ -1,0 +1,45 @@
+{
+  "categoryId": "doacs",
+  "categoryName": "DOACs",
+  "questions": [
+    {
+      "id": "capic-239",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "In this coagulation cascade diagram, the intrinsic and extrinsic pathways converge on a shared clotting factor that is the target of the direct oral anticoagulants shown. What is the immediate downstream consequence of inhibiting this factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased activation of the extrinsic pathway"
+        },
+        {
+          "label": "B",
+          "text": "Direct potentiation of antithrombin activity"
+        },
+        {
+          "label": "C",
+          "text": "Increased synthesis of factor VII in the liver"
+        },
+        {
+          "label": "D",
+          "text": "Reduced conversion of prothrombin to thrombin"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced fibrinolysis of existing clots"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The diagram shows the intrinsic and extrinsic pathways converging on factor Xa in the common pathway. DOACs directly inhibit factor Xa, which reduces the conversion of prothrombin (factor II) to thrombin, thereby preventing fibrin formation and clot propagation.",
+        "whyCorrect": "The diagram shows the intrinsic and extrinsic pathways converging on factor Xa in the common pathway. DOACs directly inhibit factor Xa, which reduces the conversion of prothrombin (factor II) to thrombin, thereby preventing fibrin formation and clot propagation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-239_ca041_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

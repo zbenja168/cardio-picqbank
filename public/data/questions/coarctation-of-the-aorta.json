@@ -1,0 +1,240 @@
+{
+  "categoryId": "coarctation-of-the-aorta",
+  "categoryName": "Coarctation of the Aorta",
+  "questions": [
+    {
+      "id": "capic-029",
+      "topicId": "coarctation-of-the-aorta",
+      "topicName": "Coarctation of the Aorta",
+      "stem": "These schematics classify aortic coarctation by its position relative to the ductus arteriosus. The preductal type shown on the left is most likely the result of abnormal development of which embryonic structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Third aortic arch"
+        },
+        {
+          "label": "B",
+          "text": "Left fourth aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "Bulbus cordis"
+        },
+        {
+          "label": "D",
+          "text": "Truncus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Sixth aortic arch"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congenital preductal coarctation is thought to arise from abnormal development of the aortic arch during formation from the embryonic left fourth aortic arch, whereas postductal lesions relate to abnormal development of the descending aorta.",
+        "whyCorrect": "Congenital preductal coarctation is thought to arise from abnormal development of the aortic arch during formation from the embryonic left fourth aortic arch, whereas postductal lesions relate to abnormal development of the descending aorta.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-029_ca078_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-030",
+      "topicId": "coarctation-of-the-aorta",
+      "topicName": "Coarctation of the Aorta",
+      "stem": "This diagram shows dilated collateral vessels (left subclavian, internal thoracic, and intercostal arteries) rerouting blood past an aortic coarctation. As these vessels enlarge, they classically produce which radiographic sign?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Boot-shaped heart"
+        },
+        {
+          "label": "B",
+          "text": "Water-bottle heart"
+        },
+        {
+          "label": "C",
+          "text": "Snowman/figure-3 sign"
+        },
+        {
+          "label": "D",
+          "text": "Rib notching"
+        },
+        {
+          "label": "E",
+          "text": "Egg-on-a-string sign"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The enlarged intercostal arteries erode the inferior surface of the ribs as they carry collateral flow to the lower body, producing the classic rib-notching sign on chest radiograph in coarctation of the aorta.",
+        "whyCorrect": "The enlarged intercostal arteries erode the inferior surface of the ribs as they carry collateral flow to the lower body, producing the classic rib-notching sign on chest radiograph in coarctation of the aorta.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-030_ca078_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-115",
+      "topicId": "coarctation-of-the-aorta",
+      "topicName": "Coarctation of the Aorta",
+      "stem": "This cross-sectional CT/MR angiographic image (arrow) provides a 3D picture used to plan intervention for which aortic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Aortic transection"
+        },
+        {
+          "label": "D",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CT and MR imaging give a detailed 3D depiction of the narrowed segment and associated anatomic abnormalities of aortic coarctation, aiding planning of the appropriate intervention.",
+        "whyCorrect": "CT and MR imaging give a detailed 3D depiction of the narrowed segment and associated anatomic abnormalities of aortic coarctation, aiding planning of the appropriate intervention.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-115_ca078_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-116",
+      "topicId": "coarctation-of-the-aorta",
+      "topicName": "Coarctation of the Aorta",
+      "stem": "These sequential catheter angiograms show a coarctation before treatment (left), during the procedure (middle), and after the procedure (right). Which intervention is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transcatheter stent placement"
+        },
+        {
+          "label": "B",
+          "text": "Subclavian flap aortoplasty"
+        },
+        {
+          "label": "C",
+          "text": "Coil embolization"
+        },
+        {
+          "label": "D",
+          "text": "Balloon valvuloplasty"
+        },
+        {
+          "label": "E",
+          "text": "End-to-end surgical anastomosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transcatheter intervention with placement of a percutaneous stent across the narrowed segment is the preferred approach in older children and adults with coarctation of the aorta.",
+        "whyCorrect": "Transcatheter intervention with placement of a percutaneous stent across the narrowed segment is the preferred approach in older children and adults with coarctation of the aorta.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-116_ca078_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-170",
+      "topicId": "coarctation-of-the-aorta",
+      "topicName": "Coarctation of the Aorta",
+      "stem": "The right-hand illustration contrasts a normal heart with an obstructive right-sided valvular lesion. Long-standing disease of this type leads to hypertrophy of which chamber?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both ventricles equally"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Right atrium"
+        },
+        {
+          "label": "D",
+          "text": "Left atrium"
+        },
+        {
+          "label": "E",
+          "text": "Right ventricle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure.",
+        "whyCorrect": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-170_ca078_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-171",
+      "topicId": "coarctation-of-the-aorta",
+      "topicName": "Coarctation of the Aorta",
+      "stem": "The right-hand illustration contrasts a normal heart with an obstructive left-sided valvular lesion. This congenital lesion most commonly results from which valve morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quadricuspid aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Ebstein anomaly of the valve"
+        },
+        {
+          "label": "C",
+          "text": "Unicuspid aortic valve"
+        },
+        {
+          "label": "D",
+          "text": "Fused mitral commissures"
+        },
+        {
+          "label": "E",
+          "text": "Bicuspid aortic valve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time.",
+        "whyCorrect": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-171_ca078_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

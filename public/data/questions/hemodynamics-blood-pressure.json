@@ -1,0 +1,318 @@
+{
+  "categoryId": "hemodynamics-blood-pressure",
+  "categoryName": "Hemodynamics: Blood Pressure",
+  "questions": [
+    {
+      "id": "capic-032",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This cross-sectional illustration of an arterial wall labels several concentric layers. Which structural feature primarily allows a large elastic artery to expand during systole and recoil during diastole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The adventitial connective tissue sheath alone"
+        },
+        {
+          "label": "B",
+          "text": "A single layer of endothelial cells lining the lumen"
+        },
+        {
+          "label": "C",
+          "text": "Rigid collagen fibers that resist any deformation"
+        },
+        {
+          "label": "D",
+          "text": "Valves within the vessel wall directing flow"
+        },
+        {
+          "label": "E",
+          "text": "Elastic membranes and elastin fibers within the wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The internal and external elastic membranes and abundant elastin allow large arteries to stretch as blood is ejected in systole and recoil in diastole, sustaining pressure between beats; collagen provides tensile strength and smooth muscle adjusts tone, but elastic tissue drives the reversible expansion.",
+        "whyCorrect": "The internal and external elastic membranes and abundant elastin allow large arteries to stretch as blood is ejected in systole and recoil in diastole, sustaining pressure between beats; collagen provides tensile strength and smooth muscle adjusts tone, but elastic tissue drives the reversible expansion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-032_ca013_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-033",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This histologic section places a femoral artery beside a femoral vein at the same magnification. What accounts for the artery having a much thicker, rounder wall than the adjacent vein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher pressure and wall tension require more elastin and collagen for structural support"
+        },
+        {
+          "label": "B",
+          "text": "The artery carries a larger blood volume than the vein"
+        },
+        {
+          "label": "C",
+          "text": "Arterial blood viscosity erodes the venous wall over time"
+        },
+        {
+          "label": "D",
+          "text": "The vein is filled with valves that thin its wall"
+        },
+        {
+          "label": "E",
+          "text": "The artery has a smaller radius, demanding a thicker wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Arteries are exposed to high pressures and large radii, so by the law of Laplace they experience high wall tension and require thick walls rich in elastin and collagen; veins operate at low pressure and thus have thin, less muscular walls, giving the collapsed, thin-walled appearance seen here.",
+        "whyCorrect": "Arteries are exposed to high pressures and large radii, so by the law of Laplace they experience high wall tension and require thick walls rich in elastin and collagen; veins operate at low pressure and thus have thin, less muscular walls, giving the collapsed, thin-walled appearance seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-033_ca013_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-057",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "A clinician places the bell of a stethoscope over the antecubital fossa while inflating and slowly deflating an inflatable cuff around the upper arm, as shown. What auditory phenomenon is being used to determine the systolic and diastolic pressures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Valvular closure clicks transmitted from the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Pericardial friction rub amplified by cuff compression"
+        },
+        {
+          "label": "C",
+          "text": "Onset and disappearance of Korotkoff sounds as cuff pressure crosses arterial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Venous hum produced by collapse of the brachial vein"
+        },
+        {
+          "label": "E",
+          "text": "Continuous laminar flow murmur heard throughout deflation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The sphygmomanometer cuff is inflated above systolic pressure to occlude the brachial artery; as it deflates, turbulent flow through the partially compressed artery produces Korotkoff sounds. The first sound marks systolic pressure and their disappearance marks diastolic pressure.",
+        "whyCorrect": "The sphygmomanometer cuff is inflated above systolic pressure to occlude the brachial artery; as it deflates, turbulent flow through the partially compressed artery produces Korotkoff sounds. The first sound marks systolic pressure and their disappearance marks diastolic pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-057_ca013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-198",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "The arterial pressure waveform diagram marks a small notch on the descending limb just after the peak. What event does this notch represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closure of the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Peak of atrial contraction (the a wave)"
+        },
+        {
+          "label": "C",
+          "text": "Onset of isovolumetric ventricular contraction"
+        },
+        {
+          "label": "D",
+          "text": "Reflected pressure wave from the arterioles"
+        },
+        {
+          "label": "E",
+          "text": "Opening of the mitral valve during rapid filling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The incisura (dicrotic notch) on the arterial waveform reflects aortic valve closure at the end of systole, briefly interrupting the pressure decline and separating systolic from diastolic phases; the following dicrotic wave results from brief backward flow against the closed valve.",
+        "whyCorrect": "The incisura (dicrotic notch) on the arterial waveform reflects aortic valve closure at the end of systole, briefly interrupting the pressure decline and separating systolic from diastolic phases; the following dicrotic wave results from brief backward flow against the closed valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-198_ca013_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-199",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This figure plots arterial (red) and venous blood pressures along the body in the recumbent versus upright positions. Why do the arterial and venous pressures in the lower extremities rise markedly in the upright panel compared with the recumbent panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The heart increases stroke volume to perfuse the legs"
+        },
+        {
+          "label": "B",
+          "text": "Gravity adds a hydrostatic column of pressure to vessels below the heart"
+        },
+        {
+          "label": "C",
+          "text": "Arterial compliance falls to zero when standing"
+        },
+        {
+          "label": "D",
+          "text": "Venous valves generate active pressure in the standing position"
+        },
+        {
+          "label": "E",
+          "text": "Sympathetic vasoconstriction directly raises capillary pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the upright position gravity pulls blood toward the feet, adding a hydrostatic pressure column so both arterial and venous pressures in the dependent legs increase; the driving gradient between arteries and veins nonetheless stays roughly constant at 85-95 mmHg.",
+        "whyCorrect": "In the upright position gravity pulls blood toward the feet, adding a hydrostatic pressure column so both arterial and venous pressures in the dependent legs increase; the driving gradient between arteries and veins nonetheless stays roughly constant at 85-95 mmHg.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-199_ca013_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-200",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Three vessels are each injected with the same bolus while a syringe adds fluid. In panel A the pressure change is zero for a large volume, in panel B the volume change is large for no pressure change, and in panel C both rise. Which property differs across these three panels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elastance measured as change in pressure per change in volume equalling infinity in panel B"
+        },
+        {
+          "label": "B",
+          "text": "Hydrostatic pressure imposed by gravity"
+        },
+        {
+          "label": "C",
+          "text": "Wall tension described by the law of Laplace"
+        },
+        {
+          "label": "D",
+          "text": "Systemic vascular resistance to steady flow"
+        },
+        {
+          "label": "E",
+          "text": "Vascular compliance (change in volume per change in pressure)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Compliance is volume change divided by pressure change. Panel A shows zero compliance (stiff, noncompliant), panel B shows infinite compliance (large volume change, no pressure change), and panel C shows finite compliance typical of most real vessels where both pressure and volume increase.",
+        "whyCorrect": "Compliance is volume change divided by pressure change. Panel A shows zero compliance (stiff, noncompliant), panel B shows infinite compliance (large volume change, no pressure change), and panel C shows finite compliance typical of most real vessels where both pressure and volume increase.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-200_ca013_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-201",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "These pressure-volume curves compare the aorta and the vena cava. The vena cava curve is steep and flat at low pressures but flattens into a plateau at high pressures. What explains the plateau at unphysiologically high venous pressures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The vein ruptures, releasing pressure"
+        },
+        {
+          "label": "B",
+          "text": "Elastic fibers become fully stretched, so compliance markedly decreases"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle actively contracts to resist further filling"
+        },
+        {
+          "label": "D",
+          "text": "Gravity redistributes blood away from the vein"
+        },
+        {
+          "label": "E",
+          "text": "Aortic recoil transmits pressure back to the vena cava"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At low pressures the floppy vena cava is highly compliant and rounds out as it fills; once fully distended its elastic fibers are maximally stretched, so additional volume produces large pressure rises and compliance falls, giving the plateau. The aorta, with thicker muscular walls, is far less compliant throughout.",
+        "whyCorrect": "At low pressures the floppy vena cava is highly compliant and rounds out as it fills; once fully distended its elastic fibers are maximally stretched, so additional volume produces large pressure rises and compliance falls, giving the plateau. The aorta, with thicker muscular walls, is far less compliant throughout.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-201_ca013_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-202",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "The paired diagram contrasts the aorta during systole versus diastole. During diastole the aortic valve is closed yet blood continues to move toward the capillaries. What mechanism drives this diastolic forward flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active contraction of the left ventricle during diastole"
+        },
+        {
+          "label": "B",
+          "text": "Elastic recoil of the stretched aortic wall"
+        },
+        {
+          "label": "C",
+          "text": "Contraction of aortic smooth muscle squeezing blood forward"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle pump compressing the aorta"
+        },
+        {
+          "label": "E",
+          "text": "Suction generated by the closing aortic valve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During systole the aorta stretches to accommodate the stroke volume; when the aortic valve closes in diastole, the elastic aorta recoils inward, maintaining the ~80 mmHg diastolic pressure and driving blood onward to the systemic circulation even though the ventricle is not ejecting.",
+        "whyCorrect": "During systole the aorta stretches to accommodate the stroke volume; when the aortic valve closes in diastole, the elastic aorta recoils inward, maintaining the ~80 mmHg diastolic pressure and driving blood onward to the systemic circulation even though the ventricle is not ejecting.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-202_ca013_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

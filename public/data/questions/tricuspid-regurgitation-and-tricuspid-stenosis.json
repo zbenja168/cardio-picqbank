@@ -1,0 +1,45 @@
+{
+  "categoryId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+  "categoryName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+  "questions": [
+    {
+      "id": "capic-256",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "This figure compares a normal heart with the labeled condition. In the right-hand pressure-time tracing, left atrial pressure stays higher than left ventricular pressure throughout diastole. What does this persistent diastolic pressure difference most directly represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the ventricle to generate adequate systolic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Loss of atrial contraction from atrial fibrillation"
+        },
+        {
+          "label": "C",
+          "text": "Obstruction to ventricular outflow into the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Backflow of blood through an incompetent valve during systole"
+        },
+        {
+          "label": "E",
+          "text": "A pressure gradient across an obstructed valve impeding ventricular filling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In mitral stenosis the narrowed valve obstructs blood flow from the left atrium into the left ventricle during diastole, so left atrial pressure must remain elevated above LV pressure to drive filling. This transmitral gradient (LA > LV) is the hallmark of the lesion and is transmitted backward to raise pulmonary pressures, while LV volume stays normal or low.",
+        "whyCorrect": "In mitral stenosis the narrowed valve obstructs blood flow from the left atrium into the left ventricle during diastole, so left atrial pressure must remain elevated above LV pressure to drive filling. This transmitral gradient (LA > LV) is the hallmark of the lesion and is transmitted backward to raise pulmonary pressures, while LV volume stays normal or low.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-256_ca054_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

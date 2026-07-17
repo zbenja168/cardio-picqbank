@@ -1,0 +1,240 @@
+{
+  "categoryId": "heart-blocks",
+  "categoryName": "Heart Blocks",
+  "questions": [
+    {
+      "id": "capic-098",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "This rhythm strip shows every P wave followed by a QRS, but with a uniformly prolonged interval from the start of P to the start of QRS (>200 ms). What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mobitz type I (Wenckebach)"
+        },
+        {
+          "label": "B",
+          "text": "Complete heart block"
+        },
+        {
+          "label": "C",
+          "text": "Normal sinus rhythm"
+        },
+        {
+          "label": "D",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "E",
+          "text": "Right bundle branch block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-degree AV block is defined by a fixed PR interval greater than 0.2 s with every atrial impulse conducted to the ventricles; no beats are dropped, so it is purely an ECG finding and usually asymptomatic.",
+        "whyCorrect": "First-degree AV block is defined by a fixed PR interval greater than 0.2 s with every atrial impulse conducted to the ventricles; no beats are dropped, so it is purely an ECG finding and usually asymptomatic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-098_ca050_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-099",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "This tracing shows the PR interval progressively lengthening over consecutive beats until a QRS is dropped, then the cycle repeats. What does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "B",
+          "text": "Third-degree (complete) heart block"
+        },
+        {
+          "label": "C",
+          "text": "Mobitz type II second-degree AV block"
+        },
+        {
+          "label": "D",
+          "text": "Mobitz type I (Wenckebach) second-degree AV block"
+        },
+        {
+          "label": "E",
+          "text": "Right bundle branch block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Wenckebach (Mobitz I) shows progressive PR prolongation of consecutively conducted beats until one P wave fails to conduct and a QRS is dropped; the block is typically within the AV node and usually benign.",
+        "whyCorrect": "Wenckebach (Mobitz I) shows progressive PR prolongation of consecutively conducted beats until one P wave fails to conduct and a QRS is dropped; the block is typically within the AV node and usually benign.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-099_ca050_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-100",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "This tracing shows constant PR intervals of conducted beats with a sudden non-conducted P wave (dropped QRS) and no preceding PR lengthening. What does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mobitz type I (Wenckebach)"
+        },
+        {
+          "label": "B",
+          "text": "Third-degree (complete) heart block"
+        },
+        {
+          "label": "C",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "D",
+          "text": "Mobitz type II second-degree AV block"
+        },
+        {
+          "label": "E",
+          "text": "Sinus arrhythmia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mobitz type II shows a fixed PR interval in conducted beats followed by an abrupt non-conducted P wave. The block is usually below the AV node (His-Purkinje), is intrinsic/chronic, and frequently progresses to complete heart block, so it warrants a pacemaker.",
+        "whyCorrect": "Mobitz type II shows a fixed PR interval in conducted beats followed by an abrupt non-conducted P wave. The block is usually below the AV node (His-Purkinje), is intrinsic/chronic, and frequently progresses to complete heart block, so it warrants a pacemaker.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-100_ca050_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-101",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "This strip shows regular P waves and regular QRS complexes marching at independent rates with no fixed relationship between them. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mobitz type II block"
+        },
+        {
+          "label": "B",
+          "text": "Sinus arrhythmia"
+        },
+        {
+          "label": "C",
+          "text": "Third-degree (complete) heart block"
+        },
+        {
+          "label": "D",
+          "text": "Mobitz type I (Wenckebach)"
+        },
+        {
+          "label": "E",
+          "text": "First-degree AV block"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In complete heart block there is no conduction between atria and ventricles; P waves and QRS complexes are dissociated, each with its own rate (P faster than QRS), and a slow escape pacemaker drives the ventricles.",
+        "whyCorrect": "In complete heart block there is no conduction between atria and ventricles; P waves and QRS complexes are dissociated, each with its own rate (P faster than QRS), and a slow escape pacemaker drives the ventricles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-101_ca050_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-102",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 60-year-old man presents with dizziness. This ECG shows two P waves for every QRS with a fixed, dangerously slow ventricular rate (~43/min); labs, ABGs and chest x-ray are normal and he is on no medications. What is the best management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MRI of the brain and internal auditory canals"
+        },
+        {
+          "label": "B",
+          "text": "Start a beta-blocker"
+        },
+        {
+          "label": "C",
+          "text": "Atropine as definitive therapy"
+        },
+        {
+          "label": "D",
+          "text": "Permanent pacemaker implantation"
+        },
+        {
+          "label": "E",
+          "text": "Observation with no intervention"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is a fixed 2:1 AV block with a symptomatic, dangerously slow ventricular rate and no reversible cause (no drugs, electrolyte disturbance, or acute MI). A symptomatic, irreversible high-grade block is an indication for permanent pacing.",
+        "whyCorrect": "This is a fixed 2:1 AV block with a symptomatic, dangerously slow ventricular rate and no reversible cause (no drugs, electrolyte disturbance, or acute MI). A symptomatic, irreversible high-grade block is an indication for permanent pacing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-102_ca050_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-251",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "This labeled diagram shows the heart's electrical conduction system. If the structure located at the junction between the atria and ventricles were to fail completely, what rhythm would most likely result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-degree AV block only"
+        },
+        {
+          "label": "B",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "C",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Normal sinus rhythm"
+        },
+        {
+          "label": "E",
+          "text": "A slow ventricular escape rhythm (complete heart block)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The AV node/junction is the sole normal electrical bridge between atria and ventricles. Complete failure produces AV dissociation, forcing a slow (20-40 bpm) ventricular escape pacemaker to take over, i.e. third-degree (complete) heart block.",
+        "whyCorrect": "The AV node/junction is the sole normal electrical bridge between atria and ventricles. Complete failure produces AV dissociation, forcing a slow (20-40 bpm) ventricular escape pacemaker to take over, i.e. third-degree (complete) heart block.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-251_ca050_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

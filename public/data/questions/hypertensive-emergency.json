@@ -1,0 +1,84 @@
+{
+  "categoryId": "hypertensive-emergency",
+  "categoryName": "Hypertensive Emergency",
+  "questions": [
+    {
+      "id": "capic-064",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "Compared with the normal fundus on the left, the right fundoscopic image from a hypertensive patient shows a swollen optic disc with blurred margins and engorged vessels. What does the abnormal finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrophy of the optic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Detachment of the neurosensory retina"
+        },
+        {
+          "label": "C",
+          "text": "Proliferative diabetic retinopathy"
+        },
+        {
+          "label": "D",
+          "text": "Raised intracranial pressure transmitted to the optic nerve head"
+        },
+        {
+          "label": "E",
+          "text": "Occlusion of the central retinal artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The bulging disc with blurred margins and engorged veins is papilledema, reflecting elevated intracranial pressure from cerebral edema in hypertensive emergency, not an arterial occlusion, diabetic, detachment, or atrophic process.",
+        "whyCorrect": "The bulging disc with blurred margins and engorged veins is papilledema, reflecting elevated intracranial pressure from cerebral edema in hypertensive emergency, not an arterial occlusion, diabetic, detachment, or atrophic process.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-064_ca022_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-129",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This renal biopsy from a patient with longstanding severe hypertension shows an arteriole whose wall has concentric 'onion-skin' layering that narrows the lumen. What produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proliferation of arteriolar smooth muscle with reduplicated basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Dense inflammatory-cell infiltration of the wall"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of hyaline plasma proteins in the wall"
+        },
+        {
+          "label": "D",
+          "text": "A fibrin thrombus occluding the lumen"
+        },
+        {
+          "label": "E",
+          "text": "Neoplastic proliferation of endothelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia.",
+        "whyCorrect": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-129_ca022_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

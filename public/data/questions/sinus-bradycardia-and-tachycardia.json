@@ -1,0 +1,123 @@
+{
+  "categoryId": "sinus-bradycardia-and-tachycardia",
+  "categoryName": "Sinus Bradycardia and Tachycardia",
+  "questions": [
+    {
+      "id": "capic-058",
+      "topicId": "sinus-bradycardia-and-tachycardia",
+      "topicName": "Sinus Bradycardia and Tachycardia",
+      "stem": "This 12-lead ECG shows a regular rhythm with a consistent 1:1 P-to-QRS relationship and normal waveform morphology at a notably slow rate. What is the underlying rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Junctional escape rhythm"
+        },
+        {
+          "label": "B",
+          "text": "Sinoatrial exit block"
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation with slow ventricular response"
+        },
+        {
+          "label": "D",
+          "text": "Sinus bradycardia"
+        },
+        {
+          "label": "E",
+          "text": "Second-degree AV block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A slow rate with an upright P wave preceding every QRS in a 1:1 fashion and normal PR interval indicates the impulse still originates in the SA node, defining sinus bradycardia rather than a junctional, blocked, or ectopic rhythm.",
+        "whyCorrect": "A slow rate with an upright P wave preceding every QRS in a 1:1 fashion and normal PR interval indicates the impulse still originates in the SA node, defining sinus bradycardia rather than a junctional, blocked, or ectopic rhythm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-058_ca017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-059",
+      "topicId": "sinus-bradycardia-and-tachycardia",
+      "topicName": "Sinus Bradycardia and Tachycardia",
+      "stem": "This ECG illustration counts the small boxes between two consecutive R waves to calculate heart rate. What calculation does this method use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Multiply the number of small boxes by 0.04 seconds"
+        },
+        {
+          "label": "B",
+          "text": "Divide 300 by the number of large boxes between R waves"
+        },
+        {
+          "label": "C",
+          "text": "Count QRS complexes in a 6-second strip and multiply by 10"
+        },
+        {
+          "label": "D",
+          "text": "Divide 60 by the R-R interval measured in large boxes"
+        },
+        {
+          "label": "E",
+          "text": "Divide 1500 by the number of small boxes between R waves"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The precise R-R small-box method divides 1500 (small boxes per minute at 25 mm/s) by the number of small boxes between consecutive R waves to yield beats per minute.",
+        "whyCorrect": "The precise R-R small-box method divides 1500 (small boxes per minute at 25 mm/s) by the number of small boxes between consecutive R waves to yield beats per minute.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-059_ca017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-060",
+      "topicId": "sinus-bradycardia-and-tachycardia",
+      "topicName": "Sinus Bradycardia and Tachycardia",
+      "stem": "This rhythm strip shows a regular narrow-complex rhythm at roughly 130 bpm with a normal upright P wave preceding every QRS. What rhythm is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial fibrillation with rapid response"
+        },
+        {
+          "label": "B",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "AV nodal reentrant tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Focal atrial tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Atrial flutter with 2:1 conduction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A fast but regular rhythm with a normal P wave before each QRS and a constant PR interval indicates the SA node is simply firing faster, defining sinus tachycardia rather than a reentrant or ectopic tachyarrhythmia.",
+        "whyCorrect": "A fast but regular rhythm with a normal P wave before each QRS and a constant PR interval indicates the SA node is simply firing faster, defining sinus tachycardia rather than a reentrant or ectopic tachyarrhythmia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-060_ca017_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

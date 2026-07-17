@@ -1,0 +1,45 @@
+{
+  "categoryId": "management-of-shock",
+  "categoryName": "Management of Shock",
+  "questions": [
+    {
+      "id": "capic-026",
+      "topicId": "management-of-shock",
+      "topicName": "Management of Shock",
+      "stem": "This diagram of an early embryo labels a series of pharyngeal (branchial) arches along the head and neck region. The arteries that course through these pharyngeal arches are the embryonic precursors of which group of adult vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The coronary arteries supplying the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "The great arteries and their branches (aortic arch derivatives)"
+        },
+        {
+          "label": "C",
+          "text": "The systemic and cardinal veins that form the vena cavae"
+        },
+        {
+          "label": "D",
+          "text": "The four pulmonary veins draining into the left atrium"
+        },
+        {
+          "label": "E",
+          "text": "The umbilical and vitelline venous system"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The paired arteries of the pharyngeal (aortic) arches remodel into the great arteries: the 3rd arch forms the common carotids, the 4th contributes to the arch of the aorta and proximal right subclavian, and the 6th forms the pulmonary arteries and the ductus arteriosus. The veins, coronary arteries, and pulmonary veins arise from separate developmental fields.",
+        "whyCorrect": "The paired arteries of the pharyngeal (aortic) arches remodel into the great arteries: the 3rd arch forms the common carotids, the 4th contributes to the arch of the aorta and proximal right subclavian, and the 6th forms the pulmonary arteries and the ductus arteriosus. The veins, coronary arteries, and pulmonary veins arise from separate developmental fields.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-026_ca076_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

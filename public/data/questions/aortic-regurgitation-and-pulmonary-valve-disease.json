@@ -1,0 +1,279 @@
+{
+  "categoryId": "aortic-regurgitation-and-pulmonary-valve-disease",
+  "categoryName": "Aortic Regurgitation and Pulmonary Valve Disease",
+  "questions": [
+    {
+      "id": "capic-007",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "The right-hand cross-sectional view of this specimen is taken through the plane of all four cardiac valves. Which structure does this cross-section best demonstrate as the common anchor for the valves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrous cardiac skeleton"
+        },
+        {
+          "label": "B",
+          "text": "Epicardial fat pad"
+        },
+        {
+          "label": "C",
+          "text": "Chordae tendineae"
+        },
+        {
+          "label": "D",
+          "text": "Interventricular septum"
+        },
+        {
+          "label": "E",
+          "text": "Moderator band"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A short-axis section at the level of the valves shows the dense fibrous cardiac skeleton, a ring of connective tissue that surrounds and anchors all four valve annuli and electrically insulates the atria from the ventricles.",
+        "whyCorrect": "A short-axis section at the level of the valves shows the dense fibrous cardiac skeleton, a ring of connective tissue that surrounds and anchors all four valve annuli and electrically insulates the atria from the ventricles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-007_ca021_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-018",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "The right-hand cross-section shows all four cardiac valves lying in a single plane embedded within a ring of dense connective tissue. What is the principal functional role of this fibrous structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It stores calcium to trigger myocardial relaxation"
+        },
+        {
+          "label": "B",
+          "text": "It electrically insulates the atria from the ventricles so conduction is forced through the AV node"
+        },
+        {
+          "label": "C",
+          "text": "It actively contracts to eject blood from the ventricles"
+        },
+        {
+          "label": "D",
+          "text": "It generates the pacemaker impulse that initiates each heartbeat"
+        },
+        {
+          "label": "E",
+          "text": "It supplies oxygenated blood to the valve leaflets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The valves sit in the fibrous cardiac skeleton, which anchors the leaflets and myocardium and electrically insulates the atria from the ventricles, restricting the only conduction pathway to the AV node. This is why the tricuspid and mitral valves are shown closed during diastole in the same plane.",
+        "whyCorrect": "The valves sit in the fibrous cardiac skeleton, which anchors the leaflets and myocardium and electrically insulates the atria from the ventricles, restricting the only conduction pathway to the AV node. This is why the tricuspid and mitral valves are shown closed during diastole in the same plane.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-018_ca063_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-063",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "The upper tracing contrasts a murmur with the mitral stenosis pattern below it. What is the timing and shape of the upper murmur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mid-systolic crescendo-decrescendo"
+        },
+        {
+          "label": "B",
+          "text": "Early diastolic decrescendo"
+        },
+        {
+          "label": "C",
+          "text": "Holosystolic plateau"
+        },
+        {
+          "label": "D",
+          "text": "Continuous machinery-like murmur"
+        },
+        {
+          "label": "E",
+          "text": "Late diastolic (presystolic) rumble"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aortic regurgitation produces a soft, high-pitched early diastolic decrescendo murmur that begins right after S2, when the aortic-to-LV pressure gradient is greatest and then falls. Mitral stenosis instead gives a mid-to-late diastolic rumble.",
+        "whyCorrect": "Aortic regurgitation produces a soft, high-pitched early diastolic decrescendo murmur that begins right after S2, when the aortic-to-LV pressure gradient is greatest and then falls. Mitral stenosis instead gives a mid-to-late diastolic rumble.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-063_ca021_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-128",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This intraoperative photograph of an infant's outflow tract (RV and PA labeled) shows a domed valve with a single raphe. What is the underlying valve abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vegetations from infective endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Rheumatic commissural thickening of the mitral valve"
+        },
+        {
+          "label": "C",
+          "text": "Fused commissures of a bicuspid pulmonary valve"
+        },
+        {
+          "label": "D",
+          "text": "Myxomatous leaflet prolapse"
+        },
+        {
+          "label": "E",
+          "text": "Calcific degeneration of a tricuspid aortic valve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery.",
+        "whyCorrect": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-128_ca021_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-163",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This illustration depicts acute type A aortic dissection complicated by aortic regurgitation. What is the mechanism by which the dissection produces valvular incompetence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic scarring shortens the chordae tendineae"
+        },
+        {
+          "label": "B",
+          "text": "Vegetations deposited on the cusps hold the valve open"
+        },
+        {
+          "label": "C",
+          "text": "Dilation of the mitral annulus pulls the aortic cusps apart"
+        },
+        {
+          "label": "D",
+          "text": "The dissection flap distorts leaflet alignment, preventing full coaptation of the aortic cusps"
+        },
+        {
+          "label": "E",
+          "text": "Calcific stiffening fuses the cusps and blocks forward flow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease.",
+        "whyCorrect": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-163_ca063_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-216",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This curve plots stroke volume against ventricular end-diastolic volume. What does the descending limb beyond the peak represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcomeres stretched beyond optimal actin-myosin overlap"
+        },
+        {
+          "label": "B",
+          "text": "Reduction in afterload"
+        },
+        {
+          "label": "C",
+          "text": "Tachycardia-mediated improved filling"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced preload reserve"
+        },
+        {
+          "label": "E",
+          "text": "Increased contractility from catecholamine surge"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The rising limb reflects the Frank-Starling mechanism, where greater preload increases stroke volume. Past the peak, excessive end-diastolic volume overstretches sarcomeres beyond optimal filament overlap, so stroke volume falls and the heart decompensates.",
+        "whyCorrect": "The rising limb reflects the Frank-Starling mechanism, where greater preload increases stroke volume. Past the peak, excessive end-diastolic volume overstretches sarcomeres beyond optimal filament overlap, so stroke volume falls and the heart decompensates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-216_ca021_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-217",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "In this schematic of cardiac remodeling, which loading condition leads to the concentric hypertrophy pathway shown on the upper right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pressure overload"
+        },
+        {
+          "label": "B",
+          "text": "Reduced afterload"
+        },
+        {
+          "label": "C",
+          "text": "Decreased wall tension"
+        },
+        {
+          "label": "D",
+          "text": "Increased chamber radius"
+        },
+        {
+          "label": "E",
+          "text": "Volume overload"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "By the Law of Laplace, pressure overload raises wall stress and drives sarcomeres to be added in parallel, thickening the wall (concentric hypertrophy). Volume overload adds sarcomeres in series, dilating the chamber (eccentric hypertrophy).",
+        "whyCorrect": "By the Law of Laplace, pressure overload raises wall stress and drives sarcomeres to be added in parallel, thickening the wall (concentric hypertrophy). Volume overload adds sarcomeres in series, dilating the chamber (eccentric hypertrophy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-217_ca021_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

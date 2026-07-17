@@ -1,0 +1,396 @@
+{
+  "categoryId": "acute-pericarditis",
+  "categoryName": "Acute Pericarditis",
+  "questions": [
+    {
+      "id": "capic-025",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This labeled illustration shows the layered wall that encloses the heart. In the healthy state, what normally occupies the space between the parietal and visceral serous layers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A small amount of serous (pericardial) fluid"
+        },
+        {
+          "label": "B",
+          "text": "Clotted blood"
+        },
+        {
+          "label": "C",
+          "text": "Adipose tissue"
+        },
+        {
+          "label": "D",
+          "text": "Fibrin deposits"
+        },
+        {
+          "label": "E",
+          "text": "Air"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pericardial cavity, located between the parietal and visceral layers of the serous pericardium, normally contains a small amount of serous fluid that reduces friction as the heart contracts and relaxes.",
+        "whyCorrect": "The pericardial cavity, located between the parietal and visceral layers of the serous pericardium, normally contains a small amount of serous fluid that reduces friction as the heart contracts and relaxes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-025_ca070_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-031",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This diagram shows the layered membrane enclosing the heart. Between the two serous layers lies a potential space normally holding a small amount of fluid. What is the primary functional role of that fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It conducts the cardiac electrical impulse between chambers"
+        },
+        {
+          "label": "B",
+          "text": "It generates the force that drives ventricular ejection"
+        },
+        {
+          "label": "C",
+          "text": "It supplies oxygen and nutrients directly to the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "It lubricates the surfaces to reduce friction as the heart contracts"
+        },
+        {
+          "label": "E",
+          "text": "It provides the main blood supply to the coronary arteries"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pericardial cavity between the visceral and parietal serous layers contains a small volume of serous fluid that lubricates the surfaces, allowing frictionless movement of the beating heart. Accumulation of excess fluid here produces a pericardial effusion.",
+        "whyCorrect": "The pericardial cavity between the visceral and parietal serous layers contains a small volume of serous fluid that lubricates the surfaces, allowing frictionless movement of the beating heart. Accumulation of excess fluid here produces a pericardial effusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-031_ca082_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-044",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This histologic section shows normal pericardium overlying heart. The deeply eosinophilic tissue at the bottom of the field is composed primarily of which cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smooth muscle cells"
+        },
+        {
+          "label": "B",
+          "text": "Skeletal muscle fibers"
+        },
+        {
+          "label": "C",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac muscle cells (cardiomyocytes)"
+        },
+        {
+          "label": "E",
+          "text": "Fibroblasts"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The myocardium seen at the base of the section is made of cardiomyocytes, beneath the visceral pericardium and its overlying adipose tissue.",
+        "whyCorrect": "The myocardium seen at the base of the section is made of cardiomyocytes, beneath the visceral pericardium and its overlying adipose tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-044_ca070_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-045",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This histologic field of pericardial fluid is dominated by inflammatory cells with multilobed nuclei. This dense infiltrate indicates that the pericarditis is most likely due to what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic malignancy"
+        },
+        {
+          "label": "B",
+          "text": "Viral infection"
+        },
+        {
+          "label": "C",
+          "text": "Uremia"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatous (tuberculous) inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A neutrophil-rich (purulent) infiltrate is the hallmark of bacterial pericarditis, distinguishing it from the lymphocyte-predominant serous inflammation of viral causes.",
+        "whyCorrect": "A neutrophil-rich (purulent) infiltrate is the hallmark of bacterial pericarditis, distinguishing it from the lymphocyte-predominant serous inflammation of viral causes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-045_ca070_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-111",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This illustration depicts a needle being advanced at an angle toward the sac surrounding the heart. This procedure is most urgently indicated in which clinical scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A friction rub without effusion"
+        },
+        {
+          "label": "B",
+          "text": "Stable viral pericarditis"
+        },
+        {
+          "label": "C",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "E",
+          "text": "Acute myocardial infarction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pericardiocentesis drains pericardial fluid and is urgently indicated for cardiac tamponade or when purulent pericarditis is suspected.",
+        "whyCorrect": "Pericardiocentesis drains pericardial fluid and is urgently indicated for cardiac tamponade or when purulent pericarditis is suspected.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-111_ca070_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-119",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This histologic field of inflamed pericardium shows a dense infiltrate of small cells with multilobed nuclei. Pericardial fluid analysis corresponding to this picture would most likely reveal which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A lymphocyte-predominant infiltrate with normal glucose"
+        },
+        {
+          "label": "B",
+          "text": "Low glucose with a high neutrophil count"
+        },
+        {
+          "label": "C",
+          "text": "An eosinophil-predominant infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Clear fluid with high glucose and few cells"
+        },
+        {
+          "label": "E",
+          "text": "Grossly hemorrhagic, red-cell-predominant fluid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The section shows acute purulent (neutrophil-rich) pericarditis. Bacterial purulent effusions are exudative with abundant neutrophils and characteristically low glucose, reflecting consumption by bacteria and inflammatory cells.",
+        "whyCorrect": "The section shows acute purulent (neutrophil-rich) pericarditis. Bacterial purulent effusions are exudative with abundant neutrophils and characteristically low glucose, reflecting consumption by bacteria and inflammatory cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-119_ca082_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-166",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This histologic image shows surface deposits on the pericardium in the most common form of acute pericarditis. What is the classic gross descriptive term applied to this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\"Onion skin\" appearance"
+        },
+        {
+          "label": "B",
+          "text": "\"Ground glass\" appearance"
+        },
+        {
+          "label": "C",
+          "text": "\"Bread and butter\" appearance"
+        },
+        {
+          "label": "D",
+          "text": "\"Nutmeg\" appearance"
+        },
+        {
+          "label": "E",
+          "text": "\"Fried egg\" appearance"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibrinous pericarditis, the most common type, deposits fibrin on the pericardial surfaces producing the classic 'bread and butter' appearance.",
+        "whyCorrect": "Fibrinous pericarditis, the most common type, deposits fibrin on the pericardial surfaces producing the classic 'bread and butter' appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-166_ca070_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-167",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This gross specimen shows the pericardial cavity filled with a thick, opaque exudate. This finding is most characteristic of pericarditis caused by which etiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uremia"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune disease"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "D",
+          "text": "Ionizing radiation"
+        },
+        {
+          "label": "E",
+          "text": "Viral infection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Purulent pericarditis, marked by pus within the pericardial cavity, is typically caused by bacterial infection (e.g., Staphylococcus aureus).",
+        "whyCorrect": "Purulent pericarditis, marked by pus within the pericardial cavity, is typically caused by bacterial infection (e.g., Staphylococcus aureus).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-167_ca070_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-175",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This histologic section shows eosinophilic strands deposited on a thickened, inflamed visceral pericardial surface. This pathologic process classically produces which physical examination finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pericardial friction rub on auscultation"
+        },
+        {
+          "label": "B",
+          "text": "A pericardial knock in early diastole"
+        },
+        {
+          "label": "C",
+          "text": "An S3 gallop at the apex"
+        },
+        {
+          "label": "D",
+          "text": "An opening snap after S2"
+        },
+        {
+          "label": "E",
+          "text": "A continuous machinery murmur"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The image shows acute fibrinous pericarditis, with fibrin deposited on the inflamed pericardium. The roughened, fibrin-coated surfaces sliding against each other create the classic scratchy pericardial friction rub heard on auscultation.",
+        "whyCorrect": "The image shows acute fibrinous pericarditis, with fibrin deposited on the inflamed pericardium. The roughened, fibrin-coated surfaces sliding against each other create the classic scratchy pericardial friction rub heard on auscultation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-175_ca082_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-176",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This gross specimen shows thick, opaque purulent material filling the pericardial cavity. This finding is most characteristically caused by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "B",
+          "text": "Viral (coxsackievirus) infection"
+        },
+        {
+          "label": "C",
+          "text": "Uremia from chronic kidney disease"
+        },
+        {
+          "label": "D",
+          "text": "Post-myocardial infarction (Dressler) autoimmune reaction"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Purulent pericarditis, with frank pus in the pericardial space, is characteristically bacterial in origin. Viral, uremic, and autoimmune causes typically produce serous or fibrinous rather than frankly purulent exudates.",
+        "whyCorrect": "Purulent pericarditis, with frank pus in the pericardial space, is characteristically bacterial in origin. Viral, uremic, and autoimmune causes typically produce serous or fibrinous rather than frankly purulent exudates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-176_ca082_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,46 +1,50 @@
 {
-  "categoryId": "pharmacology",
-  "categoryName": "Pharmacology",
+  "categoryId": "antiarrhythmic-agents-class-i-drugs",
+  "categoryName": "Antiarrhythmic Agents: Class I Drugs",
   "questions": [
     {
-      "id": "capic-177",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
-      "stem": "This schematic maps the sites of action of antiplatelet drugs on an activating platelet. One class acts at the receptor mediating the final common step of platelet aggregation, where the receptor cross-links platelets by binding fibrinogen. Which drug class acts at that final receptor?",
+      "id": "capic-088",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents: Class I Drugs",
+      "stem": "This rhythm strip was recorded in a patient on a Class IA antiarrhythmic with a prolonged QT interval. What is this arrhythmia?",
       "choices": [
         {
           "label": "A",
-          "text": "Cyclooxygenase (COX) inhibitors"
+          "text": "Monomorphic ventricular tachycardia"
         },
         {
           "label": "B",
-          "text": "Phosphodiesterase inhibitors"
+          "text": "Atrial fibrillation"
         },
         {
           "label": "C",
-          "text": "P2Y12 (ADP) receptor antagonists"
+          "text": "Torsades de pointes"
         },
         {
           "label": "D",
-          "text": "Glycoprotein IIb/IIIa inhibitors"
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular fibrillation"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "The GP IIb/IIIa receptor binds fibrinogen to cross-link adjacent platelets, the final common pathway of aggregation; agents such as abciximab, eptifibatide, and tirofiban block it. Aspirin acts upstream on COX/thromboxane, and clopidogrel/ticagrelor act on the P2Y12 ADP receptor.",
-        "whyCorrect": "The GP IIb/IIIa receptor binds fibrinogen to cross-link adjacent platelets, the final common pathway of aggregation; agents such as abciximab, eptifibatide, and tirofiban block it. Aspirin acts upstream on COX/thromboxane, and clopidogrel/ticagrelor act on the P2Y12 ADP receptor.",
+        "summary": "The strip shows polymorphic ventricular tachycardia with QRS complexes that twist around the baseline, the hallmark of torsades de pointes, a complication of QT prolongation.",
+        "whyCorrect": "The strip shows polymorphic ventricular tachycardia with QRS complexes that twist around the baseline, the hallmark of torsades de pointes, a complication of QT prolongation.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "capic-177_ca039_f02.png",
+      "imageRef": "capic-088_ca045_f04.png",
       "tags": [
         "picture"
       ]
     },
     {
       "id": "capic-178",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents: Class I Drugs",
       "stem": "The red tracing shows the effect of a Class IA antiarrhythmic on the ventricular action potential compared with normal. What ECG change would this altered action potential most likely produce?",
       "choices": [
         {
@@ -78,8 +82,8 @@
     },
     {
       "id": "capic-179",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents: Class I Drugs",
       "stem": "This tracing shows a small change in phase 0 with a shortened action potential, typical of Class IB agents. These drugs preferentially bind sodium channels in myocardium that is in what condition?",
       "choices": [
         {
@@ -117,8 +121,8 @@
     },
     {
       "id": "capic-180",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents: Class I Drugs",
       "stem": "The red tracing shows pronounced blunting of the phase 0 upstroke while action potential duration is unchanged, typical of Class IC agents. Which ECG finding results?",
       "choices": [
         {
@@ -155,40 +159,79 @@
       ]
     },
     {
-      "id": "capic-181",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
-      "stem": "This stepwise algorithm for managing chronic systolic heart failure separates the numbered core therapies from a side branch (loop diuretics). What best explains why the loop diuretic branch is set apart?",
+      "id": "capic-245",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents: Class I Drugs",
+      "stem": "This diagram shows the fast-response cardiac myocyte action potential and its ion movements. The plateau (Phase 2) is maintained by a balance between which two opposing ion currents?",
       "choices": [
         {
           "label": "A",
-          "text": "Loop diuretics are the mandatory first step before any other agent"
+          "text": "Calcium influx balanced by potassium efflux"
         },
         {
           "label": "B",
-          "text": "Loop diuretics replace the need for an MRA in every patient"
+          "text": "Potassium influx balanced by sodium efflux"
         },
         {
           "label": "C",
-          "text": "Loop diuretics are used only in preserved-EF (diastolic) heart failure"
+          "text": "Sodium influx balanced by potassium influx"
         },
         {
           "label": "D",
-          "text": "Loop diuretics relieve congestive symptoms but do not reduce mortality"
+          "text": "Sodium influx balanced by calcium efflux"
         },
         {
           "label": "E",
-          "text": "Loop diuretics reduce cardiac remodeling and improve survival"
+          "text": "Chloride influx balanced by calcium efflux"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality.",
-        "whyCorrect": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality.",
+        "summary": "During Phase 2, inward Ca2+ current through L-type calcium channels is offset by outward K+ current, holding the membrane at a plateau and prolonging the effective refractory period.",
+        "whyCorrect": "During Phase 2, inward Ca2+ current through L-type calcium channels is offset by outward K+ current, holding the membrane at a plateau and prolonging the effective refractory period.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "capic-181_ca056_f03.png",
+      "imageRef": "capic-245_ca045_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-246",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents: Class I Drugs",
+      "stem": "This figure depicts the three conformational states of the cardiac fast sodium channel. Class I antiarrhythmics bind with greatest affinity to which state(s), producing use-dependence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The resting (closed) state only"
+        },
+        {
+          "label": "B",
+          "text": "The resting and activated states"
+        },
+        {
+          "label": "C",
+          "text": "The open (activated) and inactivated states"
+        },
+        {
+          "label": "D",
+          "text": "The inactivated state only during diastole"
+        },
+        {
+          "label": "E",
+          "text": "All three states with equal affinity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Class I drugs preferentially bind channels that are open or inactivated (states favored at fast heart rates), so blockade increases with rate, the basis of use-dependence.",
+        "whyCorrect": "Class I drugs preferentially bind channels that are open or inactivated (states favored at fast heart rates), so blockade increases with rate, the basis of use-dependence.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-246_ca045_f02.png",
       "tags": [
         "picture"
       ]

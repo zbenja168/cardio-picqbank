@@ -1,0 +1,123 @@
+{
+  "categoryId": "aortic-arch-anatomy",
+  "categoryName": "Aortic Arch Anatomy",
+  "questions": [
+    {
+      "id": "capic-003",
+      "topicId": "aortic-arch-anatomy",
+      "topicName": "Aortic Arch Anatomy",
+      "stem": "This anterior view of the great vessels shows the aortic arch and its branches. Based on the branching pattern illustrated, how do the left common carotid and left subclavian arteries arise relative to the arch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They share a common left brachiocephalic trunk"
+        },
+        {
+          "label": "B",
+          "text": "They both branch from a single brachiocephalic trunk with the carotids"
+        },
+        {
+          "label": "C",
+          "text": "They branch from the pulmonary trunk"
+        },
+        {
+          "label": "D",
+          "text": "They arise from the descending thoracic aorta"
+        },
+        {
+          "label": "E",
+          "text": "They arise separately and independently from the arch"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "On the left, the common carotid and subclavian arteries arise separately and directly from the aortic arch, unlike the right side where a brachiocephalic trunk first divides into the right subclavian and right common carotid arteries. This asymmetry reflects the differing embryologic remodeling of the aortic arches.",
+        "whyCorrect": "On the left, the common carotid and subclavian arteries arise separately and directly from the aortic arch, unlike the right side where a brachiocephalic trunk first divides into the right subclavian and right common carotid arteries. This asymmetry reflects the differing embryologic remodeling of the aortic arches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-003_ca004_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-004",
+      "topicId": "aortic-arch-anatomy",
+      "topicName": "Aortic Arch Anatomy",
+      "stem": "This lateral view of an early embryo shows a series of ridges labeled as pharyngeal arches. The major arteries and connective/muscular structures derived from these arches ultimately supply which body region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The abdominal wall and gut"
+        },
+        {
+          "label": "B",
+          "text": "The head, neck, and thorax"
+        },
+        {
+          "label": "C",
+          "text": "The limbs and appendicular skeleton"
+        },
+        {
+          "label": "D",
+          "text": "The pelvis and perineum"
+        },
+        {
+          "label": "E",
+          "text": "The lower back and vertebral column"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pharyngeal (branchial) arches shown remodel to form the great arteries and other structures of the head, neck, and thorax. Somites, the heart bulge, lens placode, and otic placode are also visible, marking key landmarks of the developing embryo.",
+        "whyCorrect": "The pharyngeal (branchial) arches shown remodel to form the great arteries and other structures of the head, neck, and thorax. Somites, the heart bulge, lens placode, and otic placode are also visible, marking key landmarks of the developing embryo.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-004_ca004_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-183",
+      "topicId": "aortic-arch-anatomy",
+      "topicName": "Aortic Arch Anatomy",
+      "stem": "This schematic traces the stepwise remodeling of the paired embryonic aortic arches into the adult great vessels. The distal segment of the left sixth arch that persists rather than regressing becomes which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The internal carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "The brachiocephalic trunk"
+        },
+        {
+          "label": "C",
+          "text": "The right subclavian artery"
+        },
+        {
+          "label": "D",
+          "text": "The ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "The proximal right pulmonary artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The sixth aortic arches give rise to the pulmonary arteries; on the left, the distal segment persists as the ductus arteriosus, whereas on the right this distal portion regresses. This asymmetry also explains the differing courses of the right and left recurrent laryngeal nerves.",
+        "whyCorrect": "The sixth aortic arches give rise to the pulmonary arteries; on the left, the distal segment persists as the ductus arteriosus, whereas on the right this distal portion regresses. This asymmetry also explains the differing courses of the right and left recurrent laryngeal nerves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-183_ca004_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

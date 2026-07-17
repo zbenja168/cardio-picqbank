@@ -1,0 +1,201 @@
+{
+  "categoryId": "atherosclerosis",
+  "categoryName": "Atherosclerosis",
+  "questions": [
+    {
+      "id": "capic-142",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "The lower panel of this diagram shows the change that has occurred in the artery compared with the upper panel. What is the primary hemodynamic consequence of this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased blood flow from vessel dilation"
+        },
+        {
+          "label": "B",
+          "text": "Reduced blood flow due to luminal narrowing"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary permeability"
+        },
+        {
+          "label": "D",
+          "text": "Loss of arterial pulsatility from wall thinning"
+        },
+        {
+          "label": "E",
+          "text": "Backflow from valve incompetence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
+        "whyCorrect": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-142_ca030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-143",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This arterial cross-section shows a mature atheroma. Rupture of the thin fibrous cap overlying it would most directly precipitate which acute event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of an aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Coronary vasospasm"
+        },
+        {
+          "label": "D",
+          "text": "Chronic stable angina"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis with luminal occlusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
+        "whyCorrect": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-143_ca030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-144",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This opened aorta shows raised yellow lesions on the intimal surface, some ulcerated with overlying thrombus. These lesions represent what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Syphilitic gummas"
+        },
+        {
+          "label": "C",
+          "text": "Thrombi within an otherwise normal wall"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaques (atheromas)"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinous exudate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
+        "whyCorrect": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-144_ca030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-225",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "In this schematic of atheroma pathogenesis, the lipid engulfed by the intimal foam cells is chiefly derived from what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidized LDL taken up by macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Chylomicron triglycerides"
+        },
+        {
+          "label": "C",
+          "text": "VLDL remnants filtered from plasma"
+        },
+        {
+          "label": "D",
+          "text": "HDL cholesterol"
+        },
+        {
+          "label": "E",
+          "text": "Dietary cholesterol crystals absorbed directly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma.",
+        "whyCorrect": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-225_ca030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-226",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This figure shows the stepwise progression from a normal artery to advanced disease. What functional property of the artery is ultimately reduced by the changes depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac preload"
+        },
+        {
+          "label": "B",
+          "text": "Venous return"
+        },
+        {
+          "label": "C",
+          "text": "Capillary hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic drainage"
+        },
+        {
+          "label": "E",
+          "text": "Luminal blood flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues.",
+        "whyCorrect": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-226_ca030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

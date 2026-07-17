@@ -1,0 +1,279 @@
+{
+  "categoryId": "medium-vessel-vasculitis",
+  "categoryName": "Medium-Vessel Vasculitis",
+  "questions": [
+    {
+      "id": "capic-074",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This mesenteric angiogram from a patient with polyarteritis nodosa shows multiple small outpouchings (red arrows) in a 'beads-on-a-string' pattern. These beads represent which lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atheromatous plaques"
+        },
+        {
+          "label": "B",
+          "text": "Arterial dissections"
+        },
+        {
+          "label": "C",
+          "text": "Microaneurysms"
+        },
+        {
+          "label": "D",
+          "text": "Venous varices"
+        },
+        {
+          "label": "E",
+          "text": "Thrombotic occlusions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding.",
+        "whyCorrect": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-074_ca028_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-136",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This oral finding was noted in a febrile young child who also had bilateral nonexudative conjunctivitis and a truncal rash. What is the most feared long-term complication of the underlying disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ruptured cerebral aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery aneurysm"
+        },
+        {
+          "label": "D",
+          "text": "Renal artery stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
+        "whyCorrect": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-136_ca028_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-137",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "A 3-year-old with 5 days of high fever developed this nonspecific truncal eruption along with red eyes and a swollen red tongue. First-line treatment includes high-dose aspirin plus which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "D",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous immunoglobulin (IVIG)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
+        "whyCorrect": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-137_ca028_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-138",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This palmar finding in a child with prolonged fever, conjunctival injection, and mucosal changes is characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "B",
+          "text": "Scarlet fever"
+        },
+        {
+          "label": "C",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "D",
+          "text": "Henoch-Schonlein purpura"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
+        "whyCorrect": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-138_ca028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-139",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This muscle biopsy from a patient with fever, weight loss, and myalgias shows transmural inflammation and bright-pink change of the vessel wall. Chronic infection with which virus is classically associated with the diagnosis shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis A virus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella zoster virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
+        "whyCorrect": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-139_ca028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-140",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This cross-section of an artery showing transmural necrotizing inflammation and fibrinoid necrosis is diagnostic of polyarteritis nodosa. Which organ system is characteristically spared by this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lungs"
+        },
+        {
+          "label": "B",
+          "text": "The kidneys"
+        },
+        {
+          "label": "C",
+          "text": "The skin"
+        },
+        {
+          "label": "D",
+          "text": "The gastrointestinal tract"
+        },
+        {
+          "label": "E",
+          "text": "The peripheral nerves"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
+        "whyCorrect": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-140_ca028_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-141",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This vessel from a young smoker shows a highly cellular inflammatory thrombus occluding the lumen with relative sparing of the vessel wall. Which diagnosis does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "B",
+          "text": "Giant cell arteritis"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
+        "whyCorrect": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-141_ca028_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

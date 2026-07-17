@@ -1,0 +1,201 @@
+{
+  "categoryId": "local-control-of-the-microcirculation",
+  "categoryName": "Local Control of the Microcirculation",
+  "questions": [
+    {
+      "id": "capic-208",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "These plots show local blood flow rising as tissue metabolic activity increases. What is the primary driver of this increase in flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circulating epinephrine acting on beta-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "A rise in arterial oxygen partial pressure"
+        },
+        {
+          "label": "C",
+          "text": "Local accumulation of vasodilator metabolites from the active tissue"
+        },
+        {
+          "label": "D",
+          "text": "Baroreceptor-mediated reflex vasodilation"
+        },
+        {
+          "label": "E",
+          "text": "Increased sympathetic outflow to the tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Active (functional) hyperemia results from metabolites such as CO2, H+, adenosine, and K+ accumulating during increased activity, which dilate local vessels and raise flow to match demand.",
+        "whyCorrect": "Active (functional) hyperemia results from metabolites such as CO2, H+, adenosine, and K+ accumulating during increased activity, which dilate local vessels and raise flow to match demand.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-208_ca015_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-209",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "This tracing shows a surge in blood flow above baseline immediately after a period of no flow. What produces the overshoot once the occlusion is released?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased venous return raising cardiac preload"
+        },
+        {
+          "label": "B",
+          "text": "Reflex tachycardia increasing cardiac output"
+        },
+        {
+          "label": "C",
+          "text": "Endothelin-1 released from the vessel wall"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic withdrawal from the occluded limb"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilator metabolites that accumulated during the ischemic period"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During occlusion, metabolites build up and cannot be washed away; on reperfusion these dilators cause blood flow to transiently exceed baseline (reactive hyperemia).",
+        "whyCorrect": "During occlusion, metabolites build up and cannot be washed away; on reperfusion these dilators cause blood flow to transiently exceed baseline (reactive hyperemia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-209_ca015_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-210",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "In this schematic of endothelial paracrine factors acting on vascular smooth muscle, which released factor promotes contraction rather than relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L-arginine"
+        },
+        {
+          "label": "B",
+          "text": "Endothelium-derived hyperpolarizing factor (EDHF)"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Endothelin-1 (ET-1)"
+        },
+        {
+          "label": "E",
+          "text": "Nitric oxide (NO)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The endothelium releases both dilators (NO, EDHF, PGI2) and constrictors; endothelin-1 is the potent vasoconstrictor, promoting smooth muscle contraction while the others favor relaxation.",
+        "whyCorrect": "The endothelium releases both dilators (NO, EDHF, PGI2) and constrictors; endothelin-1 is the potent vasoconstrictor, promoting smooth muscle contraction while the others favor relaxation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-210_ca015_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-211",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "This diagram traces the pathway from endothelial stimulation through to vascular smooth muscle relaxation. What second messenger directly mediates the relaxation shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diacylglycerol (DAG)"
+        },
+        {
+          "label": "B",
+          "text": "Cyclic GMP (cGMP)"
+        },
+        {
+          "label": "C",
+          "text": "Inositol trisphosphate (IP3)"
+        },
+        {
+          "label": "D",
+          "text": "The calcium-calmodulin complex"
+        },
+        {
+          "label": "E",
+          "text": "Cyclic AMP (cAMP)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitric oxide activates guanylyl cyclase, raising cGMP, which lowers intracellular calcium and activates myosin light chain phosphatase to relax vascular smooth muscle.",
+        "whyCorrect": "Nitric oxide activates guanylyl cyclase, raising cGMP, which lowers intracellular calcium and activates myosin light chain phosphatase to relax vascular smooth muscle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-211_ca015_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-212",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "These tracings compare two catecholamines' effects on arterial pressure and heart rate. Why does the agent on the left produce little net change in mean arterial pressure at physiologic doses while the agent on the right raises it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine triggers reflex bradycardia that lowers output"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine does not bind adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine preferentially activates beta-2 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine's beta-2 vasodilation in skeletal muscle offsets its pressor effect"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine has no effect on alpha-1 receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At physiologic levels epinephrine engages beta-2 receptors causing skeletal muscle vasodilation, which counterbalances its alpha-mediated pressor action; norepinephrine acts mainly on alpha-1, so it raises MAP and triggers reflex bradycardia.",
+        "whyCorrect": "At physiologic levels epinephrine engages beta-2 receptors causing skeletal muscle vasodilation, which counterbalances its alpha-mediated pressor action; norepinephrine acts mainly on alpha-1, so it raises MAP and triggers reflex bradycardia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-212_ca015_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

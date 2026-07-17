@@ -1,0 +1,240 @@
+{
+  "categoryId": "histology-of-blood-vessels-and-lymphatics",
+  "categoryName": "Histology of Blood Vessels and Lymphatics",
+  "questions": [
+    {
+      "id": "capic-035",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This H&E light-microscopy field of a vessel wall shows a wavy line separating two of the concentric layers. What does that undulating boundary represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The vasa vasorum"
+        },
+        {
+          "label": "B",
+          "text": "The basement membrane of the endothelium"
+        },
+        {
+          "label": "C",
+          "text": "The pericardial reflection"
+        },
+        {
+          "label": "D",
+          "text": "A layer of fibrin from early clotting"
+        },
+        {
+          "label": "E",
+          "text": "The internal elastic lamina"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections.",
+        "whyCorrect": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-035_ca023_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-036",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This is a histologic section through the wall of the aorta. What histologic feature of the tunica media allows this vessel to expand during systole and recoil during diastole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A thick layer of skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "A single layer of smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Numerous one-way valves"
+        },
+        {
+          "label": "D",
+          "text": "An absence of endothelium"
+        },
+        {
+          "label": "E",
+          "text": "A high density of elastin fibers"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow.",
+        "whyCorrect": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-036_ca023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-037",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This specially stained section of aortic tunica media highlights dark, wavy bands running across the field. What component is this stain selectively demonstrating?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrin strands"
+        },
+        {
+          "label": "B",
+          "text": "Smooth muscle nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Elastin fibers"
+        },
+        {
+          "label": "D",
+          "text": "Collagen bundles"
+        },
+        {
+          "label": "E",
+          "text": "Deposited calcium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries.",
+        "whyCorrect": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-037_ca023_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-038",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This histologic field shows two adjacent small vessels, the smaller labeled and the slightly larger companion nearby. Which feature typically distinguishes the smallest artery shown from an accompanying vein of similar size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is filled with lymph rather than blood"
+        },
+        {
+          "label": "B",
+          "text": "It has no endothelial lining"
+        },
+        {
+          "label": "C",
+          "text": "It has a relatively thicker wall and often an incomplete internal elastic lamina"
+        },
+        {
+          "label": "D",
+          "text": "It contains one-way valves"
+        },
+        {
+          "label": "E",
+          "text": "It has the thickest adventitia of any vessel"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina.",
+        "whyCorrect": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-038_ca023_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-039",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This electron micrograph shows a capillary whose endothelial cells are interrupted by tiny pores while the basement membrane remains intact. In which tissue would you most expect to find this capillary type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The epidermis"
+        },
+        {
+          "label": "B",
+          "text": "Liver and spleen"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac valve leaflets"
+        },
+        {
+          "label": "D",
+          "text": "Renal glomerulus and intestine"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle and skin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands.",
+        "whyCorrect": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-039_ca023_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-218",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This schematic shows an arteriole, a capillary bed, a venule, and a separate green vessel network embedded in tissue. What is the primary role of the green vessels shown among the capillaries?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To store venous blood under high pressure"
+        },
+        {
+          "label": "B",
+          "text": "To collect excess interstitial fluid and return it toward the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "To carry oxygenated blood to the tissue"
+        },
+        {
+          "label": "D",
+          "text": "To directly connect arteries to veins bypassing capillaries"
+        },
+        {
+          "label": "E",
+          "text": "To generate the arterial pulse pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance.",
+        "whyCorrect": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-218_ca023_f15.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

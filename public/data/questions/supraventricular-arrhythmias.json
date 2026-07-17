@@ -1,0 +1,240 @@
+{
+  "categoryId": "supraventricular-arrhythmias",
+  "categoryName": "Supraventricular Arrhythmias",
+  "questions": [
+    {
+      "id": "capic-092",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "This rhythm strip shows a beat whose P wave arrives early and has a different shape from the preceding sinus P waves, yet is followed by a normal narrow QRS. Which arrhythmia does this tracing best represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinus arrhythmia"
+        },
+        {
+          "label": "B",
+          "text": "Premature ventricular contraction"
+        },
+        {
+          "label": "C",
+          "text": "Junctional escape beat"
+        },
+        {
+          "label": "D",
+          "text": "Premature atrial contraction"
+        },
+        {
+          "label": "E",
+          "text": "Second-degree AV block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An early, abnormally shaped (ectopic) P wave that is still conducted through the AV node to produce a normal narrow QRS is the hallmark of a premature atrial contraction. A PVC would show a wide QRS with no preceding P wave.",
+        "whyCorrect": "An early, abnormally shaped (ectopic) P wave that is still conducted through the AV node to produce a normal narrow QRS is the hallmark of a premature atrial contraction. A PVC would show a wide QRS with no preceding P wave.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-092_ca049_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-093",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "This rhythm strip shows organized sawtooth atrial waves at a constant rate, but the spacing between QRS complexes varies from beat to beat. What accounts for the irregular ventricular response seen here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Variable atrial cycle length"
+        },
+        {
+          "label": "B",
+          "text": "Multiple ectopic atrial foci"
+        },
+        {
+          "label": "C",
+          "text": "Variable AV conduction ratio"
+        },
+        {
+          "label": "D",
+          "text": "Accessory pathway conduction"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde ventriculoatrial conduction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In atrial flutter the atrial (flutter) rate is fixed; when the AV node conducts at changing ratios (e.g. alternating 2:1 and 4:1) the ventricular rhythm becomes irregular even though the atrial rate is constant.",
+        "whyCorrect": "In atrial flutter the atrial (flutter) rate is fixed; when the AV node conducts at changing ratios (e.g. alternating 2:1 and 4:1) the ventricular rhythm becomes irregular even though the atrial rate is constant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-093_ca049_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-094",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "This ECG from a patient with chronic lung disease shows an irregular tachycardia in which the P waves (arrows) have at least three distinct shapes. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "C",
+          "text": "Multifocal atrial tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Wandering atrial pacemaker"
+        },
+        {
+          "label": "E",
+          "text": "Atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Three or more distinct P-wave morphologies with an irregular rate over 100/min define multifocal atrial tachycardia, seen most often with pulmonary disease. Atrial fibrillation lacks discrete organized P waves.",
+        "whyCorrect": "Three or more distinct P-wave morphologies with an irregular rate over 100/min define multifocal atrial tachycardia, seen most often with pulmonary disease. Atrial fibrillation lacks discrete organized P waves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-094_ca049_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-095",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "This ECG shows an abrupt regular narrow-complex tachycardia in which a retrograde P wave is buried just after each QRS. In young, otherwise healthy patients this rhythm is most commonly caused by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digitalis-induced triggered activity"
+        },
+        {
+          "label": "B",
+          "text": "A macro-reentrant right atrial circuit"
+        },
+        {
+          "label": "C",
+          "text": "Reentry through dual AV nodal pathways"
+        },
+        {
+          "label": "D",
+          "text": "Reentry over an accessory bypass tract"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced automaticity of an atrial focus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "AVNRT is a micro-reentrant circuit using fast and slow pathways within the AV node, producing a regular narrow-complex tachycardia with a retrograde P wave close to the QRS. It is the most common SVT in young people.",
+        "whyCorrect": "AVNRT is a micro-reentrant circuit using fast and slow pathways within the AV node, producing a regular narrow-complex tachycardia with a retrograde P wave close to the QRS. It is the most common SVT in young people.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-095_ca049_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-096",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "This schematic contrasts a normal QRS with one that has a slurred upstroke at its onset and a shortened PR interval. What underlying electrophysiologic event produces this waveform change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AV nodal reentry"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular pre-excitation via an accessory pathway"
+        },
+        {
+          "label": "C",
+          "text": "Delayed His-Purkinje conduction"
+        },
+        {
+          "label": "D",
+          "text": "Bundle branch block"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde atrial activation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The slurred initial upstroke (delta wave) with a short PR interval reflects early ventricular depolarization arriving through an accessory pathway that bypasses the AV node, i.e. pre-excitation as in WPW.",
+        "whyCorrect": "The slurred initial upstroke (delta wave) with a short PR interval reflects early ventricular depolarization arriving through an accessory pathway that bypasses the AV node, i.e. pre-excitation as in WPW.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-096_ca049_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-097",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "This baseline (sinus rhythm) 12-lead ECG shows a short PR interval and a slurred upstroke at the start of the QRS complexes (arrows). What does this finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A prior myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "An accessory conduction pathway is present"
+        },
+        {
+          "label": "E",
+          "text": "First-degree AV block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The short PR interval plus delta waves during sinus rhythm signify ventricular pre-excitation through an accessory (Kent) bundle, the defining ECG signature of Wolff-Parkinson-White syndrome.",
+        "whyCorrect": "The short PR interval plus delta waves during sinus rhythm signify ventricular pre-excitation through an accessory (Kent) bundle, the defining ECG signature of Wolff-Parkinson-White syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-097_ca049_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

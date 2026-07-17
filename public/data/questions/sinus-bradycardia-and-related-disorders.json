@@ -1,0 +1,123 @@
+{
+  "categoryId": "sinus-bradycardia-and-related-disorders",
+  "categoryName": "Sinus Bradycardia and Related Disorders",
+  "questions": [
+    {
+      "id": "capic-089",
+      "topicId": "sinus-bradycardia-and-related-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "This rhythm strip shows a regular rhythm at a rate of approximately 43 bpm with an upright P wave of normal morphology preceding every narrow QRS complex. What rhythm does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinus pause"
+        },
+        {
+          "label": "B",
+          "text": "Sinus bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "D",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Junctional escape rhythm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A regular rhythm below 60 bpm with a normal P wave preceding each QRS (normal PR interval and axis) indicates the impulse originates from the SA node at a slow rate, defining sinus bradycardia. A junctional rhythm would lack normal preceding P waves, and atrial fibrillation would be irregular with no discrete P waves.",
+        "whyCorrect": "A regular rhythm below 60 bpm with a normal P wave preceding each QRS (normal PR interval and axis) indicates the impulse originates from the SA node at a slow rate, defining sinus bradycardia. A junctional rhythm would lack normal preceding P waves, and atrial fibrillation would be irregular with no discrete P waves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-089_ca046_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-090",
+      "topicId": "sinus-bradycardia-and-related-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "This rhythm strip demonstrates narrow QRS complexes without preceding P waves at a rate of roughly 40-60 bpm. What rhythm is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinus bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "Accelerated idioventricular rhythm"
+        },
+        {
+          "label": "C",
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "D",
+          "text": "Junctional (AV nodal) escape rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Complete heart block with ventricular escape"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When the SA node fails or is severely slowed, the AV junction acts as a subsidiary pacemaker firing at ~40-60 bpm. Because impulses travel down the normal His-Purkinje system the QRS is narrow, and P waves are absent (or inverted near the QRS) because there is no normal atrial depolarization from the SA node.",
+        "whyCorrect": "When the SA node fails or is severely slowed, the AV junction acts as a subsidiary pacemaker firing at ~40-60 bpm. Because impulses travel down the normal His-Purkinje system the QRS is narrow, and P waves are absent (or inverted near the QRS) because there is no normal atrial depolarization from the SA node.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-090_ca046_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-247",
+      "topicId": "sinus-bradycardia-and-related-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "This rhythm strip shows normal sinus beats interrupted by an interval greater than 2 seconds with no atrial or ventricular activity, after which sinus rhythm resumes. What is the underlying mechanism of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abrupt transient failure of impulse formation by the SA node"
+        },
+        {
+          "label": "B",
+          "text": "Retrograde conduction from a ventricular focus"
+        },
+        {
+          "label": "C",
+          "text": "Complete dissociation of atrial and ventricular activity"
+        },
+        {
+          "label": "D",
+          "text": "Reentry through an accessory pathway"
+        },
+        {
+          "label": "E",
+          "text": "Blocked conduction of atrial impulses at the AV node"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A sinus pause is an abrupt cessation of SA node automaticity, producing a flat line with no P waves or QRS complexes until pacemaker activity resumes. It reflects sinoatrial node dysfunction rather than AV conduction block, in which P waves would continue but fail to conduct.",
+        "whyCorrect": "A sinus pause is an abrupt cessation of SA node automaticity, producing a flat line with no P waves or QRS complexes until pacemaker activity resumes. It reflects sinoatrial node dysfunction rather than AV conduction block, in which P waves would continue but fail to conduct.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-247_ca046_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

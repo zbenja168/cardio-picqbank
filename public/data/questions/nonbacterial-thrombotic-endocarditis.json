@@ -1,0 +1,162 @@
+{
+  "categoryId": "nonbacterial-thrombotic-endocarditis",
+  "categoryName": "Nonbacterial Thrombotic Endocarditis",
+  "questions": [
+    {
+      "id": "capic-114",
+      "topicId": "nonbacterial-thrombotic-endocarditis",
+      "topicName": "Nonbacterial Thrombotic Endocarditis",
+      "stem": "This 12-lead ECG from a patient with sharp chest pain that improves on sitting up and leaning forward demonstrates the labeled changes across multiple leads. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "Benign early repolarization"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Acute ST-elevation myocardial infarction"
+        },
+        {
+          "label": "E",
+          "text": "Hyperkalemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diffuse ST-segment elevation with PR-segment depression across multiple leads (rather than a single vascular territory) is the classic ECG signature of acute pericarditis.",
+        "whyCorrect": "Diffuse ST-segment elevation with PR-segment depression across multiple leads (rather than a single vascular territory) is the classic ECG signature of acute pericarditis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-114_ca075_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-168",
+      "topicId": "nonbacterial-thrombotic-endocarditis",
+      "topicName": "Nonbacterial Thrombotic Endocarditis",
+      "stem": "This gross valve specimen shows sterile vegetations distributed along the free margins of the leaflet in a patient with systemic lupus erythematosus. What eponymous term is used for this pattern of endocarditis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoid-related valve fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Acute infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatic valvulitis with commissural fusion"
+        },
+        {
+          "label": "D",
+          "text": "Marantic endocarditis of underlying malignancy"
+        },
+        {
+          "label": "E",
+          "text": "Libman-Sacks endocarditis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The sterile vegetations of SLE that form along leaflet margins (and can occur on both surfaces of the valve) are termed Libman-Sacks endocarditis, a form of NBTE.",
+        "whyCorrect": "The sterile vegetations of SLE that form along leaflet margins (and can occur on both surfaces of the valve) are termed Libman-Sacks endocarditis, a form of NBTE.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-168_ca075_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-169",
+      "topicId": "nonbacterial-thrombotic-endocarditis",
+      "topicName": "Nonbacterial Thrombotic Endocarditis",
+      "stem": "This gross specimen shows a heart whose pericardial surface is coated with a thick, opaque, grossly purulent exudate. What organism is the most common cause of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus B"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus viridans"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Purulent (bacterial) pericarditis produces grossly purulent pericardial fluid and is most commonly caused by Staphylococcus aureus.",
+        "whyCorrect": "Purulent (bacterial) pericarditis produces grossly purulent pericardial fluid and is most commonly caused by Staphylococcus aureus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-169_ca075_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-174",
+      "topicId": "nonbacterial-thrombotic-endocarditis",
+      "topicName": "Nonbacterial Thrombotic Endocarditis",
+      "stem": "This gross image shows a heart valve leaflet studded with small growths along its margin, with the underlying chordae visible. Which underlying condition most characteristically produces these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age-related degenerative calcification"
+        },
+        {
+          "label": "B",
+          "text": "A hypercoagulable state such as malignancy or SLE"
+        },
+        {
+          "label": "C",
+          "text": "A congenital bicuspid malformation"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial seeding during transient bacteremia"
+        },
+        {
+          "label": "E",
+          "text": "Post-streptococcal rheumatic scarring"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The sterile platelet-fibrin vegetations shown form on the valve cusp margins in nonbacterial thrombotic endocarditis, which arises from hypercoagulable states such as advanced malignancy, SLE (Libman-Sacks), or antiphospholipid syndrome rather than from infection or inflammation.",
+        "whyCorrect": "The sterile platelet-fibrin vegetations shown form on the valve cusp margins in nonbacterial thrombotic endocarditis, which arises from hypercoagulable states such as advanced malignancy, SLE (Libman-Sacks), or antiphospholipid syndrome rather than from infection or inflammation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-174_ca081_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

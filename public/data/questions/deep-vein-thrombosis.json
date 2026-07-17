@@ -1,0 +1,357 @@
+{
+  "categoryId": "deep-vein-thrombosis",
+  "categoryName": "Deep Vein Thrombosis",
+  "questions": [
+    {
+      "id": "capic-086",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "The circled fibrin degradation fragment produced as this crosslinked clot breaks down is measured by a blood test that has which diagnostic property for DVT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both highly sensitive and highly specific"
+        },
+        {
+          "label": "B",
+          "text": "Specific but not sensitive"
+        },
+        {
+          "label": "C",
+          "text": "Neither sensitive nor specific"
+        },
+        {
+          "label": "D",
+          "text": "Diagnostic only when combined with a bleeding time"
+        },
+        {
+          "label": "E",
+          "text": "Sensitive but not specific"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "D-dimer, a fibrin degradation product, is elevated in many conditions; it is sensitive but not specific, so a normal value helps rule out DVT while an elevation is nonspecific.",
+        "whyCorrect": "D-dimer, a fibrin degradation product, is elevated in many conditions; it is sensitive but not specific, so a normal value helps rule out DVT while an elevation is nonspecific.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-086_ca040_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-087",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "In this paired before- and with-compression ultrasound of a leg vein, the vein that fails to collapse under external pressure indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Isolated venous valve incompetence"
+        },
+        {
+          "label": "C",
+          "text": "Presence of a deep vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Superficial thrombophlebitis only"
+        },
+        {
+          "label": "E",
+          "text": "Normal patent vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A normal vein collapses with compression; a vein that stays open when pressure is applied signals an intraluminal clot, the diagnostic finding for DVT on compression ultrasonography.",
+        "whyCorrect": "A normal vein collapses with compression; a vein that stays open when pressure is applied signals an intraluminal clot, the diagnostic finding for DVT on compression ultrasonography.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-087_ca040_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-154",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This patient's right leg shows unilateral swelling and erythema. Which condition is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Ruptured Baker cyst"
+        },
+        {
+          "label": "C",
+          "text": "Lower extremity lymphedema"
+        },
+        {
+          "label": "D",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral chronic venous insufficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis.",
+        "whyCorrect": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-154_ca040_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-155",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This markedly edematous and cyanotic limb resulting from massive iliofemoral venous occlusion represents which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phlegmasia cerulea dolens"
+        },
+        {
+          "label": "B",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "C",
+          "text": "Acute limb ischemia from an arterial embolus"
+        },
+        {
+          "label": "D",
+          "text": "Acute compartment syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Cellulitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency.",
+        "whyCorrect": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-155_ca040_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-234",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "In this illustration, the small fragment that has broken off the larger clot and is traveling downstream through the vein will most likely cause disease by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Triggering local inflammation of the vein wall where it formed"
+        },
+        {
+          "label": "B",
+          "text": "Directly seeding bacteria into the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "Causing sustained vasospasm of the involved vein"
+        },
+        {
+          "label": "D",
+          "text": "Lodging in and occluding a distant vessel (embolization)"
+        },
+        {
+          "label": "E",
+          "text": "Depositing immune complexes in small capillaries"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The traveling fragment is a thromboembolus; once dislodged it flows until it wedges in and obstructs a smaller downstream vessel, the defining mechanism of embolic injury.",
+        "whyCorrect": "The traveling fragment is a thromboembolus; once dislodged it flows until it wedges in and obstructs a smaller downstream vessel, the defining mechanism of embolic injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-234_ca040_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-235",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A large clot occluding the vessels labeled in the lungs of this diagram would most immediately impair which function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic arterial pressure regulation through the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic detoxification of the portal blood"
+        },
+        {
+          "label": "C",
+          "text": "Coronary perfusion of the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Glomerular filtration in the kidneys"
+        },
+        {
+          "label": "E",
+          "text": "Oxygenation of blood via pulmonary gas exchange"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram traces a leg clot to the pulmonary arteries; obstruction there blocks perfusion of the lungs and impairs gas exchange, the hallmark of pulmonary embolism.",
+        "whyCorrect": "The diagram traces a leg clot to the pulmonary arteries; obstruction there blocks perfusion of the lungs and impairs gas exchange, the hallmark of pulmonary embolism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-235_ca040_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-236",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This three-circle diagram groups the conditions that predispose to thrombus formation. Collectively these three factors are known by what eponymous name?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Charcot triad"
+        },
+        {
+          "label": "B",
+          "text": "Cushing triad"
+        },
+        {
+          "label": "C",
+          "text": "Beck triad"
+        },
+        {
+          "label": "D",
+          "text": "Virchow triad"
+        },
+        {
+          "label": "E",
+          "text": "Samter triad"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Endothelial injury, hypercoagulability, and abnormal blood flow (stasis) together constitute Virchow triad, the classic framework for thrombogenesis.",
+        "whyCorrect": "Endothelial injury, hypercoagulability, and abnormal blood flow (stasis) together constitute Virchow triad, the classic framework for thrombogenesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-236_ca040_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-237",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "The lower vessel in this figure shows a flow pattern that promotes clotting. It does so by having what effect on platelets and clotting factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilutes them below the threshold needed to clot"
+        },
+        {
+          "label": "B",
+          "text": "Prevents platelet activation entirely"
+        },
+        {
+          "label": "C",
+          "text": "Speeds their clearance from the circulation"
+        },
+        {
+          "label": "D",
+          "text": "Allows them to mingle and contact the vessel wall"
+        },
+        {
+          "label": "E",
+          "text": "Keeps them centered in the lumen away from the wall"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Turbulent (disorganized) flow lets platelets and clotting factors move toward and interact with the vessel wall, promoting thrombus formation, unlike smooth laminar flow.",
+        "whyCorrect": "Turbulent (disorganized) flow lets platelets and clotting factors move toward and interact with the vessel wall, promoting thrombus formation, unlike smooth laminar flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-237_ca040_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-238",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This inflatable leg sleeve is used in hospitalized at-risk patients to help prevent DVT. It works primarily by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intermittent pneumatic compression that promotes venous return and reduces stasis"
+        },
+        {
+          "label": "B",
+          "text": "Compressing the arteries to limit blood inflow"
+        },
+        {
+          "label": "C",
+          "text": "Delivering a transdermal anticoagulant through the skin"
+        },
+        {
+          "label": "D",
+          "text": "Cooling the limb to lower metabolic demand"
+        },
+        {
+          "label": "E",
+          "text": "Electrically stimulating dissolution of existing clots"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mechanical (intermittent pneumatic) compression devices squeeze the limb to enhance venous return and counter stasis, offering DVT prophylaxis when anticoagulants are contraindicated.",
+        "whyCorrect": "Mechanical (intermittent pneumatic) compression devices squeeze the limb to enhance venous return and counter stasis, offering DVT prophylaxis when anticoagulants are contraindicated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-238_ca040_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

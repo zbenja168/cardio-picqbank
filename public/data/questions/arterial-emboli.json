@@ -1,0 +1,84 @@
+{
+  "categoryId": "arterial-emboli",
+  "categoryName": "Arterial Emboli",
+  "questions": [
+    {
+      "id": "capic-075",
+      "topicId": "arterial-emboli",
+      "topicName": "Arterial Emboli",
+      "stem": "This funduscopic image shows a pale optic region with a cherry-red spot at the macula and cotton-wool spots. What vascular event does this appearance indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute angle-closure glaucoma"
+        },
+        {
+          "label": "B",
+          "text": "Embolic occlusion of the central retinal artery"
+        },
+        {
+          "label": "C",
+          "text": "Central retinal vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Hypertensive papilledema"
+        },
+        {
+          "label": "E",
+          "text": "Diabetic proliferative retinopathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor.",
+        "whyCorrect": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-075_ca031_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-076",
+      "topicId": "arterial-emboli",
+      "topicName": "Arterial Emboli",
+      "stem": "This contrast-enhanced CT angiogram uses arrows to mark filling defects in paired abdominal organs' arterial supply. Which imaging modality is depicted and why is it preferred here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MRI without contrast, because it best resolves cholesterol crystals"
+        },
+        {
+          "label": "B",
+          "text": "Conventional radiography, because it is fastest for bony detail"
+        },
+        {
+          "label": "C",
+          "text": "Duplex ultrasound, because it avoids radiation exposure"
+        },
+        {
+          "label": "D",
+          "text": "Non-contrast CT, because it best highlights soft-tissue calcification"
+        },
+        {
+          "label": "E",
+          "text": "CT angiography, because it shows both the site and degree of arterial occlusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction.",
+        "whyCorrect": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-076_ca031_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

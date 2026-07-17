@@ -1,0 +1,123 @@
+{
+  "categoryId": "antiarrhythmic-agents-classes-ii-iv",
+  "categoryName": "Antiarrhythmic Agents: Classes II-IV",
+  "questions": [
+    {
+      "id": "capic-248",
+      "topicId": "antiarrhythmic-agents-classes-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "This action potential tracing lacks a stable resting membrane potential and shows a spontaneous, gradual phase 4 depolarization that drifts up to threshold. Which cardiac cell type does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial contractile myocyte"
+        },
+        {
+          "label": "B",
+          "text": "Purkinje conduction fiber"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle fiber"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular myocyte"
+        },
+        {
+          "label": "E",
+          "text": "Sinoatrial/atrioventricular nodal pacemaker cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Only nodal (pacemaker) cells lack a true resting potential and undergo automatic phase 4 depolarization driven by the funny current (If) through HCN channels, followed by a calcium-dependent phase 0 (ICa) and potassium-dependent phase 3 (IK). Working myocytes and Purkinje fibers have a stable resting potential and a fast Na+-dependent upstroke.",
+        "whyCorrect": "Only nodal (pacemaker) cells lack a true resting potential and undergo automatic phase 4 depolarization driven by the funny current (If) through HCN channels, followed by a calcium-dependent phase 0 (ICa) and potassium-dependent phase 3 (IK). Working myocytes and Purkinje fibers have a stable resting potential and a fast Na+-dependent upstroke.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-248_ca047_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-249",
+      "topicId": "antiarrhythmic-agents-classes-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "In this pacemaker action potential the drug-modified (dark) curve shows a decreased slope of phase 4 depolarization and prolonged repolarization at the AV node compared with normal. Which drug mechanism produces this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Muscarinic receptor activation"
+        },
+        {
+          "label": "B",
+          "text": "L-type calcium channel blockade"
+        },
+        {
+          "label": "C",
+          "text": "Fast sodium channel blockade"
+        },
+        {
+          "label": "D",
+          "text": "Beta-adrenergic receptor blockade"
+        },
+        {
+          "label": "E",
+          "text": "Delayed-rectifier potassium channel blockade"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Class II antiarrhythmics (beta-blockers) inhibit sympathetic beta-1 stimulation of nodal cells, flattening the slope of phase 4 depolarization. This slows the firing rate of the SA node and conduction through the AV node, producing bradycardia and a prolonged PR interval.",
+        "whyCorrect": "Class II antiarrhythmics (beta-blockers) inhibit sympathetic beta-1 stimulation of nodal cells, flattening the slope of phase 4 depolarization. This slows the firing rate of the SA node and conduction through the AV node, producing bradycardia and a prolonged PR interval.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-249_ca047_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-250",
+      "topicId": "antiarrhythmic-agents-classes-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "The drug-modified (dark) curve overlaid on this nodal action potential shows a slowed rise of phase 0 and prolonged repolarization at the AV node. Blockade of which ionic current best explains the slowed upstroke?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium-calcium exchanger current"
+        },
+        {
+          "label": "B",
+          "text": "Funny (HCN) current"
+        },
+        {
+          "label": "C",
+          "text": "Fast sodium current"
+        },
+        {
+          "label": "D",
+          "text": "Delayed-rectifier potassium current"
+        },
+        {
+          "label": "E",
+          "text": "L-type calcium current"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nodal cells depend on L-type calcium influx for their phase 0 upstroke. Class IV agents (verapamil, diltiazem) block these L-type calcium channels, slowing depolarization and conduction through the AV node (negative dromotropy), which reduces heart rate and prolongs the PR interval.",
+        "whyCorrect": "Nodal cells depend on L-type calcium influx for their phase 0 upstroke. Class IV agents (verapamil, diltiazem) block these L-type calcium channels, slowing depolarization and conduction through the AV node (negative dromotropy), which reduces heart rate and prolongs the PR interval.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-250_ca047_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

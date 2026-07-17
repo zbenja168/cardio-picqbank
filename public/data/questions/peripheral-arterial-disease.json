@@ -1,0 +1,240 @@
+{
+  "categoryId": "peripheral-arterial-disease",
+  "categoryName": "Peripheral Arterial Disease",
+  "questions": [
+    {
+      "id": "capic-078",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "The technique illustrated uses inflatable cuffs and an ultrasound probe to record systolic pressures at the arm and the ankle. Comparing these two pressures yields which diagnostic value used to assess peripheral arterial disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulse pressure variation"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac index"
+        },
+        {
+          "label": "C",
+          "text": "Central venous pressure"
+        },
+        {
+          "label": "D",
+          "text": "Mean arterial pressure gradient"
+        },
+        {
+          "label": "E",
+          "text": "Ankle-brachial index"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease.",
+        "whyCorrect": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-078_ca035_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-079",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In the bedside maneuver shown, the suspected limb is gradually raised while supine and observed for color change. Development of pallor at a low elevation angle indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Inadequate arterial perfusion of the limb"
+        },
+        {
+          "label": "C",
+          "text": "Normal arterial supply"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Venous valvular incompetence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees).",
+        "whyCorrect": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-079_ca035_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-148",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "These lower limbs belong to a patient with long-standing peripheral arterial disease. Which chronic finding is most clearly demonstrated by the appearance of the legs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis of the lower leg"
+        },
+        {
+          "label": "B",
+          "text": "Pitting edema from heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Muscle atrophy from chronic ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Acute swelling of deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Lymphedema from lymphatic obstruction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
+        "whyCorrect": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-148_ca035_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-229",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In the lower panel of this diagram, the vessel is narrowed by a plaque and flow across it becomes abnormal. What cellular process, triggered by this abnormal flow pattern, most directly drives ongoing progression of the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased nitric oxide bioavailability causing protective vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "Medial arterial calcification due to renal failure"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocyte-mediated regression of the plaque"
+        },
+        {
+          "label": "D",
+          "text": "Laminar-flow-induced endothelial quiescence"
+        },
+        {
+          "label": "E",
+          "text": "Endothelial dysfunction with release of cytokines and reactive oxygen species"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above.",
+        "whyCorrect": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-229_ca035_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-230",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In this sequence, a catheter is advanced into an atherosclerotic artery, a balloon is inflated to widen the lumen, and a device is left behind to keep the artery open. What is this permanently deployed device called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherectomy burr"
+        },
+        {
+          "label": "B",
+          "text": "Embolic protection filter"
+        },
+        {
+          "label": "C",
+          "text": "Inferior vena cava filter"
+        },
+        {
+          "label": "D",
+          "text": "Venous bypass graft"
+        },
+        {
+          "label": "E",
+          "text": "Stent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement.",
+        "whyCorrect": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-230_ca035_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-231",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In the magnified view, a blue vessel is attached above and below a blocked arterial segment. What is the purpose of this surgical construction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To trap emboli traveling downstream"
+        },
+        {
+          "label": "B",
+          "text": "To reroute blood flow around the occluded artery"
+        },
+        {
+          "label": "C",
+          "text": "To strip plaque from the artery's inner lining"
+        },
+        {
+          "label": "D",
+          "text": "To dissolve the obstructing clot"
+        },
+        {
+          "label": "E",
+          "text": "To balloon-dilate the narrowed segment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis.",
+        "whyCorrect": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-231_ca035_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

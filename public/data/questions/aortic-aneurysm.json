@@ -1,0 +1,318 @@
+{
+  "categoryId": "aortic-aneurysm",
+  "categoryName": "Aortic Aneurysm",
+  "questions": [
+    {
+      "id": "capic-065",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This clinician is palpating deeply in the mid-abdomen above the umbilicus in a patient with suspected aortic aneurysm. What physical finding is being sought?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fluid wave of ascites"
+        },
+        {
+          "label": "B",
+          "text": "Costovertebral angle tenderness"
+        },
+        {
+          "label": "C",
+          "text": "Hepatosplenomegaly"
+        },
+        {
+          "label": "D",
+          "text": "A pulsatile, expansile abdominal mass"
+        },
+        {
+          "label": "E",
+          "text": "Rebound tenderness"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries.",
+        "whyCorrect": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-065_ca024_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-066",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "Bedside ultrasound is preferred over CT for a hypotensive patient with a suspected ruptured AAA primarily because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Requires no operator skill"
+        },
+        {
+          "label": "B",
+          "text": "Can be performed at the bedside without transporting an unstable patient"
+        },
+        {
+          "label": "C",
+          "text": "Provides detailed pre-operative graft planning"
+        },
+        {
+          "label": "D",
+          "text": "Has higher spatial resolution than CT"
+        },
+        {
+          "label": "E",
+          "text": "Better visualizes the retroperitoneum than CT"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department.",
+        "whyCorrect": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-066_ca024_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-067",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "CT angiography is considered the gold-standard imaging modality for evaluating an aortic aneurysm chiefly because it is the most effective tool for:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Detailed anatomic assessment and pre-operative planning"
+        },
+        {
+          "label": "B",
+          "text": "Bedside evaluation of an unstable, hypotensive patient"
+        },
+        {
+          "label": "C",
+          "text": "Avoiding the need for IV contrast"
+        },
+        {
+          "label": "D",
+          "text": "Real-time functional assessment of flow"
+        },
+        {
+          "label": "E",
+          "text": "Avoiding ionizing radiation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound.",
+        "whyCorrect": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-067_ca024_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-068",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This chest X-ray finding was discovered incidentally in a patient later found to have a thoracic aortic aneurysm. Such an aneurysm can also compress an adjacent nerve, producing which symptom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Facial flushing"
+        },
+        {
+          "label": "B",
+          "text": "Hoarseness from recurrent laryngeal nerve compression"
+        },
+        {
+          "label": "C",
+          "text": "Productive cough"
+        },
+        {
+          "label": "D",
+          "text": "Hemoptysis"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral leg weakness"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus.",
+        "whyCorrect": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-068_ca024_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-069",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This CT shows an abdominal aortic aneurysm surrounded by inflammatory change with pockets of gas (black foci) in the wall. What does the presence of gas indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "B",
+          "text": "Non-enhancing mural thrombus"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerotic wall calcification"
+        },
+        {
+          "label": "D",
+          "text": "A contained sterile rupture"
+        },
+        {
+          "label": "E",
+          "text": "A gas-forming infection (mycotic/infected aneurysm)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection.",
+        "whyCorrect": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-069_ca024_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-219",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This illustration depicts an aneurysm involving the aortic root and ascending aorta. Distortion of the aortic root here most characteristically produces which auscultatory finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opening snap"
+        },
+        {
+          "label": "B",
+          "text": "Mid-diastolic rumble of mitral stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Fixed splitting of S2"
+        },
+        {
+          "label": "D",
+          "text": "Diastolic murmur of aortic regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Systolic ejection murmur of aortic stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur.",
+        "whyCorrect": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-219_ca024_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-220",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This patient with a known abdominal aortic aneurysm developed acutely painful, cyanotic toes while palpable pulses were preserved. What is the underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Septic emboli from infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Occlusion of a large proximal artery"
+        },
+        {
+          "label": "D",
+          "text": "Cold-induced vasospasm (Raynaud phenomenon)"
+        },
+        {
+          "label": "E",
+          "text": "Distal embolization of mural thrombus from the aneurysm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses.",
+        "whyCorrect": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-220_ca024_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-221",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "Aneurysms of the artery behind the knee, illustrated here, most commonly cause which complication rather than rupture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-output heart failure"
+        },
+        {
+          "label": "B",
+          "text": "Thrombosis or distal embolization causing limb ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Massive external hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "E",
+          "text": "Deep vein thrombosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia.",
+        "whyCorrect": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-221_ca024_f14.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

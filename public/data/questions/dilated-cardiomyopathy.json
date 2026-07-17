@@ -1,0 +1,123 @@
+{
+  "categoryId": "dilated-cardiomyopathy",
+  "categoryName": "Dilated Cardiomyopathy",
+  "questions": [
+    {
+      "id": "capic-042",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "This myocardial histology field shows an inflammatory infiltrate among the cardiac muscle fibers. This lymphocytic pattern is most characteristic of which etiology of myocarditis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ischemic myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "C",
+          "text": "Viral myocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Hypersensitivity (eosinophilic) myocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial myocarditis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A predominantly lymphocytic infiltrate is characteristic of viral myocarditis; bacterial infection tends to produce neutrophilic infiltrates and hypersensitivity reactions produce eosinophilic infiltrates.",
+        "whyCorrect": "A predominantly lymphocytic infiltrate is characteristic of viral myocarditis; bacterial infection tends to produce neutrophilic infiltrates and hypersensitivity reactions produce eosinophilic infiltrates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-042_ca057_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-161",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "This gross cross-section of a heart shows a spherical shape with markedly dilated ventricular cavities and thin walls. Which condition does it best demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "A structurally normal heart"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac amyloidosis"
+        },
+        {
+          "label": "D",
+          "text": "Acute myocardial infarction"
+        },
+        {
+          "label": "E",
+          "text": "Hypertrophic cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy.",
+        "whyCorrect": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-161_ca057_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-259",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "This schematic depicts the sarcomere remodeling that produces chamber dilation in DCM. How are the new sarcomeres added to the cardiac muscle cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By net loss of existing sarcomeres"
+        },
+        {
+          "label": "B",
+          "text": "In parallel, side-by-side along the short axis"
+        },
+        {
+          "label": "C",
+          "text": "By fibrous replacement of the sarcomeres"
+        },
+        {
+          "label": "D",
+          "text": "In series, end-to-end along the long axis"
+        },
+        {
+          "label": "E",
+          "text": "By fatty infiltration between the sarcomeres"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Eccentric hypertrophy adds sarcomeres end-to-end (in series), lengthening the myocytes and dilating the chambers; parallel (side-by-side) addition instead produces the wall thickening of concentric hypertrophy.",
+        "whyCorrect": "Eccentric hypertrophy adds sarcomeres end-to-end (in series), lengthening the myocytes and dilating the chambers; parallel (side-by-side) addition instead produces the wall thickening of concentric hypertrophy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-259_ca057_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

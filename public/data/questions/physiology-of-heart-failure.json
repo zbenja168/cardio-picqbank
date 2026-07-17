@@ -1,0 +1,84 @@
+{
+  "categoryId": "physiology-of-heart-failure",
+  "categoryName": "Physiology of Heart Failure",
+  "questions": [
+    {
+      "id": "capic-159",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "The heart on the right shows a thickened ventricular wall with a smaller chamber cavity compared with the normal heart on the left. This geometry most directly predisposes to which functional type of heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heart failure with preserved ejection fraction (diastolic dysfunction)"
+        },
+        {
+          "label": "B",
+          "text": "Acute valvular regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Heart failure with reduced ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "High-output heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Right-sided failure from cor pulmonale"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
+        "whyCorrect": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-159_ca052_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-252",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "The point marked as ventricular dysfunction on this curve sits on the flattened, descending portion. For a dilated failing ventricle operating there, what happens to stroke volume when end-diastolic volume is increased further?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contractility increases"
+        },
+        {
+          "label": "B",
+          "text": "Ejection fraction climbs sharply"
+        },
+        {
+          "label": "C",
+          "text": "Stroke volume increases markedly"
+        },
+        {
+          "label": "D",
+          "text": "Stroke volume rises in direct proportion to volume"
+        },
+        {
+          "label": "E",
+          "text": "Stroke volume rises little or actually falls"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output.",
+        "whyCorrect": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-252_ca052_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

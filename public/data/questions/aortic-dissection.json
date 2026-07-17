@@ -1,0 +1,162 @@
+{
+  "categoryId": "aortic-dissection",
+  "categoryName": "Aortic Dissection",
+  "questions": [
+    {
+      "id": "capic-008",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "The schematic on the left illustrates the anatomic variant of aortic dissection that involves the ascending aorta. Compared with the variant on the right, what is the standard initial management of the type shown on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balloon angioplasty of the aortic arch"
+        },
+        {
+          "label": "B",
+          "text": "Observation with serial imaging"
+        },
+        {
+          "label": "C",
+          "text": "Conservative medical blood-pressure control alone"
+        },
+        {
+          "label": "D",
+          "text": "Immediate surgical repair"
+        },
+        {
+          "label": "E",
+          "text": "Long-term anticoagulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically.",
+        "whyCorrect": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-008_ca025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-070",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This contrast-enhanced axial chest image of a stable patient shows the aorta divided into two channels separated by a thin line. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic aneurysm without dissection"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "D",
+          "text": "Aortic coarctation"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients.",
+        "whyCorrect": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-070_ca025_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-071",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This ultrasound image was obtained at the bedside using a probe passed through the esophagus, revealing an intimal flap within the aorta. Which imaging modality is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "B",
+          "text": "Transesophageal echocardiogram (TEE)"
+        },
+        {
+          "label": "C",
+          "text": "Transthoracic echocardiogram"
+        },
+        {
+          "label": "D",
+          "text": "CT angiography"
+        },
+        {
+          "label": "E",
+          "text": "Coronary angiography"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen.",
+        "whyCorrect": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-071_ca025_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-222",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "In the right-hand illustration, blood enters through a tear in the inner vessel layer and tracks through the wall. What term describes the resulting blood-filled channel created within the vessel wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aneurysm sac"
+        },
+        {
+          "label": "B",
+          "text": "Patent ductus"
+        },
+        {
+          "label": "C",
+          "text": "Pseudoaneurysm"
+        },
+        {
+          "label": "D",
+          "text": "False lumen"
+        },
+        {
+          "label": "E",
+          "text": "True lumen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia.",
+        "whyCorrect": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-222_ca025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

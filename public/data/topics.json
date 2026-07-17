@@ -1,74 +1,770 @@
 {
   "categories": [
     {
-      "id": "gross-anatomy",
-      "name": "Gross Anatomy",
+      "id": "acute-pericarditis",
+      "name": "Acute Pericarditis",
       "topics": [
         {
-          "id": "gross-anatomy",
-          "name": "Gross Anatomy",
-          "sourceFile": "cardio bricks",
-          "questionCount": 31
+          "id": "acute-pericarditis",
+          "name": "Acute Pericarditis",
+          "sourceFile": "brick",
+          "questionCount": 10
         }
       ]
     },
     {
-      "id": "histology-cell-biology",
-      "name": "Histology & Cell Biology",
+      "id": "acute-rheumatic-fever-and-rheumatic-heart-disease",
+      "name": "Acute Rheumatic Fever and Rheumatic Heart Disease",
       "topics": [
         {
-          "id": "histology-cell-biology",
-          "name": "Histology & Cell Biology",
-          "sourceFile": "cardio bricks",
-          "questionCount": 15
+          "id": "acute-rheumatic-fever-and-rheumatic-heart-disease",
+          "name": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+          "sourceFile": "brick",
+          "questionCount": 3
         }
       ]
     },
     {
-      "id": "lab-diagnostics",
-      "name": "Lab & Diagnostics",
+      "id": "acyanotic-congenital-heart-defects",
+      "name": "Acyanotic Congenital Heart Defects",
       "topics": [
         {
-          "id": "lab-diagnostics",
-          "name": "Lab & Diagnostics",
-          "sourceFile": "cardio bricks",
-          "questionCount": 73
+          "id": "acyanotic-congenital-heart-defects",
+          "name": "Acyanotic Congenital Heart Defects",
+          "sourceFile": "brick",
+          "questionCount": 6
         }
       ]
     },
     {
-      "id": "pathology",
-      "name": "Pathology",
+      "id": "angina-pectoris",
+      "name": "Angina Pectoris",
       "topics": [
         {
-          "id": "pathology",
-          "name": "Pathology",
-          "sourceFile": "cardio bricks",
-          "questionCount": 57
+          "id": "angina-pectoris",
+          "name": "Angina Pectoris",
+          "sourceFile": "brick",
+          "questionCount": 1
         }
       ]
     },
     {
-      "id": "pharmacology",
-      "name": "Pharmacology",
+      "id": "antiarrhythmic-agents-class-i-drugs",
+      "name": "Antiarrhythmic Agents: Class I Drugs",
       "topics": [
         {
-          "id": "pharmacology",
-          "name": "Pharmacology",
-          "sourceFile": "cardio bricks",
+          "id": "antiarrhythmic-agents-class-i-drugs",
+          "name": "Antiarrhythmic Agents: Class I Drugs",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "antiarrhythmic-agents-classes-ii-iv",
+      "name": "Antiarrhythmic Agents: Classes II-IV",
+      "topics": [
+        {
+          "id": "antiarrhythmic-agents-classes-ii-iv",
+          "name": "Antiarrhythmic Agents: Classes II-IV",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "aortic-aneurysm",
+      "name": "Aortic Aneurysm",
+      "topics": [
+        {
+          "id": "aortic-aneurysm",
+          "name": "Aortic Aneurysm",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "aortic-arch-anatomy",
+      "name": "Aortic Arch Anatomy",
+      "topics": [
+        {
+          "id": "aortic-arch-anatomy",
+          "name": "Aortic Arch Anatomy",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "aortic-dissection",
+      "name": "Aortic Dissection",
+      "topics": [
+        {
+          "id": "aortic-dissection",
+          "name": "Aortic Dissection",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "name": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "topics": [
+        {
+          "id": "aortic-regurgitation-and-pulmonary-valve-disease",
+          "name": "Aortic Regurgitation and Pulmonary Valve Disease",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "aortic-stenosis",
+      "name": "Aortic Stenosis",
+      "topics": [
+        {
+          "id": "aortic-stenosis",
+          "name": "Aortic Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "arrhythmias-pathophysiology-and-diagnosis",
+      "name": "Arrhythmias: Pathophysiology and Diagnosis",
+      "topics": [
+        {
+          "id": "arrhythmias-pathophysiology-and-diagnosis",
+          "name": "Arrhythmias: Pathophysiology and Diagnosis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "arterial-emboli",
+      "name": "Arterial Emboli",
+      "topics": [
+        {
+          "id": "arterial-emboli",
+          "name": "Arterial Emboli",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "atherosclerosis",
+      "name": "Atherosclerosis",
+      "topics": [
+        {
+          "id": "atherosclerosis",
+          "name": "Atherosclerosis",
+          "sourceFile": "brick",
           "questionCount": 5
         }
       ]
     },
     {
-      "id": "physiology-mechanisms",
-      "name": "Physiology & Mechanisms",
+      "id": "atrial-fibrillation",
+      "name": "Atrial Fibrillation",
       "topics": [
         {
-          "id": "physiology-mechanisms",
-          "name": "Physiology & Mechanisms",
-          "sourceFile": "cardio bricks",
-          "questionCount": 89
+          "id": "atrial-fibrillation",
+          "name": "Atrial Fibrillation",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "baroreceptor-regulation-of-blood-pressure",
+      "name": "Baroreceptor Regulation of Blood Pressure",
+      "topics": [
+        {
+          "id": "baroreceptor-regulation-of-blood-pressure",
+          "name": "Baroreceptor Regulation of Blood Pressure",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "blood-pressure-control-foundations-and-frameworks",
+      "name": "Blood Pressure Control: Foundations and Frameworks",
+      "topics": [
+        {
+          "id": "blood-pressure-control-foundations-and-frameworks",
+          "name": "Blood Pressure Control: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "carotid-stenosis",
+      "name": "Carotid Stenosis",
+      "topics": [
+        {
+          "id": "carotid-stenosis",
+          "name": "Carotid Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "coarctation-of-the-aorta",
+      "name": "Coarctation of the Aorta",
+      "topics": [
+        {
+          "id": "coarctation-of-the-aorta",
+          "name": "Coarctation of the Aorta",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "constrictive-pericarditis",
+      "name": "Constrictive Pericarditis",
+      "topics": [
+        {
+          "id": "constrictive-pericarditis",
+          "name": "Constrictive Pericarditis",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "coronary-blood-flow-and-vascular-physiology",
+      "name": "Coronary Blood Flow and Vascular Physiology",
+      "topics": [
+        {
+          "id": "coronary-blood-flow-and-vascular-physiology",
+          "name": "Coronary Blood Flow and Vascular Physiology",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "cyanotic-congenital-heart-defects",
+      "name": "Cyanotic Congenital Heart Defects",
+      "topics": [
+        {
+          "id": "cyanotic-congenital-heart-defects",
+          "name": "Cyanotic Congenital Heart Defects",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "deep-vein-thrombosis",
+      "name": "Deep Vein Thrombosis",
+      "topics": [
+        {
+          "id": "deep-vein-thrombosis",
+          "name": "Deep Vein Thrombosis",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ]
+    },
+    {
+      "id": "diagnosis-of-heart-failure",
+      "name": "Diagnosis of Heart Failure",
+      "topics": [
+        {
+          "id": "diagnosis-of-heart-failure",
+          "name": "Diagnosis of Heart Failure",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "dilated-cardiomyopathy",
+      "name": "Dilated Cardiomyopathy",
+      "topics": [
+        {
+          "id": "dilated-cardiomyopathy",
+          "name": "Dilated Cardiomyopathy",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "doacs",
+      "name": "DOACs",
+      "topics": [
+        {
+          "id": "doacs",
+          "name": "DOACs",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "edema",
+      "name": "Edema",
+      "topics": [
+        {
+          "id": "edema",
+          "name": "Edema",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "heart-blocks",
+      "name": "Heart Blocks",
+      "topics": [
+        {
+          "id": "heart-blocks",
+          "name": "Heart Blocks",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "hemodynamic-monitoring-in-shock",
+      "name": "Hemodynamic Monitoring in Shock",
+      "topics": [
+        {
+          "id": "hemodynamic-monitoring-in-shock",
+          "name": "Hemodynamic Monitoring in Shock",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "hemodynamics-blood-pressure",
+      "name": "Hemodynamics: Blood Pressure",
+      "topics": [
+        {
+          "id": "hemodynamics-blood-pressure",
+          "name": "Hemodynamics: Blood Pressure",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "histology-of-blood-vessels-and-lymphatics",
+      "name": "Histology of Blood Vessels and Lymphatics",
+      "topics": [
+        {
+          "id": "histology-of-blood-vessels-and-lymphatics",
+          "name": "Histology of Blood Vessels and Lymphatics",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "humoral-regulation-of-blood-pressure",
+      "name": "Humoral Regulation of Blood Pressure",
+      "topics": [
+        {
+          "id": "humoral-regulation-of-blood-pressure",
+          "name": "Humoral Regulation of Blood Pressure",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "hypertension-foundations-and-frameworks",
+      "name": "Hypertension: Foundations and Frameworks",
+      "topics": [
+        {
+          "id": "hypertension-foundations-and-frameworks",
+          "name": "Hypertension: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "hypertensive-emergency",
+      "name": "Hypertensive Emergency",
+      "topics": [
+        {
+          "id": "hypertensive-emergency",
+          "name": "Hypertensive Emergency",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "hypotension",
+      "name": "Hypotension",
+      "topics": [
+        {
+          "id": "hypotension",
+          "name": "Hypotension",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "infective-endocarditis",
+      "name": "Infective Endocarditis",
+      "topics": [
+        {
+          "id": "infective-endocarditis",
+          "name": "Infective Endocarditis",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "large-vessel-vasculitis",
+      "name": "Large-Vessel Vasculitis",
+      "topics": [
+        {
+          "id": "large-vessel-vasculitis",
+          "name": "Large-Vessel Vasculitis",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "local-control-of-the-microcirculation",
+      "name": "Local Control of the Microcirculation",
+      "topics": [
+        {
+          "id": "local-control-of-the-microcirculation",
+          "name": "Local Control of the Microcirculation",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "management-of-chronic-heart-failure",
+      "name": "Management of Chronic Heart Failure",
+      "topics": [
+        {
+          "id": "management-of-chronic-heart-failure",
+          "name": "Management of Chronic Heart Failure",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "management-of-shock",
+      "name": "Management of Shock",
+      "topics": [
+        {
+          "id": "management-of-shock",
+          "name": "Management of Shock",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "medium-vessel-vasculitis",
+      "name": "Medium-Vessel Vasculitis",
+      "topics": [
+        {
+          "id": "medium-vessel-vasculitis",
+          "name": "Medium-Vessel Vasculitis",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "name": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "topics": [
+        {
+          "id": "mitral-regurgitation-and-mitral-valve-prolapse",
+          "name": "Mitral Regurgitation and Mitral Valve Prolapse",
+          "sourceFile": "brick",
+          "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "mitral-stenosis",
+      "name": "Mitral Stenosis",
+      "topics": [
+        {
+          "id": "mitral-stenosis",
+          "name": "Mitral Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "myocardial-infarction",
+      "name": "Myocardial Infarction",
+      "topics": [
+        {
+          "id": "myocardial-infarction",
+          "name": "Myocardial Infarction",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "nonbacterial-thrombotic-endocarditis",
+      "name": "Nonbacterial Thrombotic Endocarditis",
+      "topics": [
+        {
+          "id": "nonbacterial-thrombotic-endocarditis",
+          "name": "Nonbacterial Thrombotic Endocarditis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "obstructive-congenital-heart-defects",
+      "name": "Obstructive Congenital Heart Defects",
+      "topics": [
+        {
+          "id": "obstructive-congenital-heart-defects",
+          "name": "Obstructive Congenital Heart Defects",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "patent-ductus-arteriosus",
+      "name": "Patent Ductus Arteriosus",
+      "topics": [
+        {
+          "id": "patent-ductus-arteriosus",
+          "name": "Patent Ductus Arteriosus",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "pericardial-effusion-and-cardiac-tamponade",
+      "name": "Pericardial Effusion and Cardiac Tamponade",
+      "topics": [
+        {
+          "id": "pericardial-effusion-and-cardiac-tamponade",
+          "name": "Pericardial Effusion and Cardiac Tamponade",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ]
+    },
+    {
+      "id": "peripheral-arterial-disease",
+      "name": "Peripheral Arterial Disease",
+      "topics": [
+        {
+          "id": "peripheral-arterial-disease",
+          "name": "Peripheral Arterial Disease",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "physiology-of-heart-failure",
+      "name": "Physiology of Heart Failure",
+      "topics": [
+        {
+          "id": "physiology-of-heart-failure",
+          "name": "Physiology of Heart Failure",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "primary-essential-hypertension",
+      "name": "Primary (Essential) Hypertension",
+      "topics": [
+        {
+          "id": "primary-essential-hypertension",
+          "name": "Primary (Essential) Hypertension",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "secondary-hypertension",
+      "name": "Secondary Hypertension",
+      "topics": [
+        {
+          "id": "secondary-hypertension",
+          "name": "Secondary Hypertension",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "shock",
+      "name": "Shock",
+      "topics": [
+        {
+          "id": "shock",
+          "name": "Shock",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "sinus-bradycardia-and-related-disorders",
+      "name": "Sinus Bradycardia and Related Disorders",
+      "topics": [
+        {
+          "id": "sinus-bradycardia-and-related-disorders",
+          "name": "Sinus Bradycardia and Related Disorders",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "sinus-bradycardia-and-tachycardia",
+      "name": "Sinus Bradycardia and Tachycardia",
+      "topics": [
+        {
+          "id": "sinus-bradycardia-and-tachycardia",
+          "name": "Sinus Bradycardia and Tachycardia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "small-vessel-vasculitis",
+      "name": "Small-Vessel Vasculitis",
+      "topics": [
+        {
+          "id": "small-vessel-vasculitis",
+          "name": "Small-Vessel Vasculitis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "st-segment-changes",
+      "name": "ST Segment Changes",
+      "topics": [
+        {
+          "id": "st-segment-changes",
+          "name": "ST Segment Changes",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "starling-forces",
+      "name": "Starling Forces",
+      "topics": [
+        {
+          "id": "starling-forces",
+          "name": "Starling Forces",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "superficial-venous-disease",
+      "name": "Superficial Venous Disease",
+      "topics": [
+        {
+          "id": "superficial-venous-disease",
+          "name": "Superficial Venous Disease",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "supraventricular-arrhythmias",
+      "name": "Supraventricular Arrhythmias",
+      "topics": [
+        {
+          "id": "supraventricular-arrhythmias",
+          "name": "Supraventricular Arrhythmias",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "tetralogy-of-fallot",
+      "name": "Tetralogy of Fallot",
+      "topics": [
+        {
+          "id": "tetralogy-of-fallot",
+          "name": "Tetralogy of Fallot",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "treatment-of-acute-coronary-syndrome",
+      "name": "Treatment of Acute Coronary Syndrome",
+      "topics": [
+        {
+          "id": "treatment-of-acute-coronary-syndrome",
+          "name": "Treatment of Acute Coronary Syndrome",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "name": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "topics": [
+        {
+          "id": "tricuspid-regurgitation-and-tricuspid-stenosis",
+          "name": "Tricuspid Regurgitation and Tricuspid Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "ventricular-arrhythmias",
+      "name": "Ventricular Arrhythmias",
+      "topics": [
+        {
+          "id": "ventricular-arrhythmias",
+          "name": "Ventricular Arrhythmias",
+          "sourceFile": "brick",
+          "questionCount": 5
         }
       ]
     }
