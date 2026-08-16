@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Turbulent, high-velocity shunt flow producing color aliasing"
+          "text": "Turbulent, high-velocity shunt flow"
         },
         {
           "label": "C",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Right-to-left shunting of deoxygenated blood into the aorta distal to the origin of the head/arm vessels"
+          "text": "Right-to-left shunting into the aorta distal to the head/arm vessels"
         },
         {
           "label": "C",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "The muscular interventricular septum"
+          "text": "The muscular septum"
         },
         {
           "label": "D",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Left-to-right shunting of oxygenated blood across the septal defect"
+          "text": "Left-to-right shunting of oxygenated blood"
         }
       ],
       "correctAnswer": "E",

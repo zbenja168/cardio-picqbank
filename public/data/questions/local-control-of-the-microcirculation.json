@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Local accumulation of vasodilator metabolites from the active tissue"
+          "text": "Local accumulation of vasodilator metabolites"
         },
         {
           "label": "D",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Vasodilator metabolites that accumulated during the ischemic period"
+          "text": "Vasodilator metabolites"
         }
       ],
       "correctAnswer": "E",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Epinephrine's beta-2 vasodilation in skeletal muscle offsets its pressor effect"
+          "text": "Epinephrine's beta-2 vasodilation offsets its pressor effect"
         },
         {
           "label": "E",

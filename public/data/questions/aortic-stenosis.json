@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "Diastolic dysfunction from reduced ventricular compliance"
+          "text": "Diastolic dysfunction from reduced compliance"
         }
       ],
       "correctAnswer": "E",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Progressive fibrocalcific thickening and calcification of the valve leaflets narrowing the orifice"
+          "text": "Progressive fibrocalcific thickening of the valve leaflets"
         },
         {
           "label": "E",

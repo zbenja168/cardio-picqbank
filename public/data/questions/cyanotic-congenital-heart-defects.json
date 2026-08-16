@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Deoxygenated (reduced) hemoglobin"
+          "text": "Deoxygenated hemoglobin"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Failure of the truncoconal (aorticopulmonary) septum to divide the outflow tract"
+          "text": "Failure of the truncoconal septum to divide the outflow tract"
         },
         {
           "label": "B",

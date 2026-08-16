@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Returning excess interstitial fluid to the venous circulation"
+          "text": "Returning excess interstitial fluid"
         },
         {
           "label": "B",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Reduced serum albumin concentration"
+          "text": "Reduced serum albumin"
         }
       ],
       "correctAnswer": "E",

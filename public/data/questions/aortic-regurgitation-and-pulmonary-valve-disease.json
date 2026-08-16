@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "It electrically insulates the atria from the ventricles so conduction is forced through the AV node"
+          "text": "It electrically insulates the atria from the ventricles"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "The dissection flap distorts leaflet alignment, preventing full coaptation of the aortic cusps"
+          "text": "The dissection flap distorts leaflet alignment"
         },
         {
           "label": "E",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Sarcomeres stretched beyond optimal actin-myosin overlap"
+          "text": "Sarcomeres stretched beyond optimal overlap"
         },
         {
           "label": "B",

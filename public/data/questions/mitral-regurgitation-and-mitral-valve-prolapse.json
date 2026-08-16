@@ -283,7 +283,7 @@
         },
         {
           "label": "C",
-          "text": "Myxomatous degeneration (mitral valve prolapse)"
+          "text": "Myxomatous degeneration"
         },
         {
           "label": "D",
@@ -322,7 +322,7 @@
         },
         {
           "label": "C",
-          "text": "Acute mitral regurgitation with pulmonary edema"
+          "text": "Acute mitral regurgitation"
         },
         {
           "label": "D",
@@ -470,7 +470,7 @@
         },
         {
           "label": "B",
-          "text": "Left ventricular dilation (functional/ischemic MR)"
+          "text": "Left ventricular dilation"
         },
         {
           "label": "C",
@@ -521,7 +521,7 @@
         },
         {
           "label": "E",
-          "text": "Reduced venous return lowers LV volume, so the valve prolapses sooner"
+          "text": "Reduced venous return lowers LV volume"
         }
       ],
       "correctAnswer": "E",

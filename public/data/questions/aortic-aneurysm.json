@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Can be performed at the bedside without transporting an unstable patient"
+          "text": "Can be performed at the bedside"
         },
         {
           "label": "C",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Hoarseness from recurrent laryngeal nerve compression"
+          "text": "Hoarseness"
         },
         {
           "label": "C",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "A gas-forming infection (mycotic/infected aneurysm)"
+          "text": "A gas-forming infection"
         }
       ],
       "correctAnswer": "E",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Distal embolization of mural thrombus from the aneurysm"
+          "text": "Distal embolization of mural thrombus"
         }
       ],
       "correctAnswer": "E",
@@ -287,7 +287,7 @@
         },
         {
           "label": "B",
-          "text": "Thrombosis or distal embolization causing limb ischemia"
+          "text": "Thrombosis or distal embolization"
         },
         {
           "label": "C",

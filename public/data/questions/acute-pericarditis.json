@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A small amount of serous (pericardial) fluid"
+          "text": "A small amount of serous fluid"
         },
         {
           "label": "B",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "It lubricates the surfaces to reduce friction as the heart contracts"
+          "text": "It lubricates the surfaces to reduce friction"
         },
         {
           "label": "E",
@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "Cardiac muscle cells (cardiomyocytes)"
+          "text": "Cardiac muscle cells"
         },
         {
           "label": "E",
@@ -322,7 +322,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A pericardial friction rub on auscultation"
+          "text": "A pericardial friction rub"
         },
         {
           "label": "B",

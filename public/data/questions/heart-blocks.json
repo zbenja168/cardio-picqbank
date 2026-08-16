@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Mobitz type I (Wenckebach) second-degree AV block"
+          "text": "Mobitz type I second-degree AV block"
         },
         {
           "label": "E",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "Third-degree (complete) heart block"
+          "text": "Third-degree heart block"
         },
         {
           "label": "D",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "A slow ventricular escape rhythm (complete heart block)"
+          "text": "A slow ventricular escape rhythm"
         }
       ],
       "correctAnswer": "E",

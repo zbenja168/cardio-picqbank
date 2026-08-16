@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Increased left ventricular muscle mass (left ventricular hypertrophy)"
+          "text": "Increased left ventricular muscle mass"
         },
         {
           "label": "C",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Pulmonary edema from elevated pulmonary venous hydrostatic pressure"
+          "text": "Pulmonary edema"
         },
         {
           "label": "D",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Elevated left atrial and pulmonary venous pressure from impaired left ventricular function"
+          "text": "Elevated left atrial and pulmonary venous pressure"
         }
       ],
       "correctAnswer": "E",

@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Triphenyltetrazolium chloride (TTC) staining"
+          "text": "Triphenyltetrazolium chloride staining"
         },
         {
           "label": "E",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is noncontractile and does not conduct electrical impulses"
+          "text": "It is noncontractile and does not conduct impulses"
         },
         {
           "label": "B",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Calcium influx into reperfused myocytes causing hypercontraction of sarcomeres"
+          "text": "Calcium influx causing hypercontraction of sarcomeres"
         }
       ],
       "correctAnswer": "E",

@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Permanent vision loss (blindness)"
+          "text": "Permanent vision loss"
         },
         {
           "label": "E",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Edema and thickening of the inflamed arterial wall"
+          "text": "Edema and thickening of the arterial wall"
         }
       ],
       "correctAnswer": "E",

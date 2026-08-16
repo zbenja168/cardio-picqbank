@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Higher pressure and wall tension require more elastin and collagen for structural support"
+          "text": "Higher pressure and wall tension require more elastin and collagen"
         },
         {
           "label": "B",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Onset and disappearance of Korotkoff sounds as cuff pressure crosses arterial pressure"
+          "text": "Onset and disappearance of Korotkoff sounds"
         },
         {
           "label": "D",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Gravity adds a hydrostatic column of pressure to vessels below the heart"
+          "text": "Gravity adds a hydrostatic column of pressure"
         },
         {
           "label": "C",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Elastic fibers become fully stretched, so compliance markedly decreases"
+          "text": "Elastic fibers become fully stretched"
         },
         {
           "label": "C",

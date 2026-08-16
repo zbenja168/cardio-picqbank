@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "Swinging motion of the heart within the fluid-filled pericardial sac"
+          "text": "Swinging motion of the heart"
         },
         {
           "label": "E",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "It is a low-pressure chamber, so rising intrapericardial pressure exceeds its filling pressure first"
+          "text": "It is a low-pressure chamber"
         },
         {
           "label": "E",
@@ -244,7 +244,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aspiration of fluid from the pericardial space to relieve tamponade"
+          "text": "Aspiration of fluid from the pericardial space"
         },
         {
           "label": "B",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "External pericardial fluid compresses the chambers and limits diastolic filling"
+          "text": "External pericardial fluid compresses the chambers"
         }
       ],
       "correctAnswer": "E",

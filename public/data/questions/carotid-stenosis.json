@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "An acute ischemic infarct in the middle cerebral artery territory"
+          "text": "An acute ischemic infarct"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Artery-to-artery thromboembolism from the carotid to a cerebral artery"
+          "text": "Artery-to-artery thromboembolism"
         },
         {
           "label": "B",
