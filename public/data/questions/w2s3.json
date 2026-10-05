@@ -1,0 +1,1371 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "capic-035",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This H&E light-microscopy field of a vessel wall shows a wavy line separating two of the concentric layers. What does that undulating boundary represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The vasa vasorum"
+        },
+        {
+          "label": "B",
+          "text": "The basement membrane of the endothelium"
+        },
+        {
+          "label": "C",
+          "text": "The pericardial reflection"
+        },
+        {
+          "label": "D",
+          "text": "A layer of fibrin from early clotting"
+        },
+        {
+          "label": "E",
+          "text": "The internal elastic lamina"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections.",
+        "whyCorrect": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-035_ca023_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-036",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This is a histologic section through the wall of the aorta. What histologic feature of the tunica media allows this vessel to expand during systole and recoil during diastole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A thick layer of skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "A single layer of smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Numerous one-way valves"
+        },
+        {
+          "label": "D",
+          "text": "An absence of endothelium"
+        },
+        {
+          "label": "E",
+          "text": "A high density of elastin fibers"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow.",
+        "whyCorrect": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-036_ca023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-037",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This specially stained section of aortic tunica media highlights dark, wavy bands running across the field. What component is this stain selectively demonstrating?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrin strands"
+        },
+        {
+          "label": "B",
+          "text": "Smooth muscle nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Elastin fibers"
+        },
+        {
+          "label": "D",
+          "text": "Collagen bundles"
+        },
+        {
+          "label": "E",
+          "text": "Deposited calcium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries.",
+        "whyCorrect": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-037_ca023_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-038",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This histologic field shows two adjacent small vessels, the smaller labeled and the slightly larger companion nearby. Which feature typically distinguishes the smallest artery shown from an accompanying vein of similar size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is filled with lymph rather than blood"
+        },
+        {
+          "label": "B",
+          "text": "It has no endothelial lining"
+        },
+        {
+          "label": "C",
+          "text": "It has a relatively thicker wall"
+        },
+        {
+          "label": "D",
+          "text": "It contains one-way valves"
+        },
+        {
+          "label": "E",
+          "text": "It has the thickest adventitia of any vessel"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina.",
+        "whyCorrect": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-038_ca023_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-039",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This electron micrograph shows a capillary whose endothelial cells are interrupted by tiny pores while the basement membrane remains intact. In which tissue would you most expect to find this capillary type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The epidermis"
+        },
+        {
+          "label": "B",
+          "text": "Liver and spleen"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac valve leaflets"
+        },
+        {
+          "label": "D",
+          "text": "Renal glomerulus and intestine"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle and skin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands.",
+        "whyCorrect": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-039_ca023_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-218",
+      "topicId": "histology-of-blood-vessels-and-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "This schematic shows an arteriole, a capillary bed, a venule, and a separate green vessel network embedded in tissue. What is the primary role of the green vessels shown among the capillaries?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To store venous blood under high pressure"
+        },
+        {
+          "label": "B",
+          "text": "To collect excess interstitial fluid"
+        },
+        {
+          "label": "C",
+          "text": "To carry oxygenated blood to the tissue"
+        },
+        {
+          "label": "D",
+          "text": "To directly connect arteries to veins bypassing capillaries"
+        },
+        {
+          "label": "E",
+          "text": "To generate the arterial pulse pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance.",
+        "whyCorrect": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-218_ca023_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-065",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This clinician is palpating deeply in the mid-abdomen above the umbilicus in a patient with suspected aortic aneurysm. What physical finding is being sought?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fluid wave of ascites"
+        },
+        {
+          "label": "B",
+          "text": "Costovertebral angle tenderness"
+        },
+        {
+          "label": "C",
+          "text": "Hepatosplenomegaly"
+        },
+        {
+          "label": "D",
+          "text": "A pulsatile, expansile abdominal mass"
+        },
+        {
+          "label": "E",
+          "text": "Rebound tenderness"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries.",
+        "whyCorrect": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-065_ca024_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-066",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "Bedside ultrasound is preferred over CT for a hypotensive patient with a suspected ruptured AAA primarily because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Requires no operator skill"
+        },
+        {
+          "label": "B",
+          "text": "Can be performed at the bedside"
+        },
+        {
+          "label": "C",
+          "text": "Provides detailed pre-operative graft planning"
+        },
+        {
+          "label": "D",
+          "text": "Has higher spatial resolution than CT"
+        },
+        {
+          "label": "E",
+          "text": "Better visualizes the retroperitoneum than CT"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department.",
+        "whyCorrect": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-066_ca024_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-067",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "CT angiography is considered the gold-standard imaging modality for evaluating an aortic aneurysm chiefly because it is the most effective tool for:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Detailed anatomic assessment and pre-operative planning"
+        },
+        {
+          "label": "B",
+          "text": "Bedside evaluation of an unstable, hypotensive patient"
+        },
+        {
+          "label": "C",
+          "text": "Avoiding the need for IV contrast"
+        },
+        {
+          "label": "D",
+          "text": "Real-time functional assessment of flow"
+        },
+        {
+          "label": "E",
+          "text": "Avoiding ionizing radiation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound.",
+        "whyCorrect": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-067_ca024_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-068",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This chest X-ray finding was discovered incidentally in a patient later found to have a thoracic aortic aneurysm. Such an aneurysm can also compress an adjacent nerve, producing which symptom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Facial flushing"
+        },
+        {
+          "label": "B",
+          "text": "Hoarseness"
+        },
+        {
+          "label": "C",
+          "text": "Productive cough"
+        },
+        {
+          "label": "D",
+          "text": "Hemoptysis"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral leg weakness"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus.",
+        "whyCorrect": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-068_ca024_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-069",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This CT shows an abdominal aortic aneurysm surrounded by inflammatory change with pockets of gas (black foci) in the wall. What does the presence of gas indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "B",
+          "text": "Non-enhancing mural thrombus"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerotic wall calcification"
+        },
+        {
+          "label": "D",
+          "text": "A contained sterile rupture"
+        },
+        {
+          "label": "E",
+          "text": "A gas-forming infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection.",
+        "whyCorrect": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-069_ca024_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-219",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This illustration depicts an aneurysm involving the aortic root and ascending aorta. Distortion of the aortic root here most characteristically produces which auscultatory finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opening snap"
+        },
+        {
+          "label": "B",
+          "text": "Mid-diastolic rumble of mitral stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Fixed splitting of S2"
+        },
+        {
+          "label": "D",
+          "text": "Diastolic murmur of aortic regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Systolic ejection murmur of aortic stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur.",
+        "whyCorrect": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-219_ca024_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-220",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "This patient with a known abdominal aortic aneurysm developed acutely painful, cyanotic toes while palpable pulses were preserved. What is the underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Septic emboli from infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Occlusion of a large proximal artery"
+        },
+        {
+          "label": "D",
+          "text": "Cold-induced vasospasm (Raynaud phenomenon)"
+        },
+        {
+          "label": "E",
+          "text": "Distal embolization of mural thrombus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses.",
+        "whyCorrect": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-220_ca024_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-221",
+      "topicId": "aortic-aneurysm",
+      "topicName": "Aortic Aneurysm",
+      "stem": "Aneurysms of the artery behind the knee, illustrated here, most commonly cause which complication rather than rupture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-output heart failure"
+        },
+        {
+          "label": "B",
+          "text": "Thrombosis or distal embolization"
+        },
+        {
+          "label": "C",
+          "text": "Massive external hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "E",
+          "text": "Deep vein thrombosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia.",
+        "whyCorrect": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-221_ca024_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-008",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "The schematic on the left illustrates the anatomic variant of aortic dissection that involves the ascending aorta. Compared with the variant on the right, what is the standard initial management of the type shown on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balloon angioplasty of the aortic arch"
+        },
+        {
+          "label": "B",
+          "text": "Observation with serial imaging"
+        },
+        {
+          "label": "C",
+          "text": "Conservative medical blood-pressure control alone"
+        },
+        {
+          "label": "D",
+          "text": "Immediate surgical repair"
+        },
+        {
+          "label": "E",
+          "text": "Long-term anticoagulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically.",
+        "whyCorrect": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-008_ca025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-070",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This contrast-enhanced axial chest image of a stable patient shows the aorta divided into two channels separated by a thin line. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic aneurysm without dissection"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "D",
+          "text": "Aortic coarctation"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients.",
+        "whyCorrect": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-070_ca025_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-071",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This ultrasound image was obtained at the bedside using a probe passed through the esophagus, revealing an intimal flap within the aorta. Which imaging modality is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "B",
+          "text": "Transesophageal echocardiogram"
+        },
+        {
+          "label": "C",
+          "text": "Transthoracic echocardiogram"
+        },
+        {
+          "label": "D",
+          "text": "CT angiography"
+        },
+        {
+          "label": "E",
+          "text": "Coronary angiography"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen.",
+        "whyCorrect": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-071_ca025_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-222",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "In the right-hand illustration, blood enters through a tear in the inner vessel layer and tracks through the wall. What term describes the resulting blood-filled channel created within the vessel wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aneurysm sac"
+        },
+        {
+          "label": "B",
+          "text": "Patent ductus"
+        },
+        {
+          "label": "C",
+          "text": "Pseudoaneurysm"
+        },
+        {
+          "label": "D",
+          "text": "False lumen"
+        },
+        {
+          "label": "E",
+          "text": "True lumen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia.",
+        "whyCorrect": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-222_ca025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-130",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "This nasal profile, showing collapse of the bridge with a rounded tip, is a classic structural deformity seen in one of the small-vessel vasculitides. Which disease most characteristically produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microscopic polyangiitis"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophilic granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Cryoglobulinemic vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "IgA vasculitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides.",
+        "whyCorrect": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-130_ca026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-131",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "The left panel shows small-vessel inflammation with multinucleated giant cells and the right panel shows a lung with a large nodular cavitary lesion. Which disease do these paired histologic and gross findings represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryoglobulinemic vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "IgA vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "D",
+          "text": "Microscopic polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here.",
+        "whyCorrect": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-131_ca026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-132",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "This skin shows numerous raised purple-red lesions that can be felt on palpation and do not blanch. What underlying vascular process produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermal melanin deposition"
+        },
+        {
+          "label": "B",
+          "text": "Subcutaneous fat necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Epidermal hyperkeratosis"
+        },
+        {
+          "label": "D",
+          "text": "Extravasation of blood from inflamed small vessels"
+        },
+        {
+          "label": "E",
+          "text": "Platelet-fibrin thrombi occluding arterioles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change.",
+        "whyCorrect": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-132_ca026_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-133",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "This patient has crops of purpuric lesions concentrated on the lower legs and buttocks. In a child presenting with this distribution plus abdominal pain and hematuria, which vasculitis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-GBM disease"
+        },
+        {
+          "label": "B",
+          "text": "IgA vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Microscopic polyangiitis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "Cryoglobulinemic vasculitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children.",
+        "whyCorrect": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-133_ca026_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-009",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This diagram of the head and neck arterial tree illustrates the vessels relevant to the most feared complication of giant cell arteritis. Which complication does occlusion within this arterial supply produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scalp necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic stroke"
+        },
+        {
+          "label": "C",
+          "text": "Sensorineural hearing loss"
+        },
+        {
+          "label": "D",
+          "text": "Permanent vision loss"
+        },
+        {
+          "label": "E",
+          "text": "Facial nerve palsy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return.",
+        "whyCorrect": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-009_ca027_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-040",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This H&E section of an artery from an elderly patient shows dense inflammation with multinucleated cells extending across the vessel wall and a markedly narrowed lumen. This inflammatory process most classically involves which portion of the vessel wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All layers (transmural)"
+        },
+        {
+          "label": "B",
+          "text": "Intima only"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial lining only"
+        },
+        {
+          "label": "D",
+          "text": "Media only"
+        },
+        {
+          "label": "E",
+          "text": "Adventitia only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic.",
+        "whyCorrect": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-040_ca027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-072",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This duplex ultrasound of the temporal artery shows a dark hypoechoic ring surrounding the flowing vessel lumen. What does this characteristic 'halo' represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcified atherosclerotic plaque"
+        },
+        {
+          "label": "B",
+          "text": "Perivascular abscess"
+        },
+        {
+          "label": "C",
+          "text": "Aneurysmal outpouching of the wall"
+        },
+        {
+          "label": "D",
+          "text": "Organized intraluminal thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Edema and thickening of the arterial wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection.",
+        "whyCorrect": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-072_ca027_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-073",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This MR angiogram (brackets) of a young woman demonstrates narrowing of the aorta and its branches. Which pattern of stenosis, characteristic of this disease, distinguishes it from atherosclerotic disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Focal saccular aneurysm only"
+        },
+        {
+          "label": "B",
+          "text": "Short, irregular, eccentric stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse aortic ectasia"
+        },
+        {
+          "label": "D",
+          "text": "String-of-beads beaded appearance"
+        },
+        {
+          "label": "E",
+          "text": "Long, smooth, tapered stenosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia.",
+        "whyCorrect": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-073_ca027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-134",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This clinical photograph shows a thickened, nodular, cord-like scalp vessel that was tender to palpation in a 72-year-old woman with a new headache and jaw pain while chewing. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giant cell (temporal) arteritis"
+        },
+        {
+          "label": "B",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "C",
+          "text": "Thromboangiitis obliterans (Buerger disease)"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Takayasu arteritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
+        "whyCorrect": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-134_ca027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-135",
+      "topicId": "large-vessel-vasculitis",
+      "topicName": "Large-Vessel Vasculitis",
+      "stem": "This section of a large elastic artery shows destruction and fibrosis of the media with mononuclear infiltrates and occasional giant cells (arrows). Loss of the elastic lamina and muscular media in this disease predisposes the vessel to which structural complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol embolization"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac valve vegetation"
+        },
+        {
+          "label": "C",
+          "text": "Aneurysm formation"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaque deposition"
+        },
+        {
+          "label": "E",
+          "text": "Fatty streak formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
+        "whyCorrect": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-135_ca027_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-074",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This mesenteric angiogram from a patient with polyarteritis nodosa shows multiple small outpouchings (red arrows) in a 'beads-on-a-string' pattern. These beads represent which lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atheromatous plaques"
+        },
+        {
+          "label": "B",
+          "text": "Arterial dissections"
+        },
+        {
+          "label": "C",
+          "text": "Microaneurysms"
+        },
+        {
+          "label": "D",
+          "text": "Venous varices"
+        },
+        {
+          "label": "E",
+          "text": "Thrombotic occlusions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding.",
+        "whyCorrect": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-074_ca028_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-136",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This oral finding was noted in a febrile young child who also had bilateral nonexudative conjunctivitis and a truncal rash. What is the most feared long-term complication of the underlying disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ruptured cerebral aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery aneurysm"
+        },
+        {
+          "label": "D",
+          "text": "Renal artery stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
+        "whyCorrect": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-136_ca028_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-137",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "A 3-year-old with 5 days of high fever developed this nonspecific truncal eruption along with red eyes and a swollen red tongue. First-line treatment includes high-dose aspirin plus which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "D",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous immunoglobulin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
+        "whyCorrect": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-137_ca028_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-138",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This palmar finding in a child with prolonged fever, conjunctival injection, and mucosal changes is characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "B",
+          "text": "Scarlet fever"
+        },
+        {
+          "label": "C",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "D",
+          "text": "Henoch-Schonlein purpura"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
+        "whyCorrect": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-138_ca028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-139",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This muscle biopsy from a patient with fever, weight loss, and myalgias shows transmural inflammation and bright-pink change of the vessel wall. Chronic infection with which virus is classically associated with the diagnosis shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis A virus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella zoster virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
+        "whyCorrect": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-139_ca028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-140",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This cross-section of an artery showing transmural necrotizing inflammation and fibrinoid necrosis is diagnostic of polyarteritis nodosa. Which organ system is characteristically spared by this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lungs"
+        },
+        {
+          "label": "B",
+          "text": "The kidneys"
+        },
+        {
+          "label": "C",
+          "text": "The skin"
+        },
+        {
+          "label": "D",
+          "text": "The gastrointestinal tract"
+        },
+        {
+          "label": "E",
+          "text": "The peripheral nerves"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
+        "whyCorrect": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-140_ca028_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-141",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This vessel from a young smoker shows a highly cellular inflammatory thrombus occluding the lumen with relative sparing of the vessel wall. Which diagnosis does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "B",
+          "text": "Giant cell arteritis"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
+        "whyCorrect": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-141_ca028_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

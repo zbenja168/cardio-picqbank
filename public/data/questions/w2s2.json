@@ -1,0 +1,357 @@
+{
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "capic-125",
+      "topicId": "hypertension-foundations-and-frameworks",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "This renal biopsy from a patient with long-standing hypertension shows a small arteriole with homogeneous pink wall thickening (arrow) and a markedly narrowed lumen adjacent to a glomerulus. Which vascular lesion does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid angiopathy"
+        },
+        {
+          "label": "D",
+          "text": "Hyaline arteriolosclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Atherosclerotic plaque"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic benign hypertension drives leakage of plasma proteins into the arteriolar wall, producing a homogeneous, glassy (hyaline) thickening that narrows the lumen. This reduces downstream perfusion and contributes to nephrosclerosis. It is distinct from the concentric 'onion-skin' hyperplastic arteriolosclerosis of severe/malignant hypertension.",
+        "whyCorrect": "Chronic benign hypertension drives leakage of plasma proteins into the arteriolar wall, producing a homogeneous, glassy (hyaline) thickening that narrows the lumen. This reduces downstream perfusion and contributes to nephrosclerosis. It is distinct from the concentric 'onion-skin' hyperplastic arteriolosclerosis of severe/malignant hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-125_ca018_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-214",
+      "topicId": "hypertension-foundations-and-frameworks",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "This schematic contrasts the two major etiologic categories of hypertension, showing their relative proportions and associated triggers. Which category is characterized by the ABSENCE of a single identifiable underlying cause and accounts for the large majority of cases?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "White-coat hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Renovascular hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Malignant hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Secondary hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Primary hypertension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram splits hypertension into a large primary (essential) group and a small secondary group. Primary hypertension has no single identifiable cause and results from multifactorial mechanisms (RAAS activation, vasoconstriction, arterial stiffness, increased volume). Secondary hypertension is the minority and stems from a discrete cause such as chronic kidney disease, renal artery stenosis, or endocrine tumors.",
+        "whyCorrect": "The diagram splits hypertension into a large primary (essential) group and a small secondary group. Primary hypertension has no single identifiable cause and results from multifactorial mechanisms (RAAS activation, vasoconstriction, arterial stiffness, increased volume). Secondary hypertension is the minority and stems from a discrete cause such as chronic kidney disease, renal artery stenosis, or endocrine tumors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-214_ca018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-215",
+      "topicId": "hypertension-foundations-and-frameworks",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "This flowchart traces how sustained pressure overload drives cardiac remodeling, ending in ventricular wall thickening. What is the primary hemodynamic stimulus that initiates this compensatory remodeling sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic volume overload"
+        },
+        {
+          "label": "B",
+          "text": "Decreased ventricular preload"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Sustained tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Increased left ventricular afterload"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Persistent hypertension raises systemic vascular resistance, increasing the afterload the left ventricle must pump against. The added wall stress stimulates myocyte hypertrophy and concentric wall thickening. The thickened, stiff ventricle then fills poorly (diastolic dysfunction), which can progress to heart failure with preserved ejection fraction.",
+        "whyCorrect": "Persistent hypertension raises systemic vascular resistance, increasing the afterload the left ventricle must pump against. The added wall stress stimulates myocyte hypertrophy and concentric wall thickening. The thickened, stiff ventricle then fills poorly (diastolic dysfunction), which can progress to heart failure with preserved ejection fraction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-215_ca018_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-126",
+      "topicId": "primary-essential-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "This schematic classifies hypertension into two categories based on cause and prevalence. Into which category would a patient found to have primary aldosteronism most appropriately be placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secondary hypertension"
+        },
+        {
+          "label": "B",
+          "text": "White-coat hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Primary hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Malignant hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Prehypertension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagram splits hypertension into primary (90-95%, cause unknown) and secondary (5-10%, identifiable cause such as renovascular or endocrine disease). Primary aldosteronism is an identifiable endocrine cause, so it produces secondary hypertension.",
+        "whyCorrect": "The diagram splits hypertension into primary (90-95%, cause unknown) and secondary (5-10%, identifiable cause such as renovascular or endocrine disease). Primary aldosteronism is an identifiable endocrine cause, so it produces secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-126_ca019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-061",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This magnetic resonance angiogram shows lack of contrast filling of the right renal artery at its branch point from the aorta in an older diabetic patient. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibromuscular dysplasia"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerotic stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Renal vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Congenital renal agenesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In older patients, especially those with diabetes and other atherosclerotic risk factors, renal artery stenosis is usually caused by atherosclerotic plaque near the ostium, reducing renal blood flow and activating the RAAS to cause secondary hypertension.",
+        "whyCorrect": "In older patients, especially those with diabetes and other atherosclerotic risk factors, renal artery stenosis is usually caused by atherosclerotic plaque near the ostium, reducing renal blood flow and activating the RAAS to cause secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-061_ca020_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-062",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This renal arteriogram demonstrates a characteristic 'string of beads' appearance of the artery. This finding is diagnostic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal artery aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Takayasu arteritis"
+        },
+        {
+          "label": "C",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "D",
+          "text": "Fibromuscular dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Atherosclerotic renal artery stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The alternating stenosis and aneurysmal dilation producing a 'string of beads' pattern is the classic angiographic hallmark of fibromuscular dysplasia, most often seen in young women and a treatable cause of secondary hypertension.",
+        "whyCorrect": "The alternating stenosis and aneurysmal dilation producing a 'string of beads' pattern is the classic angiographic hallmark of fibromuscular dysplasia, most often seen in young women and a treatable cause of secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-062_ca020_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-127",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This illustration of a renal artery shows thickened arterial smooth muscle producing alternating areas of luminal narrowing and dilation. This vascular abnormality is most commonly found in which patient population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infants with congenital renal disease"
+        },
+        {
+          "label": "B",
+          "text": "Elderly men with atherosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Diabetic men over 60"
+        },
+        {
+          "label": "D",
+          "text": "Young women"
+        },
+        {
+          "label": "E",
+          "text": "Postmenopausal women with hyperlipidemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The artery depicts fibromuscular dysplasia, a non-inflammatory, non-atherosclerotic disease that classically affects young women without cardiovascular risk factors and is a leading cause of secondary hypertension from renal artery stenosis in this group.",
+        "whyCorrect": "The artery depicts fibromuscular dysplasia, a non-inflammatory, non-atherosclerotic disease that classically affects young women without cardiovascular risk factors and is a leading cause of secondary hypertension from renal artery stenosis in this group.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-127_ca020_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-064",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "Compared with the normal fundus on the left, the right fundoscopic image from a hypertensive patient shows a swollen optic disc with blurred margins and engorged vessels. What does the abnormal finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrophy of the optic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Detachment of the neurosensory retina"
+        },
+        {
+          "label": "C",
+          "text": "Proliferative diabetic retinopathy"
+        },
+        {
+          "label": "D",
+          "text": "Raised intracranial pressure"
+        },
+        {
+          "label": "E",
+          "text": "Occlusion of the central retinal artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The bulging disc with blurred margins and engorged veins is papilledema, reflecting elevated intracranial pressure from cerebral edema in hypertensive emergency, not an arterial occlusion, diabetic, detachment, or atrophic process.",
+        "whyCorrect": "The bulging disc with blurred margins and engorged veins is papilledema, reflecting elevated intracranial pressure from cerebral edema in hypertensive emergency, not an arterial occlusion, diabetic, detachment, or atrophic process.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-064_ca022_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-129",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This renal biopsy from a patient with longstanding severe hypertension shows an arteriole whose wall has concentric 'onion-skin' layering that narrows the lumen. What produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proliferation of arteriolar smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Dense inflammatory-cell infiltration of the wall"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of hyaline plasma proteins in the wall"
+        },
+        {
+          "label": "D",
+          "text": "A fibrin thrombus occluding the lumen"
+        },
+        {
+          "label": "E",
+          "text": "Neoplastic proliferation of endothelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia.",
+        "whyCorrect": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-129_ca022_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

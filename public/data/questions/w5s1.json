@@ -1,0 +1,474 @@
+{
+  "categoryId": "w5s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "capic-159",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "The heart on the right shows a thickened ventricular wall with a smaller chamber cavity compared with the normal heart on the left. This geometry most directly predisposes to which functional type of heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heart failure with preserved ejection fraction"
+        },
+        {
+          "label": "B",
+          "text": "Acute valvular regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Heart failure with reduced ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "High-output heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Right-sided failure from cor pulmonale"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
+        "whyCorrect": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-159_ca052_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-252",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "The point marked as ventricular dysfunction on this curve sits on the flattened, descending portion. For a dilated failing ventricle operating there, what happens to stroke volume when end-diastolic volume is increased further?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contractility increases"
+        },
+        {
+          "label": "B",
+          "text": "Ejection fraction climbs sharply"
+        },
+        {
+          "label": "C",
+          "text": "Stroke volume increases markedly"
+        },
+        {
+          "label": "D",
+          "text": "Stroke volume rises in direct proportion to volume"
+        },
+        {
+          "label": "E",
+          "text": "Stroke volume rises little or actually falls"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output.",
+        "whyCorrect": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-252_ca052_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-107",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A clinician presses on the swollen lower legs shown and the skin retains a lasting indentation. This physical finding is most characteristically associated with which category of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic obstruction from filariasis"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid disease producing myxedema"
+        },
+        {
+          "label": "C",
+          "text": "Acute bacterial cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Heart, liver, or kidney disease"
+        },
+        {
+          "label": "E",
+          "text": "Localized allergic angioedema"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The lasting indentation identifies pitting edema, which reflects excess mobile interstitial fluid and is classically linked to cardiac, hepatic, or renal disease. Myxedema is nonpitting, angioedema and cellulitis are localized and acute, and lymphatic obstruction tends to produce nonpitting lymphedema.",
+        "whyCorrect": "The lasting indentation identifies pitting edema, which reflects excess mobile interstitial fluid and is classically linked to cardiac, hepatic, or renal disease. Myxedema is nonpitting, angioedema and cellulitis are localized and acute, and lymphatic obstruction tends to produce nonpitting lymphedema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-107_ca053_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-160",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "The far-right branch of this classification of edema causes points to a protein-losing renal process. Which single laboratory abnormality would you most expect to underlie that branch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypernatremia"
+        },
+        {
+          "label": "B",
+          "text": "Hypercalcemia"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "Hypoalbuminemia"
+        },
+        {
+          "label": "E",
+          "text": "Elevated serum creatine kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium.",
+        "whyCorrect": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-160_ca053_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-253",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "In the capillary force diagram shown, which change to the depicted forces would MOST directly favor net filtration and lead to edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased capillary hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased plasma oncotic pressure"
+        },
+        {
+          "label": "C",
+          "text": "Increased plasma albumin concentration"
+        },
+        {
+          "label": "D",
+          "text": "Increased interstitial hydrostatic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Decreased capillary wall permeability"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A rise in capillary hydrostatic pressure pushes more fluid out of the capillary into the interstitium. Raising plasma oncotic pressure or albumin would pull fluid back in, reduced permeability limits leak, and higher interstitial hydrostatic pressure opposes filtration.",
+        "whyCorrect": "A rise in capillary hydrostatic pressure pushes more fluid out of the capillary into the interstitium. Raising plasma oncotic pressure or albumin would pull fluid back in, reduced permeability limits leak, and higher interstitial hydrostatic pressure opposes filtration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-253_ca053_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-254",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "The green vessels emphasized in this illustration perform which function that is critical to preventing edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Returning excess interstitial fluid"
+        },
+        {
+          "label": "B",
+          "text": "Delivering oxygenated blood to the tissues"
+        },
+        {
+          "label": "C",
+          "text": "Exchanging gases across the capillary bed"
+        },
+        {
+          "label": "D",
+          "text": "Producing the plasma oncotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Generating the capillary hydrostatic pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The green channels are lymphatic vessels, which collect the roughly 20 L/day of interstitial fluid not reabsorbed by venules and return it to the veins. Impairment of this drainage causes lymphedema.",
+        "whyCorrect": "The green channels are lymphatic vessels, which collect the roughly 20 L/day of interstitial fluid not reabsorbed by venules and return it to the veins. Impairment of this drainage causes lymphedema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-254_ca053_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-255",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "In this summary diagram, the inflow branch grouping malabsorption, nephrotic syndrome, liver failure, and malnutrition acts through a fall in plasma oncotic pressure. Which underlying change best accounts for that branch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hematocrit"
+        },
+        {
+          "label": "B",
+          "text": "Increased plasma sodium"
+        },
+        {
+          "label": "C",
+          "text": "Elevated plasma fibrinogen"
+        },
+        {
+          "label": "D",
+          "text": "Increased serum globulins"
+        },
+        {
+          "label": "E",
+          "text": "Reduced serum albumin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Albumin is the principal determinant of plasma oncotic pressure. Loss (nephrotic syndrome), decreased synthesis (liver failure, malnutrition), or poor intake/absorption lowers albumin, reducing the inward oncotic force and allowing fluid to accumulate in the interstitium.",
+        "whyCorrect": "Albumin is the principal determinant of plasma oncotic pressure. Loss (nephrotic syndrome), decreased synthesis (liver failure, malnutrition), or poor intake/absorption lowers albumin, reducing the inward oncotic force and allowing fluid to accumulate in the interstitium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-255_ca053_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-108",
+      "topicId": "diagnosis-of-heart-failure",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "The ECG tracing shown, paired with the depicted myocardial change, meets diagnostic voltage criteria. What anatomic abnormality produces the high-amplitude QRS complexes in the lateral leads?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A large pericardial effusion"
+        },
+        {
+          "label": "B",
+          "text": "Increased left ventricular muscle mass"
+        },
+        {
+          "label": "C",
+          "text": "A left bundle branch conduction delay"
+        },
+        {
+          "label": "D",
+          "text": "Left atrial enlargement"
+        },
+        {
+          "label": "E",
+          "text": "Right ventricular dilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram shows a thickened left ventricle and the ECG shows tall QRS complexes. Increased LV mass generates a larger electrical signal, producing high-voltage QRS complexes in the lateral leads that meet voltage criteria for left ventricular hypertrophy, often with a lateral strain pattern.",
+        "whyCorrect": "The diagram shows a thickened left ventricle and the ECG shows tall QRS complexes. Increased LV mass generates a larger electrical signal, producing high-voltage QRS complexes in the lateral leads that meet voltage criteria for left ventricular hypertrophy, often with a lateral strain pattern.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-108_ca055_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-109",
+      "topicId": "diagnosis-of-heart-failure",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "This chest radiograph is from a patient with left heart failure following a myocardial infarction. What do the fluffy, symmetric perihilar opacities most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse pleural fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "A wedge-shaped infarct from pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Lobar consolidation from bacterial pneumonia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Left ventricular failure raises pulmonary venous and capillary pressure, forcing fluid into the interstitium and alveoli. On chest X-ray this appears as symmetric perihilar (bat-wing) opacities with vascular redistribution, characteristic of cardiogenic pulmonary edema rather than the focal consolidation of pneumonia.",
+        "whyCorrect": "Left ventricular failure raises pulmonary venous and capillary pressure, forcing fluid into the interstitium and alveoli. On chest X-ray this appears as symmetric perihilar (bat-wing) opacities with vascular redistribution, characteristic of cardiogenic pulmonary edema rather than the focal consolidation of pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-109_ca055_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-257",
+      "topicId": "diagnosis-of-heart-failure",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "This illustration depicts the constellation of findings caused by a specific cardiac syndrome. Which underlying hemodynamic disturbance most directly produces the pulmonary congestion shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid regurgitation raising right atrial pressure"
+        },
+        {
+          "label": "B",
+          "text": "Reduced pulmonary arterial pressure from hypovolemia"
+        },
+        {
+          "label": "C",
+          "text": "Portal hypertension from hepatic congestion"
+        },
+        {
+          "label": "D",
+          "text": "Elevated systemic venous pressure from right ventricular failure"
+        },
+        {
+          "label": "E",
+          "text": "Elevated left atrial and pulmonary venous pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The depicted findings (orthopnea, paroxysmal nocturnal dyspnea, tachycardia, pulmonary congestion) are those of left-sided heart failure. When the left ventricle cannot eject or fill effectively, blood backs up into the left atrium and pulmonary veins, raising hydrostatic pressure and driving fluid into the alveoli, producing pulmonary congestion.",
+        "whyCorrect": "The depicted findings (orthopnea, paroxysmal nocturnal dyspnea, tachycardia, pulmonary congestion) are those of left-sided heart failure. When the left ventricle cannot eject or fill effectively, blood backs up into the left atrium and pulmonary veins, raising hydrostatic pressure and driving fluid into the alveoli, producing pulmonary congestion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-257_ca055_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-181",
+      "topicId": "management-of-chronic-heart-failure",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "This stepwise algorithm for managing chronic systolic heart failure separates the numbered core therapies from a side branch (loop diuretics). What best explains why the loop diuretic branch is set apart?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loop diuretics are the mandatory first step before any other agent"
+        },
+        {
+          "label": "B",
+          "text": "Loop diuretics replace the need for an MRA in every patient"
+        },
+        {
+          "label": "C",
+          "text": "Loop diuretics are used only in preserved-EF (diastolic) heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Loop diuretics relieve congestive symptoms but do not reduce mortality"
+        },
+        {
+          "label": "E",
+          "text": "Loop diuretics reduce cardiac remodeling and improve survival"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality.",
+        "whyCorrect": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-181_ca056_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-258",
+      "topicId": "management-of-chronic-heart-failure",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "This schematic shows a drug inhibiting a membrane pump in the cardiac myocyte, altering ion gradients. What is the ultimate cardiac effect produced by this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary vasodilation with increased oxygen supply"
+        },
+        {
+          "label": "B",
+          "text": "Slowing of AV nodal conduction only"
+        },
+        {
+          "label": "C",
+          "text": "Increased myocardial contractility"
+        },
+        {
+          "label": "D",
+          "text": "Reduced preload via venodilation"
+        },
+        {
+          "label": "E",
+          "text": "Decreased afterload via arteriolar dilation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digoxin inhibits the Na+/K+-ATPase, raising intracellular sodium. This reduces the driving force of the Na+/Ca2+ exchanger, so less calcium is extruded and intracellular calcium rises, increasing the force of contraction. Digoxin improves symptoms but does not improve mortality.",
+        "whyCorrect": "Digoxin inhibits the Na+/K+-ATPase, raising intracellular sodium. This reduces the driving force of the Na+/Ca2+ exchanger, so less calcium is extruded and intracellular calcium rises, increasing the force of contraction. Digoxin improves symptoms but does not improve mortality.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-258_ca056_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

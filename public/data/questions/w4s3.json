@@ -1,6 +1,6 @@
 {
-  "categoryId": "heart-blocks",
-  "categoryName": "Heart Blocks",
+  "categoryId": "w4s3",
+  "categoryName": "Session 3",
   "questions": [
     {
       "id": "capic-098",
@@ -232,6 +232,201 @@
       },
       "difficulty": "medium",
       "imageRef": "capic-251_ca050_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-017",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This schematic shows a subcutaneous pulse generator connected by leads that pass through the right heart chambers, with specialized coil segments on the leads capable of delivering a shock. What device is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Single-chamber demand pacemaker"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular assist device"
+        },
+        {
+          "label": "C",
+          "text": "Implantable cardiac loop recorder"
+        },
+        {
+          "label": "D",
+          "text": "Biventricular CRT pacemaker"
+        },
+        {
+          "label": "E",
+          "text": "Implantable cardioverter-defibrillator"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A pulse generator with pacing/sensing leads plus dedicated shock coils able to detect and terminate ventricular tachyarrhythmias represents an implantable cardioverter-defibrillator, which combines pacing capability with high-energy defibrillation.",
+        "whyCorrect": "A pulse generator with pacing/sensing leads plus dedicated shock coils able to detect and terminate ventricular tachyarrhythmias represents an implantable cardioverter-defibrillator, which combines pacing capability with high-energy defibrillation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-017_ca051_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-103",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This rhythm strip shows each normal sinus beat regularly alternating with a single premature, wide-QRS beat of ventricular origin. What is this repeating pattern called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventricular couplet"
+        },
+        {
+          "label": "B",
+          "text": "Atrial bigeminy"
+        },
+        {
+          "label": "C",
+          "text": "Ventricular bigeminy"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular trigeminy"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular tachycardia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When every other beat is a premature ventricular contraction (a normal beat coupled to one PVC in a 1:1 repeating sequence), the pattern is termed ventricular bigeminy. Trigeminy would be every third beat, and a couplet is two consecutive PVCs.",
+        "whyCorrect": "When every other beat is a premature ventricular contraction (a normal beat coupled to one PVC in a 1:1 repeating sequence), the pattern is termed ventricular bigeminy. Trigeminy would be every third beat, and a couplet is two consecutive PVCs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-103_ca051_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-104",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This continuous rhythm strip shows a chaotic polymorphic ventricular arrhythmia that is abruptly interrupted midway by a high-energy therapy, after which organized rhythm resumes. What device delivered this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular assist device"
+        },
+        {
+          "label": "B",
+          "text": "Single-chamber demand pacemaker"
+        },
+        {
+          "label": "C",
+          "text": "Implantable cardioverter-defibrillator"
+        },
+        {
+          "label": "D",
+          "text": "Biventricular resynchronization pacemaker"
+        },
+        {
+          "label": "E",
+          "text": "External transcutaneous pacer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The abrupt in-strip termination of a life-threatening ventricular arrhythmia by an internally delivered shock is the signature of an implantable cardioverter-defibrillator sensing and treating the rhythm automatically.",
+        "whyCorrect": "The abrupt in-strip termination of a life-threatening ventricular arrhythmia by an internally delivered shock is the signature of an implantable cardioverter-defibrillator sensing and treating the rhythm automatically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-104_ca051_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-105",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This ECG shows a rapid, regular, wide-QRS rhythm with uniform beat-to-beat complex morphology and no clearly related P waves. What is the arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supraventricular tachycardia with aberrancy"
+        },
+        {
+          "label": "B",
+          "text": "Torsades de pointes"
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Monomorphic ventricular tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular fibrillation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A fast, regular series of wide QRS complexes that all share the same shape (monomorphic) with AV dissociation indicates monomorphic ventricular tachycardia, distinct from the varying complexes of polymorphic VT and the chaotic disorganization of VF.",
+        "whyCorrect": "A fast, regular series of wide QRS complexes that all share the same shape (monomorphic) with AV dissociation indicates monomorphic ventricular tachycardia, distinct from the varying complexes of polymorphic VT and the chaotic disorganization of VF.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-105_ca051_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-106",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This rhythm strip shows continuous chaotic, irregular oscillations of varying amplitude with no identifiable QRS complexes and no organized electrical activity. What is the arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Torsades de pointes"
+        },
+        {
+          "label": "B",
+          "text": "Asystole"
+        },
+        {
+          "label": "C",
+          "text": "Ventricular tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Coarse atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The absence of any organized QRS complexes, replaced by disorganized fibrillatory waves reflecting uncoordinated quivering of the ventricular myocardium with no effective cardiac output, is diagnostic of ventricular fibrillation.",
+        "whyCorrect": "The absence of any organized QRS complexes, replaced by disorganized fibrillatory waves reflecting uncoordinated quivering of the ventricular myocardium with no effective cardiac output, is diagnostic of ventricular fibrillation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-106_ca051_f05.png",
       "tags": [
         "picture"
       ]

@@ -1,0 +1,786 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "capic-010",
+      "topicId": "coronary-blood-flow-and-vascular-physiology",
+      "topicName": "Coronary Blood Flow and Vascular Physiology",
+      "stem": "This diagram shows the arteries arising from the aortic root and running in the grooves of the heart. Sudden thrombotic occlusion of the vessel descending in the anterior interventricular groove would most directly compromise perfusion of which region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior wall of the left atrium"
+        },
+        {
+          "label": "B",
+          "text": "Right atrium and SA node region"
+        },
+        {
+          "label": "C",
+          "text": "Inferior (diaphragmatic) wall of the left ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Lateral free wall of the right ventricle"
+        },
+        {
+          "label": "E",
+          "text": "Anterior wall and interventricular septum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The vessel shown running down the anterior interventricular groove is the left anterior descending (LAD) artery, a branch of the left main coronary artery. It supplies the anterior LV wall and most of the interventricular septum, so its occlusion produces an anterior/anteroseptal infarct.",
+        "whyCorrect": "The vessel shown running down the anterior interventricular groove is the left anterior descending (LAD) artery, a branch of the left main coronary artery. It supplies the anterior LV wall and most of the interventricular septum, so its occlusion produces an anterior/anteroseptal infarct.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-010_ca029_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-223",
+      "topicId": "coronary-blood-flow-and-vascular-physiology",
+      "topicName": "Coronary Blood Flow and Vascular Physiology",
+      "stem": "This figure plots aortic pressure and left coronary blood flow across the cardiac cycle alongside vessel diameter. Left coronary flow falls to nearly zero during systole primarily because of what mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic diastolic pressure drops too low to drive flow"
+        },
+        {
+          "label": "B",
+          "text": "Contracting myocardium compresses the intramural vessels"
+        },
+        {
+          "label": "C",
+          "text": "Sympathetic alpha-1 mediated coronary vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "The aortic valve closes and blocks the coronary ostia"
+        },
+        {
+          "label": "E",
+          "text": "Reduced myocardial metabolic demand during contraction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During systole the ventricular muscle contracts intensely and squeezes the intramural and subendocardial vessels, greatly raising vascular resistance and nearly occluding flow. Coronary flow therefore peaks in early diastole when compression is relieved.",
+        "whyCorrect": "During systole the ventricular muscle contracts intensely and squeezes the intramural and subendocardial vessels, greatly raising vascular resistance and nearly occluding flow. Coronary flow therefore peaks in early diastole when compression is relieved.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-223_ca029_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-224",
+      "topicId": "coronary-blood-flow-and-vascular-physiology",
+      "topicName": "Coronary Blood Flow and Vascular Physiology",
+      "stem": "This figure contrasts the heart during ventricular contraction versus relaxation. Why is oxygenated blood supply to the myocardium largely inhibited during the state shown on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diastolic pressure is highest and opposes coronary inflow"
+        },
+        {
+          "label": "B",
+          "text": "The coronary sinus actively drains all arterial inflow"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary valve closure obstructs the coronary ostia"
+        },
+        {
+          "label": "D",
+          "text": "The open aortic valve leaflets cover the coronary ostia"
+        },
+        {
+          "label": "E",
+          "text": "The aortic valve is fully closed during ventricular contraction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During ventricular contraction (aortic valve open) the leaflets are pressed against the aortic root and partially block the coronary ostia while contracting muscle compresses the vessels. In relaxation, backflow closes the aortic valve and blood fills the coronary arteries, so most coronary perfusion occurs in diastole.",
+        "whyCorrect": "During ventricular contraction (aortic valve open) the leaflets are pressed against the aortic root and partially block the coronary ostia while contracting muscle compresses the vessels. In relaxation, backflow closes the aortic valve and blood fills the coronary arteries, so most coronary perfusion occurs in diastole.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-224_ca029_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-142",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "The lower panel of this diagram shows the change that has occurred in the artery compared with the upper panel. What is the primary hemodynamic consequence of this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased blood flow from vessel dilation"
+        },
+        {
+          "label": "B",
+          "text": "Reduced blood flow due to luminal narrowing"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary permeability"
+        },
+        {
+          "label": "D",
+          "text": "Loss of arterial pulsatility from wall thinning"
+        },
+        {
+          "label": "E",
+          "text": "Backflow from valve incompetence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
+        "whyCorrect": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-142_ca030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-143",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This arterial cross-section shows a mature atheroma. Rupture of the thin fibrous cap overlying it would most directly precipitate which acute event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of an aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Coronary vasospasm"
+        },
+        {
+          "label": "D",
+          "text": "Chronic stable angina"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis with luminal occlusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
+        "whyCorrect": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-143_ca030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-144",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This opened aorta shows raised yellow lesions on the intimal surface, some ulcerated with overlying thrombus. These lesions represent what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Syphilitic gummas"
+        },
+        {
+          "label": "C",
+          "text": "Thrombi within an otherwise normal wall"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaques (atheromas)"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinous exudate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
+        "whyCorrect": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-144_ca030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-225",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "In this schematic of atheroma pathogenesis, the lipid engulfed by the intimal foam cells is chiefly derived from what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidized LDL taken up by macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Chylomicron triglycerides"
+        },
+        {
+          "label": "C",
+          "text": "VLDL remnants filtered from plasma"
+        },
+        {
+          "label": "D",
+          "text": "HDL cholesterol"
+        },
+        {
+          "label": "E",
+          "text": "Dietary cholesterol crystals absorbed directly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma.",
+        "whyCorrect": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-225_ca030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-226",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This figure shows the stepwise progression from a normal artery to advanced disease. What functional property of the artery is ultimately reduced by the changes depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac preload"
+        },
+        {
+          "label": "B",
+          "text": "Venous return"
+        },
+        {
+          "label": "C",
+          "text": "Capillary hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic drainage"
+        },
+        {
+          "label": "E",
+          "text": "Luminal blood flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues.",
+        "whyCorrect": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-226_ca030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-075",
+      "topicId": "arterial-emboli",
+      "topicName": "Arterial Emboli",
+      "stem": "This funduscopic image shows a pale optic region with a cherry-red spot at the macula and cotton-wool spots. What vascular event does this appearance indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute angle-closure glaucoma"
+        },
+        {
+          "label": "B",
+          "text": "Embolic occlusion of the central retinal artery"
+        },
+        {
+          "label": "C",
+          "text": "Central retinal vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Hypertensive papilledema"
+        },
+        {
+          "label": "E",
+          "text": "Diabetic proliferative retinopathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor.",
+        "whyCorrect": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-075_ca031_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-076",
+      "topicId": "arterial-emboli",
+      "topicName": "Arterial Emboli",
+      "stem": "This contrast-enhanced CT angiogram uses arrows to mark filling defects in paired abdominal organs' arterial supply. Which imaging modality is depicted and why is it preferred here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MRI without contrast, because it best resolves cholesterol crystals"
+        },
+        {
+          "label": "B",
+          "text": "Conventional radiography, because it is fastest for bony detail"
+        },
+        {
+          "label": "C",
+          "text": "Duplex ultrasound, because it avoids radiation exposure"
+        },
+        {
+          "label": "D",
+          "text": "Non-contrast CT, because it best highlights soft-tissue calcification"
+        },
+        {
+          "label": "E",
+          "text": "CT angiography, because it shows both the site and degree of arterial occlusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction.",
+        "whyCorrect": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-076_ca031_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-011",
+      "topicId": "carotid-stenosis",
+      "topicName": "Carotid Stenosis",
+      "stem": "This surgical illustration depicts an open operation at the carotid bifurcation in which the artery is incised and the diseased intimal plaque is dissected free and removed, restoring the lumen. What is this procedure called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carotid body tumor resection"
+        },
+        {
+          "label": "B",
+          "text": "External carotid artery embolization"
+        },
+        {
+          "label": "C",
+          "text": "Carotid angioplasty and stenting"
+        },
+        {
+          "label": "D",
+          "text": "Carotid artery bypass grafting"
+        },
+        {
+          "label": "E",
+          "text": "Carotid endarterectomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Endarterectomy removes the atheromatous plaque and inner arterial layer through an open arteriotomy, directly relieving high-grade stenosis in symptomatic patients.",
+        "whyCorrect": "Endarterectomy removes the atheromatous plaque and inner arterial layer through an open arteriotomy, directly relieving high-grade stenosis in symptomatic patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-011_ca033_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-077",
+      "topicId": "carotid-stenosis",
+      "topicName": "Carotid Stenosis",
+      "stem": "On this non-contrast head CT, the red arrow points to an ill-defined area of decreased attenuation in the right hemisphere. What does this finding most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An acute intraparenchymal hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "An acute ischemic infarct"
+        },
+        {
+          "label": "C",
+          "text": "Physiologic basal ganglia calcification"
+        },
+        {
+          "label": "D",
+          "text": "A chronic subdural hematoma"
+        },
+        {
+          "label": "E",
+          "text": "A calcified meningioma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of gray-white differentiation and hypodensity mark an evolving ischemic infarct; here an embolus of carotid origin has occluded the right middle cerebral artery. Hemorrhage would appear hyperdense (bright).",
+        "whyCorrect": "Loss of gray-white differentiation and hypodensity mark an evolving ischemic infarct; here an embolus of carotid origin has occluded the right middle cerebral artery. Hemorrhage would appear hyperdense (bright).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-077_ca033_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-147",
+      "topicId": "carotid-stenosis",
+      "topicName": "Carotid Stenosis",
+      "stem": "This gross specimen shows a longitudinally opened common carotid artery at its bifurcation, with a bulky, irregular yellow-tan mass narrowing the lumen. What is the primary pathological process responsible for the narrowing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque formation"
+        },
+        {
+          "label": "B",
+          "text": "Fibromuscular dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Vasculitis (giant cell arteritis)"
+        },
+        {
+          "label": "D",
+          "text": "Thromboangiitis obliterans"
+        },
+        {
+          "label": "E",
+          "text": "Spontaneous arterial dissection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli.",
+        "whyCorrect": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-147_ca033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-228",
+      "topicId": "carotid-stenosis",
+      "topicName": "Carotid Stenosis",
+      "stem": "This illustration shows a fragment breaking off a lesion at the carotid bifurcation (inset) and traveling into the cerebral circulation of the head. What is the mechanism of the stroke being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Artery-to-artery thromboembolism"
+        },
+        {
+          "label": "B",
+          "text": "Rupture of a berry aneurysm causing hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Cardioembolism from atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Global hypoperfusion causing watershed infarction"
+        },
+        {
+          "label": "E",
+          "text": "Small-vessel lipohyalinosis producing a lacunar infarct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The image depicts an embolus arising from a ruptured carotid plaque that travels downstream to occlude an intracranial branch, the dominant mechanism of stroke in carotid disease.",
+        "whyCorrect": "The image depicts an embolus arising from a ruptured carotid plaque that travels downstream to occlude an intracranial branch, the dominant mechanism of stroke in carotid disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-228_ca033_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-078",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "The technique illustrated uses inflatable cuffs and an ultrasound probe to record systolic pressures at the arm and the ankle. Comparing these two pressures yields which diagnostic value used to assess peripheral arterial disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulse pressure variation"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac index"
+        },
+        {
+          "label": "C",
+          "text": "Central venous pressure"
+        },
+        {
+          "label": "D",
+          "text": "Mean arterial pressure gradient"
+        },
+        {
+          "label": "E",
+          "text": "Ankle-brachial index"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease.",
+        "whyCorrect": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-078_ca035_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-079",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In the bedside maneuver shown, the suspected limb is gradually raised while supine and observed for color change. Development of pallor at a low elevation angle indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Inadequate arterial perfusion"
+        },
+        {
+          "label": "C",
+          "text": "Normal arterial supply"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Venous valvular incompetence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees).",
+        "whyCorrect": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-079_ca035_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-148",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "These lower limbs belong to a patient with long-standing peripheral arterial disease. Which chronic finding is most clearly demonstrated by the appearance of the legs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis of the lower leg"
+        },
+        {
+          "label": "B",
+          "text": "Pitting edema from heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Muscle atrophy from chronic ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Acute swelling of deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Lymphedema from lymphatic obstruction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
+        "whyCorrect": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-148_ca035_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-229",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In the lower panel of this diagram, the vessel is narrowed by a plaque and flow across it becomes abnormal. What cellular process, triggered by this abnormal flow pattern, most directly drives ongoing progression of the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased nitric oxide bioavailability causing protective vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "Medial arterial calcification due to renal failure"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocyte-mediated regression of the plaque"
+        },
+        {
+          "label": "D",
+          "text": "Laminar-flow-induced endothelial quiescence"
+        },
+        {
+          "label": "E",
+          "text": "Endothelial dysfunction with release of cytokines"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above.",
+        "whyCorrect": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-229_ca035_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-230",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In this sequence, a catheter is advanced into an atherosclerotic artery, a balloon is inflated to widen the lumen, and a device is left behind to keep the artery open. What is this permanently deployed device called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherectomy burr"
+        },
+        {
+          "label": "B",
+          "text": "Embolic protection filter"
+        },
+        {
+          "label": "C",
+          "text": "Inferior vena cava filter"
+        },
+        {
+          "label": "D",
+          "text": "Venous bypass graft"
+        },
+        {
+          "label": "E",
+          "text": "Stent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement.",
+        "whyCorrect": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-230_ca035_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "capic-231",
+      "topicId": "peripheral-arterial-disease",
+      "topicName": "Peripheral Arterial Disease",
+      "stem": "In the magnified view, a blue vessel is attached above and below a blocked arterial segment. What is the purpose of this surgical construction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To trap emboli traveling downstream"
+        },
+        {
+          "label": "B",
+          "text": "To reroute blood flow around the occluded artery"
+        },
+        {
+          "label": "C",
+          "text": "To strip plaque from the artery's inner lining"
+        },
+        {
+          "label": "D",
+          "text": "To dissolve the obstructing clot"
+        },
+        {
+          "label": "E",
+          "text": "To balloon-dilate the narrowed segment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis.",
+        "whyCorrect": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "capic-231_ca035_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
