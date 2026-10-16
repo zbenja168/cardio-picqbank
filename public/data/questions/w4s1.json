@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The plateau of the cardiac action potential reflects a balance in which inward L-type Ca2+ current offsets outward K+ currents, sustaining depolarization. Fast Na+ current drives phase 0, K+ efflux dominates phase 3 repolarization, and If pacemaker current operates in nodal cells.",
         "whyCorrect": "The plateau of the cardiac action potential reflects a balance in which inward L-type Ca2+ current offsets outward K+ currents, sustaining depolarization. Fast Na+ current drives phase 0, K+ efflux dominates phase 3 repolarization, and If pacemaker current operates in nodal cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The fast sodium current produces the phase 0 upstroke and inactivates within milliseconds, so it does not sustain the plateau.",
+          "B": "The funny current drives phase 4 depolarization in pacemaker cells, not the ventricular plateau.",
+          "D": "Chloride current has at most a minor role in the cardiac action potential and does not sustain phase 2.",
+          "E": "Delayed-rectifier potassium efflux opposes the plateau and dominates phase 3 repolarization."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-241_ca044_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The top tracing depicts an early afterdepolarization (EAD), which arises from a prolonged plateau and is favored by QT-prolonging states such as hypokalemia and drug-induced long QT. The lower tracing is a delayed afterdepolarization (DAD), classically caused by intracellular calcium overload (e.g., digoxin toxicity).",
         "whyCorrect": "The top tracing depicts an early afterdepolarization (EAD), which arises from a prolonged plateau and is favored by QT-prolonging states such as hypokalemia and drug-induced long QT. The lower tracing is a delayed afterdepolarization (DAD), classically caused by intracellular calcium overload (e.g., digoxin toxicity).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hypercalcemia shortens the QT interval, which opposes the prolonged plateau needed for early afterdepolarizations.",
+          "B": "Beta-blockade does not prolong the plateau (sotalol's class III action aside) and is used to prevent arrhythmias in congenital long QT.",
+          "C": "Digoxin toxicity with calcium overload causes delayed afterdepolarizations after repolarization, not early afterdepolarizations during the plateau.",
+          "D": "Hypothermia causes bradycardia and Osborn J waves; it is not the classic trigger of plateau-phase afterdepolarizations."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-242_ca044_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "AV nodal reentry begins when a premature beat finds the fast pathway still refractory, so it conducts anterogradely down the slow pathway. By the time it reaches the distal node the fast pathway has recovered, allowing retrograde conduction and establishment of a reentrant loop.",
         "whyCorrect": "AV nodal reentry begins when a premature beat finds the fast pathway still refractory, so it conducts anterogradely down the slow pathway. By the time it reaches the distal node the fast pathway has recovered, allowing retrograde conduction and establishment of a reentrant loop.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Equal conduction down both pathways simply produces a normal beat; reentry requires unidirectional block in one pathway.",
+          "C": "In typical AVNRT the slow pathway conducts anterogradely; retrograde block of the slow pathway during sinus rhythm does not initiate the circuit.",
+          "D": "Enhanced ventricular automaticity is a different arrhythmia mechanism and does not create an AV nodal reentrant loop.",
+          "E": "Complete AV block with a junctional escape abolishes AV nodal conduction rather than setting up a reentry circuit."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-243_ca044_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Ventricular arrhythmias arise below the bundle of His, so activation spreads cell-to-cell rather than through the fast His-Purkinje system, producing a wide, bizarre QRS. Supraventricular arrhythmias arising above that level usually keep a narrow QRS unless aberrant conduction is present.",
         "whyCorrect": "Ventricular arrhythmias arise below the bundle of His, so activation spreads cell-to-cell rather than through the fast His-Purkinje system, producing a wide, bizarre QRS. Supraventricular arrhythmias arising above that level usually keep a narrow QRS unless aberrant conduction is present.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Absent P waves with a narrow QRS describe a junctional rhythm arising above the bifurcation of the His bundle, not a ventricular focus.",
+          "C": "A prolonged QT reflects delayed repolarization and is not the defining feature of a rhythm originating in the ventricles.",
+          "D": "A narrow QRS requires activation through the His-Purkinje system, which ventricular-origin impulses bypass.",
+          "E": "A short PR with a delta wave indicates ventricular pre-excitation through an accessory pathway, as in WPW."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-244_ca044_f07.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The strip shows polymorphic ventricular tachycardia with QRS complexes that twist around the baseline, the hallmark of torsades de pointes, a complication of QT prolongation.",
         "whyCorrect": "The strip shows polymorphic ventricular tachycardia with QRS complexes that twist around the baseline, the hallmark of torsades de pointes, a complication of QT prolongation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Monomorphic VT has uniform wide QRS complexes of constant shape, not complexes twisting around the baseline.",
+          "B": "Atrial fibrillation is an irregularly irregular narrow-complex rhythm, not a polymorphic wide-complex tachycardia.",
+          "D": "Atrial flutter shows regular sawtooth flutter waves with narrow QRS complexes.",
+          "E": "Ventricular fibrillation is chaotic without identifiable QRS complexes, whereas torsades shows organized complexes with waxing and waning amplitude."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-088_ca045_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Class IA agents block Na+ (slowing phase 0) and K+ channels (delaying phase 3), lengthening action potential duration and repolarization, which prolongs the QT interval and predisposes to torsades de pointes.",
         "whyCorrect": "Class IA agents block Na+ (slowing phase 0) and K+ channels (delaying phase 3), lengthening action potential duration and repolarization, which prolongs the QT interval and predisposes to torsades de pointes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Class IA drugs lengthen repolarization through potassium blockade, which prolongs rather than shortens QT.",
+          "B": "PR interval reflects AV nodal conduction, which is not shortened by class IA agents.",
+          "C": "A delta wave reflects pre-excitation via an accessory pathway, not drug-induced changes in the ventricular action potential.",
+          "E": "Peaked T waves are a sign of hyperkalemia, not of potassium channel blockade that delays repolarization."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-178_ca045_f03.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Class IB drugs (e.g., lidocaine) are selective for inactivated Na+ channels, which are abundant in depolarized ischemic myocardium, making them drugs of choice for ventricular arrhythmias after MI.",
         "whyCorrect": "Class IB drugs (e.g., lidocaine) are selective for inactivated Na+ channels, which are abundant in depolarized ischemic myocardium, making them drugs of choice for ventricular arrhythmias after MI.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Class IB drugs have little effect on atrial tissue, whose short action potentials leave few channels inactivated; they are reserved for ventricular arrhythmias.",
+          "C": "Nodal tissue depends on calcium, not fast sodium channels, for its upstroke, so lidocaine-type drugs have little effect there.",
+          "D": "Well-perfused tissue has a normal resting potential with few inactivated channels, so class IB binding is minimal.",
+          "E": "Accessory pathways are better targeted by class IA, IC or III agents; class IB selectivity is for depolarized ischemic myocardium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-179_ca045_f05.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Class IC drugs strongly slow phase 0 (conduction velocity) without altering repolarization, so the QRS widens markedly while the QT interval stays essentially unchanged.",
         "whyCorrect": "Class IC drugs strongly slow phase 0 (conduction velocity) without altering repolarization, so the QRS widens markedly while the QT interval stays essentially unchanged.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diffuse ST elevation suggests pericarditis or injury and is not a consequence of slowed phase 0 sodium conduction.",
+          "B": "Class IC agents do not shorten the PR interval; they slow conduction and may prolong it.",
+          "C": "Slowing phase 0 slows ventricular conduction, which widens rather than shortens the QRS.",
+          "D": "QT prolongation with a normal QRS fits class IA or III potassium blockade, whereas class IC agents leave repolarization unchanged and widen QRS."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-180_ca045_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "During Phase 2, inward Ca2+ current through L-type calcium channels is offset by outward K+ current, holding the membrane at a plateau and prolonging the effective refractory period.",
         "whyCorrect": "During Phase 2, inward Ca2+ current through L-type calcium channels is offset by outward K+ current, holding the membrane at a plateau and prolonging the effective refractory period.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Potassium flows out during the plateau, not in, and sodium efflux via the Na-K pump is not a plateau current.",
+          "C": "Potassium moves outward, not inward, and fast sodium influx has inactivated by phase 2.",
+          "D": "Sodium influx dominates phase 0, and calcium flows in, not out, during the plateau.",
+          "E": "Chloride influx is not a major cardiac current, and calcium moves inward during the plateau rather than outward."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-245_ca045_f01.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Class I drugs preferentially bind channels that are open or inactivated (states favored at fast heart rates), so blockade increases with rate, the basis of use-dependence.",
         "whyCorrect": "Class I drugs preferentially bind channels that are open or inactivated (states favored at fast heart rates), so blockade increases with rate, the basis of use-dependence.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Class I drugs bind poorly to resting channels; this is why block wears off during diastole at slow rates.",
+          "B": "Resting-state binding is weak, so this combination does not explain rate-dependent block.",
+          "D": "Inactivated channels predominate during the action potential, not diastole, and the open state also binds the drug.",
+          "E": "Equal affinity for all states would produce no use-dependence, the defining property of class I block."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-246_ca045_f02.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "A regular rhythm below 60 bpm with a normal P wave preceding each QRS (normal PR interval and axis) indicates the impulse originates from the SA node at a slow rate, defining sinus bradycardia. A junctional rhythm would lack normal preceding P waves, and atrial fibrillation would be irregular with no discrete P waves.",
         "whyCorrect": "A regular rhythm below 60 bpm with a normal P wave preceding each QRS (normal PR interval and axis) indicates the impulse originates from the SA node at a slow rate, defining sinus bradycardia. A junctional rhythm would lack normal preceding P waves, and atrial fibrillation would be irregular with no discrete P waves.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A sinus pause is an abrupt absence of P waves and QRS complexes, not a regular slow rhythm with consistent P-QRS pairs.",
+          "C": "First-degree AV block is defined by a PR interval over 200 ms, while this strip shows a normal PR at a slow rate.",
+          "D": "Atrial fibrillation is irregularly irregular without discrete P waves, unlike this regular rhythm with a normal P before each QRS.",
+          "E": "Junctional escape rhythm lacks normal upright P waves preceding the QRS; any P waves are absent, inverted or retrograde."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-089_ca046_f01.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "When the SA node fails or is severely slowed, the AV junction acts as a subsidiary pacemaker firing at ~40-60 bpm. Because impulses travel down the normal His-Purkinje system the QRS is narrow, and P waves are absent (or inverted near the QRS) because there is no normal atrial depolarization from the SA node.",
         "whyCorrect": "When the SA node fails or is severely slowed, the AV junction acts as a subsidiary pacemaker firing at ~40-60 bpm. Because impulses travel down the normal His-Purkinje system the QRS is narrow, and P waves are absent (or inverted near the QRS) because there is no normal atrial depolarization from the SA node.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sinus bradycardia has a normal upright P wave before each QRS, which is absent here.",
+          "B": "Accelerated idioventricular rhythm originates in the ventricles and produces wide QRS complexes, typically at 50-110 bpm.",
+          "C": "Atrial flutter shows sawtooth flutter waves, not a baseline without atrial activity.",
+          "E": "A ventricular escape rhythm in complete heart block has wide QRS complexes at 20-40 bpm, with P waves marching independently."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-090_ca046_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "A sinus pause is an abrupt cessation of SA node automaticity, producing a flat line with no P waves or QRS complexes until pacemaker activity resumes. It reflects sinoatrial node dysfunction rather than AV conduction block, in which P waves would continue but fail to conduct.",
         "whyCorrect": "A sinus pause is an abrupt cessation of SA node automaticity, producing a flat line with no P waves or QRS complexes until pacemaker activity resumes. It reflects sinoatrial node dysfunction rather than AV conduction block, in which P waves would continue but fail to conduct.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Retrograde conduction from a ventricular focus would produce a wide QRS, not a flat line with no activity.",
+          "C": "AV dissociation shows ongoing P waves and QRS complexes at independent rates, not a period of no electrical activity.",
+          "D": "Accessory pathway reentry produces a rapid tachycardia, not a pause in which both atrial and ventricular activity disappear.",
+          "E": "AV nodal block leaves P waves visible without following QRS complexes, whereas here no P waves appear during the pause."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-247_ca046_f02.png",

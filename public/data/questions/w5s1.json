@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
         "whyCorrect": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Acute valvular regurgitation is a valve-leak problem, not a consequence of a thick, small-cavity ventricle.",
+          "C": "HFrEF results from a dilated, thin-walled, poorly contracting ventricle, the opposite geometry from this concentrically hypertrophied heart.",
+          "D": "High-output failure arises from conditions such as anemia, AV fistula or thyrotoxicosis that demand excess cardiac output, not from wall thickening.",
+          "E": "Cor pulmonale is right ventricular failure from pulmonary disease, whereas the image shows left ventricular concentric hypertrophy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-159_ca052_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output.",
         "whyCorrect": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Contractility (inotropy) is independent of preload; added volume moves the ventricle along its curve rather than raising contractility.",
+          "B": "On the flat or descending limb, stroke volume barely rises while end-diastolic volume grows, so ejection fraction falls rather than climbs.",
+          "C": "Marked stroke volume gains occur on the steep ascending limb, not on the flattened portion where this failing ventricle operates.",
+          "D": "A proportional rise in stroke volume describes the ascending limb; on the overstretched portion the relationship has plateaued or reversed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-252_ca052_f05.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The lasting indentation identifies pitting edema, which reflects excess mobile interstitial fluid and is classically linked to cardiac, hepatic, or renal disease. Myxedema is nonpitting, angioedema and cellulitis are localized and acute, and lymphatic obstruction tends to produce nonpitting lymphedema.",
         "whyCorrect": "The lasting indentation identifies pitting edema, which reflects excess mobile interstitial fluid and is classically linked to cardiac, hepatic, or renal disease. Myxedema is nonpitting, angioedema and cellulitis are localized and acute, and lymphatic obstruction tends to produce nonpitting lymphedema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Filarial lymphatic obstruction produces non-pitting, often massive lymphedema with skin thickening (elephantiasis), not lasting pits.",
+          "B": "Myxedema of hypothyroidism deposits glycosaminoglycans in the dermis, producing firm swelling that does not retain a pit.",
+          "C": "Cellulitis is a localized, red, warm, tender infection, not bilateral leg edema that pits with pressure.",
+          "E": "Angioedema is acute, localized swelling of the face, lips or airway that is typically non-pitting."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-107_ca053_f01.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium.",
         "whyCorrect": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hypernatremia reflects water deficit and does not lower oncotic pressure or cause protein-losing edema.",
+          "B": "Hypercalcemia has no role in nephrotic-range protein loss or in lowering plasma oncotic pressure.",
+          "C": "Hyperkalemia reflects potassium handling and does not explain fluid shifts from protein loss.",
+          "E": "Creatine kinase rises with muscle injury and is unrelated to renal protein loss and oncotic pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-160_ca053_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "A rise in capillary hydrostatic pressure pushes more fluid out of the capillary into the interstitium. Raising plasma oncotic pressure or albumin would pull fluid back in, reduced permeability limits leak, and higher interstitial hydrostatic pressure opposes filtration.",
         "whyCorrect": "A rise in capillary hydrostatic pressure pushes more fluid out of the capillary into the interstitium. Raising plasma oncotic pressure or albumin would pull fluid back in, reduced permeability limits leak, and higher interstitial hydrostatic pressure opposes filtration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Higher plasma oncotic pressure pulls fluid into the capillary, favoring reabsorption rather than filtration.",
+          "C": "More albumin raises plasma oncotic pressure, drawing fluid back into the vessel and protecting against edema.",
+          "D": "Higher interstitial hydrostatic pressure pushes back against filtration and opposes fluid leaving the capillary.",
+          "E": "Reduced permeability lowers the filtration coefficient and limits fluid leak, the opposite of what causes edema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-253_ca053_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The green channels are lymphatic vessels, which collect the roughly 20 L/day of interstitial fluid not reabsorbed by venules and return it to the veins. Impairment of this drainage causes lymphedema.",
         "whyCorrect": "The green channels are lymphatic vessels, which collect the roughly 20 L/day of interstitial fluid not reabsorbed by venules and return it to the veins. Impairment of this drainage causes lymphedema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Oxygenated blood is delivered by arteries and capillaries, not by the lymphatic network shown in green.",
+          "C": "Gas exchange occurs across blood capillary walls, not across lymphatic vessels.",
+          "D": "Plasma oncotic pressure comes from plasma proteins, chiefly albumin made by the liver, not from lymphatic vessels.",
+          "E": "Capillary hydrostatic pressure is generated by the heart and arterial pressure, not by lymphatics."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-254_ca053_f04.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Albumin is the principal determinant of plasma oncotic pressure. Loss (nephrotic syndrome), decreased synthesis (liver failure, malnutrition), or poor intake/absorption lowers albumin, reducing the inward oncotic force and allowing fluid to accumulate in the interstitium.",
         "whyCorrect": "Albumin is the principal determinant of plasma oncotic pressure. Loss (nephrotic syndrome), decreased synthesis (liver failure, malnutrition), or poor intake/absorption lowers albumin, reducing the inward oncotic force and allowing fluid to accumulate in the interstitium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hematocrit reflects red cell volume, and red cells do not contribute meaningfully to plasma oncotic pressure.",
+          "B": "Plasma sodium affects osmolality and water distribution between compartments, not oncotic pressure across capillaries.",
+          "C": "Fibrinogen is a minor oncotic contributor, and these conditions lower rather than raise plasma proteins.",
+          "D": "Increased globulins would raise rather than lower oncotic pressure; nephrotic syndrome and liver failure act mainly through albumin loss."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-255_ca053_f07.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The diagram shows a thickened left ventricle and the ECG shows tall QRS complexes. Increased LV mass generates a larger electrical signal, producing high-voltage QRS complexes in the lateral leads that meet voltage criteria for left ventricular hypertrophy, often with a lateral strain pattern.",
         "whyCorrect": "The diagram shows a thickened left ventricle and the ECG shows tall QRS complexes. Increased LV mass generates a larger electrical signal, producing high-voltage QRS complexes in the lateral leads that meet voltage criteria for left ventricular hypertrophy, often with a lateral strain pattern.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A large pericardial effusion dampens electrical signals, producing low-voltage QRS complexes and electrical alternans.",
+          "C": "Left bundle branch block widens the QRS and alters morphology; it is not the cause of hypertrophy-related voltage criteria.",
+          "D": "Left atrial enlargement changes the P wave (broad, notched P in II, deep terminal P in V1), not QRS amplitude.",
+          "E": "Right ventricular dilation shifts the axis rightward with tall R waves in V1, not high lateral-lead voltage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-108_ca055_f03.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Left ventricular failure raises pulmonary venous and capillary pressure, forcing fluid into the interstitium and alveoli. On chest X-ray this appears as symmetric perihilar (bat-wing) opacities with vascular redistribution, characteristic of cardiogenic pulmonary edema rather than the focal consolidation of pneumonia.",
         "whyCorrect": "Left ventricular failure raises pulmonary venous and capillary pressure, forcing fluid into the interstitium and alveoli. On chest X-ray this appears as symmetric perihilar (bat-wing) opacities with vascular redistribution, characteristic of cardiogenic pulmonary edema rather than the focal consolidation of pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax appears as a hyperlucent hemithorax without lung markings and mediastinal shift, not bilateral perihilar opacities.",
+          "B": "Pleural fibrosis causes thickened pleural lines and blunted angles, not fluffy alveolar opacities around the hila.",
+          "D": "A pulmonary infarct is a peripheral, wedge-shaped, pleural-based opacity (Hampton hump), not symmetric perihilar haze.",
+          "E": "Bacterial pneumonia typically gives a focal lobar consolidation with air bronchograms, not symmetric bilateral bat-wing opacities."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-109_ca055_f04.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The depicted findings (orthopnea, paroxysmal nocturnal dyspnea, tachycardia, pulmonary congestion) are those of left-sided heart failure. When the left ventricle cannot eject or fill effectively, blood backs up into the left atrium and pulmonary veins, raising hydrostatic pressure and driving fluid into the alveoli, producing pulmonary congestion.",
         "whyCorrect": "The depicted findings (orthopnea, paroxysmal nocturnal dyspnea, tachycardia, pulmonary congestion) are those of left-sided heart failure. When the left ventricle cannot eject or fill effectively, blood backs up into the left atrium and pulmonary veins, raising hydrostatic pressure and driving fluid into the alveoli, producing pulmonary congestion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tricuspid regurgitation raises right atrial and systemic venous pressure, causing peripheral edema and JVD, not pulmonary congestion.",
+          "B": "Reduced pulmonary pressure from hypovolemia would decrease, not increase, fluid in the alveoli.",
+          "C": "Portal hypertension produces ascites and splenomegaly, a feature of right-sided rather than left-sided failure.",
+          "D": "Right ventricular failure raises systemic venous pressure, causing peripheral edema and hepatomegaly rather than pulmonary congestion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-257_ca055_f01.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality.",
         "whyCorrect": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Loop diuretics are not a mandatory first step; they are added at any point when congestion is present.",
+          "B": "Mineralocorticoid antagonists reduce mortality and are part of core therapy; loop diuretics do not substitute for them.",
+          "C": "Loop diuretics are used for congestion in both reduced and preserved ejection fraction heart failure.",
+          "E": "Loop diuretics do not reverse remodeling or improve survival; those benefits come from neurohormonal blockers and SGLT2 inhibitors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-181_ca056_f03.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Digoxin inhibits the Na+/K+-ATPase, raising intracellular sodium. This reduces the driving force of the Na+/Ca2+ exchanger, so less calcium is extruded and intracellular calcium rises, increasing the force of contraction. Digoxin improves symptoms but does not improve mortality.",
         "whyCorrect": "Digoxin inhibits the Na+/K+-ATPase, raising intracellular sodium. This reduces the driving force of the Na+/Ca2+ exchanger, so less calcium is extruded and intracellular calcium rises, increasing the force of contraction. Digoxin improves symptoms but does not improve mortality.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Na+/K+-ATPase inhibition acts on myocytes, not coronary smooth muscle, and digoxin does not increase oxygen supply.",
+          "B": "Digoxin does slow AV conduction through vagal effects, but the pump inhibition shown chiefly increases contractility, not only AV slowing.",
+          "D": "Venodilation reducing preload is the effect of nitrates, not of Na+/K+-ATPase inhibition.",
+          "E": "Arteriolar dilation reducing afterload is the effect of hydralazine or ACE inhibitors, not of digoxin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-258_ca056_f02.png",

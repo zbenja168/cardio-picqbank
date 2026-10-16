@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "A predominantly lymphocytic infiltrate is characteristic of viral myocarditis; bacterial infection tends to produce neutrophilic infiltrates and hypersensitivity reactions produce eosinophilic infiltrates.",
         "whyCorrect": "A predominantly lymphocytic infiltrate is characteristic of viral myocarditis; bacterial infection tends to produce neutrophilic infiltrates and hypersensitivity reactions produce eosinophilic infiltrates.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Infarction elicits a neutrophilic infiltrate with coagulative necrosis, followed by macrophages, not a primary lymphocytic myocarditis.",
+          "B": "Amyloid deposits as amorphous pink extracellular material without an inflammatory infiltrate.",
+          "D": "Hypersensitivity myocarditis is defined by eosinophils mixed with the infiltrate, often drug-related.",
+          "E": "Bacterial myocarditis produces neutrophil-rich infiltrates and microabscesses rather than the lymphocytes seen here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-042_ca057_f05.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy.",
         "whyCorrect": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A normal heart has a conical shape with an LV wall of about 1.0-1.5 cm and a modest cavity, not dilated, thin-walled chambers.",
+          "C": "Cardiac amyloidosis produces a firm, thickened, waxy myocardium with small cavities (restrictive), not a dilated heart.",
+          "D": "An acute infarct shows a regional pale or hemorrhagic zone in one coronary territory, not global dilation.",
+          "E": "Hypertrophic cardiomyopathy thickens the walls, especially the septum, and narrows the cavity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-161_ca057_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Eccentric hypertrophy adds sarcomeres end-to-end (in series), lengthening the myocytes and dilating the chambers; parallel (side-by-side) addition instead produces the wall thickening of concentric hypertrophy.",
         "whyCorrect": "Eccentric hypertrophy adds sarcomeres end-to-end (in series), lengthening the myocytes and dilating the chambers; parallel (side-by-side) addition instead produces the wall thickening of concentric hypertrophy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dilation results from adding sarcomeres to lengthen the cells, not from a net loss of sarcomeres.",
+          "B": "Parallel addition increases myocyte width and wall thickness, the concentric hypertrophy of pressure overload.",
+          "C": "Fibrous replacement describes scarring after myocyte death, not the sarcomere remodeling that lengthens cells.",
+          "E": "Fatty infiltration (as in arrhythmogenic cardiomyopathy) replaces myocardium rather than adding sarcomeres."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-259_ca057_f04.png",

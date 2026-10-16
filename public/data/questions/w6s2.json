@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "On the left, the common carotid and subclavian arteries arise separately and directly from the aortic arch, unlike the right side where a brachiocephalic trunk first divides into the right subclavian and right common carotid arteries. This asymmetry reflects the differing embryologic remodeling of the aortic arches.",
         "whyCorrect": "On the left, the common carotid and subclavian arteries arise separately and directly from the aortic arch, unlike the right side where a brachiocephalic trunk first divides into the right subclavian and right common carotid arteries. This asymmetry reflects the differing embryologic remodeling of the aortic arches.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "There is no left brachiocephalic trunk in the usual pattern; the brachiocephalic trunk exists only on the right.",
+          "B": "Only the right subclavian and right common carotid share the brachiocephalic trunk; the left vessels arise directly from the arch.",
+          "C": "The pulmonary trunk carries deoxygenated blood to the lungs and gives rise to no systemic arteries.",
+          "D": "Both left vessels arise from the arch itself, before it continues as the descending thoracic aorta."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-003_ca004_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The pharyngeal (branchial) arches shown remodel to form the great arteries and other structures of the head, neck, and thorax. Somites, the heart bulge, lens placode, and otic placode are also visible, marking key landmarks of the developing embryo.",
         "whyCorrect": "The pharyngeal (branchial) arches shown remodel to form the great arteries and other structures of the head, neck, and thorax. Somites, the heart bulge, lens placode, and otic placode are also visible, marking key landmarks of the developing embryo.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The abdominal wall and gut are supplied by derivatives of the dorsal aorta's segmental and vitelline branches, not the pharyngeal arches.",
+          "C": "The limbs develop from limb buds of lateral plate mesoderm, supplied by intersegmental arteries, not pharyngeal arches.",
+          "D": "The pelvis and perineum are supplied by iliac and umbilical artery derivatives, far from the pharyngeal region.",
+          "E": "The vertebral column and back derive from somites (sclerotome and dermomyotome), not pharyngeal arch mesenchyme."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-004_ca004_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The sixth aortic arches give rise to the pulmonary arteries; on the left, the distal segment persists as the ductus arteriosus, whereas on the right this distal portion regresses. This asymmetry also explains the differing courses of the right and left recurrent laryngeal nerves.",
         "whyCorrect": "The sixth aortic arches give rise to the pulmonary arteries; on the left, the distal segment persists as the ductus arteriosus, whereas on the right this distal portion regresses. This asymmetry also explains the differing courses of the right and left recurrent laryngeal nerves.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The internal carotid arteries come from the third arches plus the dorsal aortae, not the sixth arch.",
+          "B": "The brachiocephalic trunk derives from the aortic sac and right horn, not the left sixth arch.",
+          "C": "The right subclavian artery comes from the right fourth arch and right seventh intersegmental artery.",
+          "E": "The proximal right pulmonary artery comes from the proximal right sixth arch, not the persisting distal left sixth segment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-183_ca004_f03.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Coarctation of the aorta is a stricture of the aortic lumen most often located in the descending aorta just distal to the left subclavian artery, near the attachment of the ligamentum arteriosum (the remnant of the fetal ductus arteriosus).",
         "whyCorrect": "Coarctation of the aorta is a stricture of the aortic lumen most often located in the descending aorta just distal to the left subclavian artery, near the attachment of the ligamentum arteriosum (the remnant of the fetal ductus arteriosus).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Narrowing at the aortic bifurcation suggests atherosclerotic Leriche syndrome, not congenital coarctation.",
+          "B": "Narrowing at the sinuses of Valsalva would be supravalvular or root disease, not the typical juxtaductal coarctation.",
+          "C": "Abdominal aortic narrowing (middle aortic syndrome) is rare and not the classic site of coarctation.",
+          "D": "Narrowing just above the aortic valve is supravalvular aortic stenosis, associated with Williams syndrome."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-005_ca006_f01.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Cyanosis is the bluish discoloration seen when the level of deoxygenated hemoglobin rises (roughly above 5 g/dL). In right-to-left shunting cyanotic CHDs, poorly oxygenated blood reaches the systemic circulation, producing peripheral and central cyanosis.",
         "whyCorrect": "Cyanosis is the bluish discoloration seen when the level of deoxygenated hemoglobin rises (roughly above 5 g/dL). In right-to-left shunting cyanotic CHDs, poorly oxygenated blood reaches the systemic circulation, producing peripheral and central cyanosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Carboxyhemoglobin gives a cherry-red color rather than cyanosis, and pulse oximetry falsely reads normal.",
+          "C": "Anemia produces pallor; severe anemia actually makes cyanosis harder to detect because it depends on absolute deoxyhemoglobin.",
+          "D": "Methemoglobin gives a slate-gray, chocolate-tinged discoloration unresponsive to oxygen; the blue color of cyanosis is defined by excess deoxygenated hemoglobin, as with right-to-left shunting.",
+          "E": "Bilirubin deposition causes yellow jaundice and scleral icterus, not blue discoloration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-120_ca006_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Squatting kinks the femoral arteries and increases systemic (arterial) vascular resistance. This raises left-sided pressures, reducing the right-to-left shunt across the VSD so that more deoxygenated blood is directed through the pulmonary valve to be oxygenated, easing the tet spell.",
         "whyCorrect": "Squatting kinks the femoral arteries and increases systemic (arterial) vascular resistance. This raises left-sided pressures, reducing the right-to-left shunt across the VSD so that more deoxygenated blood is directed through the pulmonary valve to be oxygenated, easing the tet spell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Squatting does not act mainly by slowing the heart; it works by raising systemic vascular resistance.",
+          "C": "Lowering SVR would worsen the right-to-left shunt and deepen cyanosis, the opposite of squatting's effect.",
+          "D": "Increasing pulmonary vascular resistance would push more blood right-to-left and worsen the spell.",
+          "E": "Squatting tends to increase venous return from the legs, and the key benefit comes from raising systemic resistance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-184_ca006_f04.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Congenital preductal coarctation is thought to arise from abnormal development of the aortic arch during formation from the embryonic left fourth aortic arch, whereas postductal lesions relate to abnormal development of the descending aorta.",
         "whyCorrect": "Congenital preductal coarctation is thought to arise from abnormal development of the aortic arch during formation from the embryonic left fourth aortic arch, whereas postductal lesions relate to abnormal development of the descending aorta.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The third arches form the carotid arteries, not the segment of aortic arch involved in preductal coarctation.",
+          "C": "The bulbus cordis forms the smooth outflow portions of the ventricles, not the aortic arch.",
+          "D": "The truncus arteriosus forms the ascending aorta and pulmonary trunk; failed septation gives persistent truncus, not coarctation.",
+          "E": "The sixth arches form the pulmonary arteries and ductus arteriosus, not the aortic arch segment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-029_ca078_f01.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The enlarged intercostal arteries erode the inferior surface of the ribs as they carry collateral flow to the lower body, producing the classic rib-notching sign on chest radiograph in coarctation of the aorta.",
         "whyCorrect": "The enlarged intercostal arteries erode the inferior surface of the ribs as they carry collateral flow to the lower body, producing the classic rib-notching sign on chest radiograph in coarctation of the aorta.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A boot-shaped heart reflects RV hypertrophy with an upturned apex in tetralogy of Fallot.",
+          "B": "A water-bottle heart reflects a large pericardial effusion enlarging the cardiac silhouette.",
+          "C": "The figure-3 sign is the indented aortic contour at the coarctation site itself, and 'snowman' describes supracardiac TAPVR; neither is the rib erosion caused by enlarged intercostal collaterals.",
+          "E": "Egg-on-a-string describes transposition of the great arteries with a narrow superior mediastinum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-030_ca078_f02.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "CT and MR imaging give a detailed 3D depiction of the narrowed segment and associated anatomic abnormalities of aortic coarctation, aiding planning of the appropriate intervention.",
         "whyCorrect": "CT and MR imaging give a detailed 3D depiction of the narrowed segment and associated anatomic abnormalities of aortic coarctation, aiding planning of the appropriate intervention.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aneurysm planning also uses CT, but the image shows a focal narrowed segment of the aorta rather than a dilation.",
+          "B": "A PDA is a vascular channel between the aorta and pulmonary artery, not a narrowing of the aorta.",
+          "C": "Aortic transection is an acute traumatic injury, typically at the isthmus with hematoma, not a congenital narrowing planned for intervention.",
+          "E": "Dissection shows an intimal flap dividing true and false lumens, not a discrete narrowed segment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-115_ca078_f04.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Transcatheter intervention with placement of a percutaneous stent across the narrowed segment is the preferred approach in older children and adults with coarctation of the aorta.",
         "whyCorrect": "Transcatheter intervention with placement of a percutaneous stent across the narrowed segment is the preferred approach in older children and adults with coarctation of the aorta.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Subclavian flap aortoplasty is an open surgical repair using the left subclavian artery, not a catheter-based procedure.",
+          "C": "Coil embolization occludes vessels such as a PDA or collaterals; it would not widen a coarctation.",
+          "D": "Balloon valvuloplasty dilates a stenotic valve, whereas the angiograms show a device left across the aortic narrowing.",
+          "E": "End-to-end anastomosis is an open surgical resection, not a catheter angiographic procedure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-116_ca078_f05.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure.",
         "whyCorrect": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary valve stenosis overloads only the right ventricle; the left ventricle is unaffected.",
+          "B": "Left ventricular hypertrophy follows left-sided obstruction such as aortic stenosis, not a right-sided valve lesion.",
+          "C": "The right atrium may enlarge secondarily, but the chamber that pumps against the obstruction and hypertrophies is the right ventricle.",
+          "D": "The left atrium is upstream of left-sided valves and is unaffected by pulmonary stenosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-170_ca078_f06.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time.",
         "whyCorrect": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A quadricuspid aortic valve is a rare anomaly more often associated with regurgitation than stenosis.",
+          "B": "Ebstein anomaly involves the tricuspid valve on the right side, not left-sided outflow obstruction.",
+          "C": "A unicuspid valve does cause severe early stenosis but is rare; the bicuspid valve is the most common morphology.",
+          "D": "Fused mitral commissures cause mitral stenosis, typically rheumatic, not congenital aortic outflow obstruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-171_ca078_f07.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The high pressure gradient from aorta to pulmonary artery accelerates flow through the duct; the resulting turbulence exceeds the Nyquist limit and appears as a mosaic of aliased colors on Doppler.",
         "whyCorrect": "The high pressure gradient from aorta to pulmonary artery accelerates flow through the duct; the resulting turbulence exceeds the Nyquist limit and appears as a mosaic of aliased colors on Doppler.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Normal antegrade flow across the pulmonary valve is laminar and appears as uniform color, not mosaic aliasing.",
+          "C": "Laminar, low-velocity venous return appears as smooth uniform color, not a mosaic pattern.",
+          "D": "Motion artifact produces streaks or flashes unrelated to anatomy, not a localized jet at the duct's pulmonary end.",
+          "E": "A thrombus occluding the duct would abolish flow, producing no color signal rather than a bright mosaic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-053_ca007_f02.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "In Eisenmenger physiology the reversed PDA shunt delivers deoxygenated blood to the descending aorta beyond the arch vessels, so the legs appear cyanotic (differential cyanosis) while the upper body remains pink.",
         "whyCorrect": "In Eisenmenger physiology the reversed PDA shunt delivers deoxygenated blood to the descending aorta beyond the arch vessels, so the legs appear cyanotic (differential cyanosis) while the upper body remains pink.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An ASD with left-to-right shunting adds oxygenated blood to the right heart and does not lower leg saturation selectively.",
+          "C": "Hypothermic vasoconstriction affects extremities diffusely and would not create a consistent hand-to-foot saturation difference.",
+          "D": "A coarctation proximal to the left subclavian would reduce pressure and pulses in the arm, not create differential desaturation.",
+          "E": "Methemoglobinemia affects all circulating blood equally and cannot target the lower limbs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-185_ca007_f01.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Because the left atrium operates at higher pressure than the right, an interatrial communication produces a left-to-right shunt, increasing pulmonary blood flow.",
         "whyCorrect": "Because the left atrium operates at higher pressure than the right, an interatrial communication produces a left-to-right shunt, increasing pulmonary blood flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A septal defect is a passive opening; flow across it is driven by pressure gradients, not active pumping.",
+          "C": "Right atrial pressure is normally lower than left atrial pressure, which is why the shunt runs left to right.",
+          "D": "Pulmonary arterial pressure is normally far below systemic pressure and does not govern atrial-level flow.",
+          "E": "Gravity does not determine flow across the interatrial septum; pressure differences and chamber compliance do."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-186_ca007_f03.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Persistence of the ostium primum from incomplete fusion of the septum primum with the endocardial cushions yields a primum ASD, located low in the atrial septum.",
         "whyCorrect": "Persistence of the ostium primum from incomplete fusion of the septum primum with the endocardial cushions yields a primum ASD, located low in the atrial septum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A patent foramen ovale results from failure of the septum primum and secundum to fuse after birth, not from cushion fusion failure.",
+          "B": "A sinus venosus defect lies near the SVC or IVC entry and stems from abnormal sinus venosus incorporation.",
+          "C": "A secundum ASD results from excess resorption of septum primum or a deficient septum secundum, located centrally at the fossa ovalis.",
+          "D": "A coronary sinus defect is an unroofed coronary sinus communicating with the left atrium, unrelated to septum primum fusion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-187_ca007_f04.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The membranous IV septum completes when the muscular septum, the endocardial cushions, and the aorticopulmonary (conotruncal) septum meet; failure of this fusion is the most common cause of a VSD.",
         "whyCorrect": "The membranous IV septum completes when the muscular septum, the endocardial cushions, and the aorticopulmonary (conotruncal) septum meet; failure of this fusion is the most common cause of a VSD.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The septum secundum is an atrial structure and does not contribute to the interventricular septum.",
+          "B": "The foramen ovale is an opening in the atrial septum, not a component of the ventricular septum.",
+          "D": "The sinus venosus is incorporated into the right atrium and does not form part of the ventricular septum.",
+          "E": "The crista terminalis is a muscular ridge in the right atrium marking the sinus venosus junction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-188_ca007_f06.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Oxygenated LV blood crosses the VSD into the RV, raising RV oxygen saturation (an oxygen 'step-up') detectable on catheterization.",
         "whyCorrect": "Oxygenated LV blood crosses the VSD into the RV, raising RV oxygen saturation (an oxygen 'step-up') detectable on catheterization.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The coronary sinus drains into the right atrium and carries deoxygenated blood, which would lower, not raise, saturation.",
+          "B": "Aortic regurgitation flows back into the left ventricle, not the right, and does not raise RV saturation.",
+          "C": "Right-to-left shunting moves deoxygenated blood out of the right heart; it would lower left-sided saturation, not raise RV saturation.",
+          "D": "Pulmonary oxygen extraction does not occur; the lungs add oxygen, and RV saturation reflects blood returning from the body."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-189_ca007_f08.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The foramen ovale, bounded by septum primum and septum secundum, permits fetal right-to-left flow. When left atrial pressure rises after birth it seals, leaving the fossa ovalis as a depression in the adult atrial septum.",
         "whyCorrect": "The foramen ovale, bounded by septum primum and septum secundum, permits fetal right-to-left flow. When left atrial pressure rises after birth it seals, leaving the fossa ovalis as a depression in the adult atrial septum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The ligamentum venosum is the remnant of the ductus venosus, which shunted umbilical venous blood past the liver; it lies on the liver, not in the atrial septum.",
+          "B": "The crista terminalis is a muscular ridge in the right atrium marking the junction of the smooth sinus venarum and the trabeculated pectinate wall; it is not a sealed shunt remnant.",
+          "C": "The coronary sinus derives from the left horn of the sinus venosus and drains cardiac veins into the right atrium; it is a persistent channel, not a closed septal opening.",
+          "D": "The ligamentum arteriosum is the remnant of the ductus arteriosus between the pulmonary trunk and aortic arch, an extracardiac vessel rather than an opening in the atrial septum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-046_ca079_f05.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The mosaic color mapped onto the grayscale ultrasound is color Doppler, which encodes blood flow direction and velocity. It reveals the turbulent shunt jet of a patent ductus arteriosus between the descending aorta and pulmonary artery.",
         "whyCorrect": "The mosaic color mapped onto the grayscale ultrasound is color Doppler, which encodes blood flow direction and velocity. It reveals the turbulent shunt jet of a patent ductus arteriosus between the descending aorta and pulmonary artery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CT angiography opacifies vessels with iodinated contrast to show anatomy as grayscale densities; it does not encode flow direction or velocity as a color overlay.",
+          "C": "Radionuclide perfusion imaging maps tracer uptake in the myocardium to detect ischemia; it does not superimpose real-time flow color on an anatomic ultrasound image.",
+          "D": "Contrast left ventriculography injects dye into the left ventricle under fluoroscopy to assess wall motion and regurgitation; it produces no color-coded velocity map.",
+          "E": "Cardiac MRI can quantify flow with phase-contrast sequences, but the color mosaic on a grayscale sector image of a ductal jet is the signature of Doppler ultrasound."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-117_ca079_f03.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "A right-to-left shunt through a PDA delivers deoxygenated blood to the descending aorta distal to the head/arm vessels, so the lower extremities read a lower saturation than the upper extremities, producing differential cyanosis.",
         "whyCorrect": "A right-to-left shunt through a PDA delivers deoxygenated blood to the descending aorta distal to the head/arm vessels, so the lower extremities read a lower saturation than the upper extremities, producing differential cyanosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Methemoglobinemia causes uniform cyanosis with a pulse oximetry reading stuck near 85% at every site; it would not produce a hand-foot saturation gap.",
+          "C": "Newborn acrocyanosis is benign bluish discoloration of the hands and feet from peripheral vasomotor instability, with normal and equal arterial saturations.",
+          "D": "Central cyanosis reflects low arterial saturation affecting the whole body equally, including lips and tongue, rather than a difference between upper and lower limbs.",
+          "E": "Shock-related vasoconstriction lowers peripheral perfusion and can degrade oximetry signals everywhere, but it does not create a consistent lower-limb desaturation from shunted blood."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-172_ca079_f02.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The ductus arteriosus is kept patent in utero by low oxygen and high prostaglandin E1. After birth, lung expansion raises arterial oxygen tension, which triggers ductal smooth muscle constriction and functional closure within 15-30 hours.",
         "whyCorrect": "The ductus arteriosus is kept patent in utero by low oxygen and high prostaglandin E1. After birth, lung expansion raises arterial oxygen tension, which triggers ductal smooth muscle constriction and functional closure within 15-30 hours.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pulmonary vascular resistance falls, not rises, after birth as the lungs expand; a fall in resistance reverses ductal flow but is not the main trigger for closure.",
+          "C": "Prostaglandin E1 keeps the ductus open; levels fall after birth as the placenta is removed and lung metabolism increases, which is why indomethacin can close a PDA.",
+          "D": "Foramen ovale closure is a separate atrial event driven by rising left atrial pressure; it does not cause the ductus arteriosus to constrict.",
+          "E": "Systemic arterial pressure rises after birth when the low-resistance placenta is removed; a fall in systemic pressure is not what closes the ductus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-269_ca079_f01.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Fixed, wide splitting of S2 (A2-P2 gap unchanged by respiration) reflects the equalized, respiration-independent right heart filling caused by the ASD shunt, a key physical-exam clue to atrial septal defect.",
         "whyCorrect": "Fixed, wide splitting of S2 (A2-P2 gap unchanged by respiration) reflects the equalized, respiration-independent right heart filling caused by the ASD shunt, a key physical-exam clue to atrial septal defect.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A ventricular septal defect produces a harsh holosystolic murmur at the left lower sternal border; S2 splitting usually still varies normally with respiration.",
+          "B": "A patent ductus arteriosus causes a continuous machine-like murmur at the left infraclavicular area; a large PDA may give paradoxical splitting, not fixed splitting.",
+          "C": "Aortic stenosis delays aortic valve closure and causes paradoxical splitting, where the split widens on expiration and narrows on inspiration.",
+          "D": "Mitral regurgitation causes a holosystolic apical murmur radiating to the axilla; early aortic closure may widen the split, but it still varies with respiration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-270_ca079_f06.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The echo demonstrates the overriding aorta and ventricular septal defect that are two of the four components of tetralogy of Fallot; the other two, pulmonary valve stenosis and RV hypertrophy, complete the tetrad.",
         "whyCorrect": "The echo demonstrates the overriding aorta and ventricular septal defect that are two of the four components of tetralogy of Fallot; the other two, pulmonary valve stenosis and RV hypertrophy, complete the tetrad.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tricuspid atresia shows an absent tricuspid valve with a hypoplastic right ventricle; the aorta arises normally from the left ventricle rather than overriding the septum.",
+          "C": "Persistent truncus arteriosus has a single great vessel over a VSD that gives rise to both aorta and pulmonary arteries, not a separate aorta overriding the septum.",
+          "D": "Transposition of the great arteries has the aorta arising entirely from the right ventricle and the pulmonary artery from the left, in parallel rather than straddling a VSD.",
+          "E": "Total anomalous pulmonary venous return drains pulmonary veins into the systemic venous side; the outflow tracts and aortic position are normal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-054_ca008_f04.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Absence of the tricuspid valve prevents RA-to-RV filling, so the RV receives little blood and becomes hypoplastic while the RA enlarges, the imaging hallmark of tricuspid atresia.",
         "whyCorrect": "Absence of the tricuspid valve prevents RA-to-RV filling, so the RV receives little blood and becomes hypoplastic while the RA enlarges, the imaging hallmark of tricuspid atresia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ebstein anomaly displaces the tricuspid leaflets apically, atrializing part of the right ventricle, but a functional, regurgitant RA-to-RV inlet still exists.",
+          "B": "Hypoplastic left heart syndrome affects the left ventricle, mitral valve and aorta; the right heart is enlarged and functions as the systemic ventricle.",
+          "C": "Transposition of the great arteries is a discordant ventriculoarterial connection with both ventricles normally formed and normal atrioventricular inlets.",
+          "D": "Persistent truncus arteriosus is an outflow tract defect with a single great vessel over a VSD; the tricuspid inlet and right ventricle are well formed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-055_ca008_f06.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Cyanosis becomes visible when the absolute amount of reduced (deoxygenated) hemoglobin in the blood rises above roughly 5 g/dL, which occurs when a right-to-left shunt allows deoxygenated blood to bypass the lungs and enter the systemic circulation.",
         "whyCorrect": "Cyanosis becomes visible when the absolute amount of reduced (deoxygenated) hemoglobin in the blood rises above roughly 5 g/dL, which occurs when a right-to-left shunt allows deoxygenated blood to bypass the lungs and enter the systemic circulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Carboxyhemoglobin from carbon monoxide gives a cherry-red color rather than blue, and it is not a consequence of a right-to-left shunt.",
+          "C": "Unconjugated bilirubin causes neonatal jaundice, a yellow discoloration of skin and sclerae, not bluish nailbeds and digits.",
+          "D": "Methemoglobin can cause chocolate-colored blood and slate-gray cyanosis, but it arises from oxidant exposure or enzyme deficiency, not from shunting blood past the lungs.",
+          "E": "Oxygenated hemoglobin is bright red and gives normal pink skin; cyanosis appears when reduced hemoglobin, not oxygenated hemoglobin, increases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-121_ca008_f01.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Normally the truncoconal septum spirals down to separate the aorta from the pulmonary trunk; when this division fails, a single truncal vessel overrides both ventricles, defining persistent truncus arteriosus.",
         "whyCorrect": "Normally the truncoconal septum spirals down to separate the aorta from the pulmonary trunk; when this division fails, a single truncal vessel overrides both ventricles, defining persistent truncus arteriosus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Failed endocardial cushion fusion produces atrioventricular septal defects with a common AV valve, typically in Down syndrome, not a single arterial trunk.",
+          "C": "Failure of the interventricular foramen to close gives an isolated ventricular septal defect with two separate, normally divided great arteries.",
+          "D": "Abnormal incorporation of the sinus venosus causes sinus venosus ASDs or venous anomalies at the atrial inflow, not a common arterial outflow.",
+          "E": "Failed fusion of septum primum and septum secundum leaves a patent foramen ovale or secundum ASD, an atrial-level defect unrelated to the outflow tract."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-190_ca008_f07.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "The study demonstrates an overriding aorta straddling a ventricular septal defect with right ventricular hypertrophy, the key anatomic features of tetralogy of Fallot; pulmonic/RVOT stenosis completes the tetrad.",
         "whyCorrect": "The study demonstrates an overriding aorta straddling a ventricular septal defect with right ventricular hypertrophy, the key anatomic features of tetralogy of Fallot; pulmonic/RVOT stenosis completes the tetrad.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An isolated atrial septal defect causes right heart volume overload, but the defect is in the atrial septum and the aorta does not override the ventricular septum.",
+          "B": "In complete transposition the aorta arises fully from the right ventricle, parallel to the pulmonary artery, rather than straddling a VSD.",
+          "C": "A patent ductus arteriosus is an extracardiac shunt between the aorta and pulmonary artery; it involves no ventricular septal defect or overriding aorta.",
+          "D": "Tricuspid atresia features a small, hypoplastic right ventricle with no tricuspid inlet, not a thickened right ventricle beneath an overriding aorta."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-118_ca080_f04.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "The photograph shows digital clubbing, with loss of the normal nail-fold angle and bulbous fingertips. In cyanotic CHD such as tetralogy of Fallot, chronic hypoxemia promotes release of platelet-derived growth factor and VEGF, causing connective-tissue proliferation in the distal digits.",
         "whyCorrect": "The photograph shows digital clubbing, with loss of the normal nail-fold angle and bulbous fingertips. In cyanotic CHD such as tetralogy of Fallot, chronic hypoxemia promotes release of platelet-derived growth factor and VEGF, causing connective-tissue proliferation in the distal digits.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Digital arterial occlusion causes pallor, pain, ulceration or gangrene of the fingertips, not painless bulbous enlargement with loss of the nail-fold angle.",
+          "B": "Autoimmune synovitis, as in rheumatoid arthritis, causes swollen, tender joints, mainly proximal ones, rather than soft-tissue enlargement of the distal fingertip.",
+          "C": "Acute paronychia causes a red, painful, sometimes pus-filled nail fold that develops over days, not gradual painless clubbing.",
+          "E": "Gout deposits urate crystals that cause acutely painful inflamed joints and tophi, not symmetric bulbous enlargement of the distal digits."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-173_ca080_f02.png",

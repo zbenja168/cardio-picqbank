@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections.",
         "whyCorrect": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The vasa vasorum are small vessels in the adventitia and outer media of large vessels, not a continuous wavy line between intima and media.",
+          "B": "The endothelial basement membrane is a thin layer not resolvable as a prominent wavy band on routine H&E.",
+          "C": "The pericardial reflection is where serous pericardium folds around the great vessels; it is not a layer within the vessel wall.",
+          "D": "Fibrin from clotting would lie in the lumen or on the surface as an irregular pink mesh, not as a crimped boundary between wall layers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-035_ca023_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow.",
         "whyCorrect": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vessel walls contain smooth muscle, never skeletal muscle, and muscle provides contraction rather than passive elastic recoil.",
+          "B": "The aortic media contains many layers of smooth muscle interleaved with fenestrated elastic lamellae; the elastin, not a single muscle layer, gives recoil.",
+          "C": "One-way valves are found in veins and lymphatics, not in the aorta, and they prevent backflow rather than allowing expansion and recoil.",
+          "D": "The aorta, like all blood vessels, is lined by endothelium; its compliance comes from the elastin-rich media."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-036_ca023_f05.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries.",
         "whyCorrect": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fibrin strands are intravascular clot material and are not a structural component of the normal aortic media.",
+          "B": "Smooth muscle nuclei appear as scattered elongated nuclei on H&E and are not the continuous dark wavy bands highlighted by an elastic stain.",
+          "D": "Collagen stains with trichrome or picrosirius red and forms straighter bundles concentrated in the adventitia, not these wavy lamellae.",
+          "E": "Calcium deposits stain with von Kossa or alizarin red and appear as irregular clumps in diseased walls, not regular wavy bands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-037_ca023_f06.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina.",
         "whyCorrect": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphatic vessels carry lymph and have very thin walls; an artery carries blood and is distinguished from a vein by its thicker muscular wall.",
+          "B": "All blood vessels, arteries and veins alike, are lined by endothelium, so its presence cannot distinguish an artery from a vein.",
+          "D": "Valves are a feature of medium veins and lymphatics, not arteries, so an artery would be the vessel without them.",
+          "E": "Veins, especially large ones, have proportionally the thickest adventitia; small arteries are characterized by a relatively thick muscular media instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-038_ca023_f08.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands.",
         "whyCorrect": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The epidermis is avascular and is nourished by diffusion from dermal capillaries, so it has no capillaries of its own.",
+          "B": "Liver and spleen have discontinuous (sinusoidal) capillaries with large gaps and an incomplete basement membrane, not small pores over an intact basement membrane.",
+          "C": "Normal valve leaflets are largely avascular and are nourished by diffusion from the surrounding blood.",
+          "E": "Skeletal muscle and skin have continuous capillaries with tight junctions and no fenestrae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-039_ca023_f13.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance.",
         "whyCorrect": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Storage of blood under low pressure is the role of veins (capacitance vessels), and the lymphatic network carries interstitial fluid rather than blood.",
+          "C": "Oxygenated blood arrives through arterioles and capillaries; the separate blind-ended network carries lymph, not blood.",
+          "D": "Arteriovenous anastomoses connect arterioles directly to venules within the blood circulation; they are not a separate fluid-collecting network.",
+          "E": "Pulse pressure is generated by the left ventricle ejecting into compliant arteries, not by small vessels in the tissue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-218_ca023_f15.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries.",
         "whyCorrect": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A fluid wave is elicited by tapping one flank and feeling the impulse transmitted to the other flank, a test for ascites, not deep palpation above the umbilicus.",
+          "B": "Costovertebral angle tenderness is assessed by percussing the posterior flank over the kidney, not by palpating the mid-abdomen.",
+          "C": "Hepatosplenomegaly is sought by palpating the right and left upper quadrants under the costal margins, not the midline epigastrium for an aneurysm.",
+          "E": "Rebound tenderness is pain on sudden release of pressure, a sign of peritonitis, not the expansile pulsation of an aneurysm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-065_ca024_f08.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department.",
         "whyCorrect": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Point-of-care ultrasound is operator-dependent and requires training; its advantage is portability, not lack of needed skill.",
+          "C": "Detailed pre-operative graft planning is the strength of CT angiography, not ultrasound.",
+          "D": "CT has superior spatial resolution and anatomic detail; ultrasound is chosen in unstable patients despite lower resolution.",
+          "E": "Ultrasound visualizes the retroperitoneum poorly, especially with bowel gas, so it often cannot confirm rupture; CT is better for this."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-066_ca024_f09.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound.",
         "whyCorrect": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "An unstable, hypotensive patient should not leave for the scanner; bedside ultrasound is preferred in that setting.",
+          "C": "CT angiography requires IV iodinated contrast, so avoiding contrast is a disadvantage of the test, not its strength.",
+          "D": "Real-time flow assessment is a strength of Doppler ultrasound; CTA gives static anatomic images.",
+          "E": "CT uses ionizing radiation; ultrasound and MRI are the radiation-free options."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-067_ca024_f10.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus.",
         "whyCorrect": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Facial flushing and plethora come from superior vena cava compression, which is not the classic nerve-compression symptom of a thoracic aortic aneurysm.",
+          "C": "A productive cough reflects airway infection or bronchitis; compression by an aneurysm may cause a dry cough or stridor but not sputum production as a nerve sign.",
+          "D": "Hemoptysis from aortobronchial fistula is a rare, catastrophic erosion complication, not a nerve-compression symptom.",
+          "E": "Bilateral leg weakness would suggest spinal cord ischemia, as after repair or dissection, rather than compression of a nerve adjacent to the aneurysm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-068_ca024_f11.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection.",
         "whyCorrect": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic dissection is identified by an intimal flap separating true and false lumens, not by gas in the wall with periaortic inflammation.",
+          "B": "Non-enhancing mural thrombus is soft-tissue density lining the aneurysm, not black gas foci.",
+          "C": "Calcification appears bright white on CT, the opposite of the black gas density described.",
+          "D": "A contained sterile rupture shows periaortic hematoma, not gas; gas in and around the wall indicates infection with gas-forming organisms."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-069_ca024_f15.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur.",
         "whyCorrect": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An opening snap is the sound of a stiff mitral valve opening in mitral stenosis, unrelated to aortic root dilation.",
+          "B": "The mid-diastolic rumble of mitral stenosis comes from flow across a narrowed mitral valve, not from distortion of the aortic root.",
+          "C": "Fixed splitting of S2 is the hallmark of an atrial septal defect, not of aortic root disease.",
+          "E": "Aortic stenosis results from a calcified or bicuspid valve obstructing outflow; root dilation pulls the leaflets apart, causing regurgitation instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-219_ca024_f04.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses.",
         "whyCorrect": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Venous thrombosis causes a swollen, warm limb with edema, not focal cyanotic, painful toes with preserved arterial pulses.",
+          "B": "Septic emboli come from endocarditis and are accompanied by fever and other signs of infection; the source here is the aneurysm's mural thrombus.",
+          "C": "Occlusion of a large proximal artery would abolish distal pulses, yet this patient's pulses are preserved, pointing to small-vessel embolism.",
+          "D": "Raynaud phenomenon is episodic, cold- or stress-triggered color change of the digits, not acute persistent ischemia in a patient with an aneurysm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-220_ca024_f07.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia.",
         "whyCorrect": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "High-output heart failure results from large arteriovenous fistulas or severe anemia, not from a popliteal aneurysm.",
+          "C": "Popliteal aneurysms rarely rupture, and massive external hemorrhage is not their typical complication.",
+          "D": "Aortic dissection involves the aorta and is not a complication of an aneurysm behind the knee.",
+          "E": "A popliteal aneurysm can compress the popliteal vein, but its characteristic complications are arterial thrombosis and distal embolization, not DVT."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-221_ca024_f14.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically.",
         "whyCorrect": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Balloon angioplasty treats atherosclerotic stenosis; dilating a dissected aorta would worsen the tear and is not used.",
+          "B": "Observation is inappropriate for a type A dissection, which carries a high, hour-by-hour mortality from rupture, tamponade or coronary involvement.",
+          "C": "Medical blood-pressure control alone is the approach for uncomplicated type B dissection; type A requires emergency surgery.",
+          "E": "Anticoagulation is contraindicated in acute dissection because it can worsen bleeding into the false lumen or rupture."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-008_ca025_f01.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients.",
         "whyCorrect": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An aneurysm without dissection shows a dilated aorta with a single lumen, not two channels separated by a flap.",
+          "B": "Pulmonary embolism appears as filling defects in the pulmonary arteries, not as a linear flap dividing the aorta.",
+          "C": "A pericardial effusion is fluid around the heart, not a membrane within the aortic lumen.",
+          "D": "Coarctation is a focal narrowing of the aorta near the ductus arteriosus, not a longitudinal split into two lumens."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-070_ca025_f04.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen.",
         "whyCorrect": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cardiac MRI uses magnetic fields, not an ultrasound probe, and is impractical at the bedside for an unstable patient.",
+          "C": "A transthoracic echo places the probe on the chest wall; a probe passed through the esophagus defines a transesophageal study.",
+          "D": "CT angiography uses X-rays and IV contrast in a scanner, not an ultrasound probe at the bedside.",
+          "E": "Coronary angiography is catheter-based fluoroscopy of the coronary arteries, not ultrasound via the esophagus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-071_ca025_f05.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia.",
         "whyCorrect": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An aneurysm sac is a dilation involving all wall layers of the vessel, not a channel created by blood splitting the media.",
+          "B": "A patent ductus arteriosus is a persistent fetal connection between the aorta and pulmonary artery, unrelated to an intimal tear.",
+          "C": "A pseudoaneurysm is a contained leak through the entire wall bounded by surrounding tissue or adventitia, rather than a longitudinal channel within the media.",
+          "E": "The true lumen is the original vessel channel lined by intima; the new channel inside the wall is the false lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-222_ca025_f02.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides.",
         "whyCorrect": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Microscopic polyangiitis is a pauci-immune, non-granulomatous vasculitis that spares the upper airway and does not destroy nasal cartilage.",
+          "B": "EGPA features asthma, eosinophilia and allergic rhinitis or nasal polyps, but not the cartilage destruction that collapses the nasal bridge.",
+          "C": "Cryoglobulinemic vasculitis causes purpura, arthralgias and glomerulonephritis, often with hepatitis C, not upper-airway granulomatous destruction.",
+          "E": "IgA vasculitis presents with palpable purpura, arthritis, abdominal pain and nephritis, without nasal cartilage involvement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-130_ca026_f01.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here.",
         "whyCorrect": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cryoglobulinemic vasculitis is an immune-complex small-vessel vasculitis without granulomas or cavitary lung nodules.",
+          "B": "IgA vasculitis involves skin, gut, joints and kidneys through IgA deposition and does not cause granulomatous cavitary lung lesions.",
+          "D": "Microscopic polyangiitis causes pulmonary capillaritis and hemorrhage but, by definition, lacks granulomas and nodular cavitation.",
+          "E": "EGPA has eosinophil-rich granulomas with asthma and eosinophilia; large necrotic cavitary nodules are characteristic of GPA instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-131_ca026_f02.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change.",
         "whyCorrect": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Melanin deposition produces flat, brown hyperpigmentation that is neither palpable nor purpuric.",
+          "B": "Fat necrosis causes deep, tender subcutaneous nodules (as in panniculitis), not raised, non-blanching purple papules from bleeding.",
+          "C": "Epidermal hyperkeratosis produces scaly, thickened skin, not purpura, because it involves no bleeding into the dermis.",
+          "E": "Platelet-fibrin thrombi, as in TTP or DIC, cause flat petechiae or retiform purpura with necrosis rather than palpable purpura from inflammatory leak."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-132_ca026_f05.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children.",
         "whyCorrect": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anti-GBM disease causes glomerulonephritis and pulmonary hemorrhage in young men, without dependent purpura or abdominal pain in children.",
+          "C": "Microscopic polyangiitis is an ANCA-associated vasculitis of adults with renal and lung involvement, not the classic childhood purpura triad.",
+          "D": "GPA is an adult ANCA vasculitis with upper airway, lung and kidney disease, not a childhood purpuric illness with abdominal pain.",
+          "E": "Cryoglobulinemic vasculitis is mainly an adult disease linked to hepatitis C, presenting with purpura, arthralgia and weakness, rarely in children."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-133_ca026_f06.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return.",
         "whyCorrect": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Scalp necrosis can occur in GCA but is rare and not the most feared complication; the posterior ciliary arteries supply the optic nerve.",
+          "B": "GCA causes ischemic, not hemorrhagic, events, and stroke is less common than visual loss.",
+          "C": "Hearing loss is uncommon in GCA and is not the classic irreversible complication that prompts empiric steroids.",
+          "E": "Facial nerve palsy is not a recognized hallmark of GCA; the dreaded outcome is ischemic optic neuropathy with blindness."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-009_ca027_f03.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic.",
         "whyCorrect": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Intimal thickening occurs in GCA, but the infiltrate is not confined to the intima; it spans the full wall thickness.",
+          "C": "Inflammation limited to the endothelium does not describe GCA, which involves granulomatous inflammation across all layers, centered on the internal elastic lamina.",
+          "D": "Although the media and internal elastic lamina are prominently involved, the classic description is a transmural infiltrate, not media-only disease.",
+          "E": "Adventitia-only inflammation is not the pattern of GCA; the infiltrate extends from adventitia through media to intima."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-040_ca027_f02.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection.",
         "whyCorrect": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcified plaque is hyperechoic (bright) with acoustic shadowing, not a dark hypoechoic ring.",
+          "B": "A perivascular abscess is a focal fluid collection with clinical signs of infection, not a concentric uniform halo around the lumen.",
+          "C": "An aneurysmal outpouching is a focal bulge with flow inside, not a circumferential dark rim of wall thickening.",
+          "D": "Organized thrombus would lie within the lumen and reduce flow, whereas the halo surrounds a patent, flowing lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-072_ca027_f04.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia.",
         "whyCorrect": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Focal saccular aneurysms alone do not characterize Takayasu arteritis, which is defined chiefly by long segmental stenoses of the aorta and branches.",
+          "B": "Short, irregular, eccentric narrowing is the pattern of atherosclerosis, the very condition this question asks to distinguish from.",
+          "C": "Diffuse ectasia is generalized dilation of the aorta, not the narrowing shown on this angiogram.",
+          "D": "A string-of-beads pattern is the hallmark of fibromuscular dysplasia, not Takayasu arteritis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-073_ca027_f06.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
         "whyCorrect": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Kawasaki disease affects young children with fever, conjunctivitis and mucocutaneous changes, not a 72-year-old with jaw claudication.",
+          "C": "Buerger disease affects young male smokers and involves distal limb arteries, causing digital ischemia, not a tender temporal artery.",
+          "D": "Polyarteritis nodosa targets medium visceral arteries (kidney, gut, nerves) and does not classically present as temporal artery tenderness with jaw claudication.",
+          "E": "Takayasu arteritis affects the aorta and its branches in young women, producing pulseless arms, not a nodular temporal artery in an elderly patient."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-134_ca027_f01.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
         "whyCorrect": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cholesterol emboli come from disrupted atherosclerotic plaques, not from inflammatory destruction of the media.",
+          "B": "Valve vegetations arise from endocarditis or marantic deposits, not from weakening of a large arterial wall.",
+          "D": "Atherosclerotic plaque forms in the intima from lipid accumulation and is not caused by granulomatous medial destruction.",
+          "E": "Fatty streaks are the earliest atherosclerotic lesion of lipid-laden intimal foam cells, unrelated to loss of elastic lamina and muscle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-135_ca027_f05.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding.",
         "whyCorrect": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atheromatous plaques cause irregular luminal narrowing, not small outpouchings beyond the vessel contour.",
+          "B": "Dissections show an intimal flap or double lumen, not multiple round outpouchings along medium-sized arteries.",
+          "D": "Venous varices are dilated veins, whereas a mesenteric angiogram in PAN shows lesions on the arterial branches.",
+          "E": "Thrombotic occlusions appear as abrupt vessel cutoffs, not as contrast-filled beads protruding from the arteries."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-074_ca028_f07.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
         "whyCorrect": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ruptured cerebral (berry) aneurysms are associated with ADPKD and connective tissue disorders, not Kawasaki disease.",
+          "B": "Aortic dissection is linked to hypertension and Marfan syndrome, not to childhood Kawasaki disease.",
+          "D": "Renal artery stenosis is associated with fibromuscular dysplasia and atherosclerosis, not the coronary-targeting vasculitis of Kawasaki disease.",
+          "E": "Pulmonary fibrosis is not a recognized sequela of Kawasaki disease, which characteristically damages the coronary arteries."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-136_ca028_f01.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
         "whyCorrect": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Penicillin treats streptococcal illnesses such as scarlet fever, but Kawasaki disease is not a bacterial infection and does not respond to it.",
+          "B": "Corticosteroids are not standard first-line therapy; they are reserved as adjuncts for high-risk or IVIG-resistant cases.",
+          "C": "Cyclophosphamide is used for severe ANCA vasculitis, not as initial therapy for Kawasaki disease.",
+          "D": "Acyclovir treats herpesvirus infections; Kawasaki disease is not caused by HSV or VZV."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-137_ca028_f02.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
         "whyCorrect": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Polyarteritis nodosa mainly affects adults and spares mucosa and conjunctivae; it does not present with fever and palmar erythema in children.",
+          "B": "Scarlet fever causes a sandpaper rash with strawberry tongue and exudative pharyngitis, but not bilateral nonexudative conjunctivitis with palmar erythema and edema.",
+          "C": "Thromboangiitis obliterans affects young adult smokers with digital ischemia, not febrile children with mucosal changes.",
+          "D": "Henoch-Schonlein purpura produces palpable purpura on the legs and buttocks with abdominal pain and arthritis, not conjunctivitis and palmar erythema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-138_ca028_f03.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
         "whyCorrect": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Cytomegalovirus can cause vasculitis in immunocompromised hosts but is not the classic association of polyarteritis nodosa.",
+          "C": "Epstein-Barr virus is linked to lymphomas and mononucleosis, not to polyarteritis nodosa.",
+          "D": "Hepatitis A causes only acute infection without a chronic carrier state, so it does not drive the immune-complex vasculitis of PAN.",
+          "E": "Varicella zoster virus causes a CNS vasculopathy that can produce stroke, not systemic polyarteritis nodosa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-139_ca028_f05.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
         "whyCorrect": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The kidneys are commonly involved in PAN, with renal artery inflammation causing hypertension and infarcts.",
+          "C": "The skin is frequently affected in PAN, with nodules, livedo reticularis and ulcers.",
+          "D": "Mesenteric artery involvement causing abdominal pain and bowel ischemia is a classic feature of PAN.",
+          "E": "Vasa nervorum involvement causing mononeuritis multiplex is a hallmark of PAN, not a spared system."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-140_ca028_f06.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
         "whyCorrect": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Polyarteritis nodosa shows transmural fibrinoid necrosis of the wall itself, not a cellular luminal thrombus with a spared wall.",
+          "B": "Giant cell arteritis is a granulomatous transmural vasculitis of large arteries in elderly patients, not a thrombosing lesion in young smokers.",
+          "C": "Atherosclerosis shows an intimal lipid-rich plaque with a fibrous cap, not an inflammatory thrombus with a relatively preserved wall.",
+          "E": "Kawasaki disease is a necrotizing medium-vessel vasculitis of young children, especially of the coronary arteries, not a smoking-related limb disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-141_ca028_f09.png",

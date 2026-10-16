@@ -29,7 +29,11 @@
       "explanation": {
         "summary": "The arrow marks an abrupt termination of the contrast column with no distal filling, indicating total occlusion of the right coronary artery causing the inferior STEMI. Panel B shows restored antegrade contrast (normal perfusion) after percutaneous coronary intervention.",
         "whyCorrect": "The arrow marks an abrupt termination of the contrast column with no distal filling, indicating total occlusion of the right coronary artery causing the inferior STEMI. Panel B shows restored antegrade contrast (normal perfusion) after percutaneous coronary intervention.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The arrow marks the right coronary artery in an inferior STEMI, not the left main, and shows a cutoff rather than a dissection flap.",
+          "C": "A patent artery would fill fully with contrast; the abrupt cutoff with no distal filling indicates occlusion.",
+          "D": "An aneurysm would show a focal dilation of the contrast column, not an abrupt termination."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-085_ca039_f04.png",
@@ -64,7 +68,11 @@
       "explanation": {
         "summary": "The GP IIb/IIIa receptor binds fibrinogen to cross-link adjacent platelets, the final common pathway of aggregation; agents such as abciximab, eptifibatide, and tirofiban block it. Aspirin acts upstream on COX/thromboxane, and clopidogrel/ticagrelor act on the P2Y12 ADP receptor.",
         "whyCorrect": "The GP IIb/IIIa receptor binds fibrinogen to cross-link adjacent platelets, the final common pathway of aggregation; agents such as abciximab, eptifibatide, and tirofiban block it. Aspirin acts upstream on COX/thromboxane, and clopidogrel/ticagrelor act on the P2Y12 ADP receptor.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "COX inhibitors such as aspirin block thromboxane A2 synthesis upstream of aggregation, not the fibrinogen-binding receptor itself.",
+          "B": "Phosphodiesterase inhibitors such as cilostazol and dipyridamole raise platelet cAMP, acting on intracellular signaling rather than the final receptor.",
+          "C": "P2Y12 antagonists block ADP-induced activation, which upregulates GP IIb/IIIa; they act upstream rather than at the cross-linking receptor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-177_ca039_f02.png",
@@ -103,7 +111,12 @@
       "explanation": {
         "summary": "D-dimer, a fibrin degradation product, is elevated in many conditions; it is sensitive but not specific, so a normal value helps rule out DVT while an elevation is nonspecific.",
         "whyCorrect": "D-dimer, a fibrin degradation product, is elevated in many conditions; it is sensitive but not specific, so a normal value helps rule out DVT while an elevation is nonspecific.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "D-dimer rises in many states (surgery, infection, pregnancy, malignancy), so it is not highly specific for DVT.",
+          "B": "The pattern is the reverse: D-dimer is sensitive, so a normal result helps exclude DVT, but it lacks specificity.",
+          "C": "D-dimer is highly sensitive, which is the basis for its use in ruling out DVT in low-probability patients.",
+          "D": "Bleeding time assesses platelet function and has no role in interpreting D-dimer for DVT."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-086_ca040_f07.png",
@@ -142,7 +155,12 @@
       "explanation": {
         "summary": "A normal vein collapses with compression; a vein that stays open when pressure is applied signals an intraluminal clot, the diagnostic finding for DVT on compression ultrasonography.",
         "whyCorrect": "A normal vein collapses with compression; a vein that stays open when pressure is applied signals an intraluminal clot, the diagnostic finding for DVT on compression ultrasonography.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Compression ultrasound of a vein evaluates venous patency; arterial occlusion is assessed by Doppler flow in the artery.",
+          "B": "Valve incompetence is detected by reflux on Doppler; it does not prevent the vein from collapsing under pressure.",
+          "D": "Superficial thrombophlebitis involves superficial veins, while this test assesses a deep leg vein for non-compressibility.",
+          "E": "A normal patent vein collapses completely with compression, unlike the vein shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-087_ca040_f08.png",
@@ -181,7 +199,12 @@
       "explanation": {
         "summary": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis.",
         "whyCorrect": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A ruptured Baker cyst can mimic DVT but typically causes calf pain and bruising near the ankle after a popliteal cyst history; DVT is the classic diagnosis for unilateral swelling and erythema.",
+          "C": "Lymphedema is chronic, non-pitting and usually not erythematous, unlike this acute red swollen leg.",
+          "D": "Contact dermatitis is a pruritic, eczematous skin eruption without significant limb swelling.",
+          "E": "Chronic venous insufficiency is typically bilateral with hyperpigmentation and stasis changes, not a unilateral red swollen leg."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-154_ca040_f03.png",
@@ -220,7 +243,12 @@
       "explanation": {
         "summary": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency.",
         "whyCorrect": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Necrotizing fasciitis is a rapidly spreading soft-tissue infection with severe pain and systemic toxicity, not venous outflow obstruction.",
+          "C": "Arterial embolism produces a pale, cold, pulseless limb without massive swelling, the opposite of this edematous blue leg.",
+          "D": "Compartment syndrome arises from raised pressure within a fascial compartment, usually after trauma, not from iliofemoral venous occlusion.",
+          "E": "Cellulitis causes localized erythema and warmth from infection, not massive edema with cyanosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-155_ca040_f06.png",
@@ -259,7 +287,12 @@
       "explanation": {
         "summary": "The traveling fragment is a thromboembolus; once dislodged it flows until it wedges in and obstructs a smaller downstream vessel, the defining mechanism of embolic injury.",
         "whyCorrect": "The traveling fragment is a thromboembolus; once dislodged it flows until it wedges in and obstructs a smaller downstream vessel, the defining mechanism of embolic injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Local inflammation of the vein wall (thrombophlebitis) occurs where the clot forms, not where a detached fragment travels.",
+          "B": "A bland thrombus fragment is not infected and does not seed bacteria; only septic emboli do.",
+          "C": "Venous emboli cause harm by obstruction, not by inducing sustained venous spasm.",
+          "E": "Immune complex deposition is the mechanism of type III hypersensitivity vasculitis, not of thromboembolism."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-234_ca040_f01.png",
@@ -298,7 +331,12 @@
       "explanation": {
         "summary": "The diagram traces a leg clot to the pulmonary arteries; obstruction there blocks perfusion of the lungs and impairs gas exchange, the hallmark of pulmonary embolism.",
         "whyCorrect": "The diagram traces a leg clot to the pulmonary arteries; obstruction there blocks perfusion of the lungs and impairs gas exchange, the hallmark of pulmonary embolism.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The occlusion is in the pulmonary arteries, not the aorta, so systemic pressure regulation is not the first function lost.",
+          "B": "Hepatic detoxification of portal blood occurs in the liver, unaffected directly by a pulmonary arterial clot.",
+          "C": "Coronary perfusion depends on the aorta; a massive PE may eventually strain the right ventricle, but the immediate loss is pulmonary gas exchange.",
+          "D": "Glomerular filtration takes place in the kidneys and is not the immediate function impaired by a lung clot."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-235_ca040_f02.png",
@@ -337,7 +375,12 @@
       "explanation": {
         "summary": "Endothelial injury, hypercoagulability, and abnormal blood flow (stasis) together constitute Virchow triad, the classic framework for thrombogenesis.",
         "whyCorrect": "Endothelial injury, hypercoagulability, and abnormal blood flow (stasis) together constitute Virchow triad, the classic framework for thrombogenesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Charcot triad is fever, jaundice and right upper quadrant pain of ascending cholangitis.",
+          "B": "Cushing triad is hypertension, bradycardia and irregular respirations from raised intracranial pressure.",
+          "C": "Beck triad is hypotension, distended neck veins and muffled heart sounds of cardiac tamponade.",
+          "E": "Samter triad is asthma, nasal polyps and aspirin sensitivity (aspirin-exacerbated respiratory disease)."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-236_ca040_f04.png",
@@ -376,7 +419,12 @@
       "explanation": {
         "summary": "Turbulent (disorganized) flow lets platelets and clotting factors move toward and interact with the vessel wall, promoting thrombus formation, unlike smooth laminar flow.",
         "whyCorrect": "Turbulent (disorganized) flow lets platelets and clotting factors move toward and interact with the vessel wall, promoting thrombus formation, unlike smooth laminar flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Turbulence does not dilute clotting factors; it disrupts laminar flow so that platelets and factors contact the wall.",
+          "B": "Turbulent flow activates platelets and injures endothelium rather than preventing activation.",
+          "C": "Abnormal flow allows local accumulation of activated factors rather than speeding their clearance.",
+          "E": "Keeping cells centered away from the wall is a property of laminar flow, which protects against thrombosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-237_ca040_f05.png",
@@ -415,7 +463,12 @@
       "explanation": {
         "summary": "Mechanical (intermittent pneumatic) compression devices squeeze the limb to enhance venous return and counter stasis, offering DVT prophylaxis when anticoagulants are contraindicated.",
         "whyCorrect": "Mechanical (intermittent pneumatic) compression devices squeeze the limb to enhance venous return and counter stasis, offering DVT prophylaxis when anticoagulants are contraindicated.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The device compresses the limb to push venous blood forward; it is not intended to limit arterial inflow.",
+          "C": "The sleeve delivers no medication; it is a purely mechanical device.",
+          "D": "Cooling the limb plays no role; the device prevents stasis by rhythmic squeezing.",
+          "E": "It prevents new clots by improving venous flow and does not dissolve existing thrombi electrically."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-238_ca040_f10.png",
@@ -454,7 +507,12 @@
       "explanation": {
         "summary": "The diagram shows the intrinsic and extrinsic pathways converging on factor Xa in the common pathway. DOACs directly inhibit factor Xa, which reduces the conversion of prothrombin (factor II) to thrombin, thereby preventing fibrin formation and clot propagation.",
         "whyCorrect": "The diagram shows the intrinsic and extrinsic pathways converging on factor Xa in the common pathway. DOACs directly inhibit factor Xa, which reduces the conversion of prothrombin (factor II) to thrombin, thereby preventing fibrin formation and clot propagation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Inhibiting factor Xa acts downstream of the extrinsic pathway and does not increase its activation.",
+          "B": "Potentiation of antithrombin is the mechanism of heparins and fondaparinux; DOACs inhibit Xa directly without antithrombin.",
+          "C": "Factor VII synthesis is reduced by warfarin through vitamin K antagonism; Xa inhibitors do not increase its hepatic production.",
+          "E": "Factor Xa inhibitors prevent new fibrin formation but do not enhance fibrinolysis of existing clots, which is the action of thrombolytics."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-239_ca041_f01.png",
@@ -493,7 +551,12 @@
       "explanation": {
         "summary": "Varicose veins are dilated, tortuous veins of the superficial venous system, which lies above the deep fascia. Valvular incompetence in these superficial veins causes them to become engorged and visibly tortuous.",
         "whyCorrect": "Varicose veins are dilated, tortuous veins of the superficial venous system, which lies above the deep fascia. Valvular incompetence in these superficial veins causes them to become engorged and visibly tortuous.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Deep veins lie beneath the muscular fascia and are not visible as bulging vessels under the skin.",
+          "B": "Varicosities are veins, not arteries; perforating veins connect superficial and deep systems.",
+          "C": "Dermal lymphatics are not visible as tortuous blue cords and do not form varicosities.",
+          "E": "The soleal sinusoids are deep intramuscular veins that cannot be seen beneath the skin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-013_ca042_f04.png",
@@ -532,7 +595,12 @@
       "explanation": {
         "summary": "Varicose veins result from failure (incompetence) of the one-way venous valves, allowing blood to flow backward and pool, which dilates and distends the superficial veins into the characteristic tortuous appearance.",
         "whyCorrect": "Varicose veins result from failure (incompetence) of the one-way venous valves, allowing blood to flow backward and pool, which dilates and distends the superficial veins into the characteristic tortuous appearance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphatic obstruction causes lymphedema, a diffuse limb swelling without engorged serpiginous veins.",
+          "B": "Inflammatory capillary destruction describes vasculitis, which produces purpura rather than dilated superficial veins.",
+          "C": "Acute deep vein thrombosis causes a swollen, painful limb; varicose veins reflect chronic valve failure, though prior DVT can damage valves.",
+          "E": "Arterial atherosclerosis causes ischemic symptoms such as claudication, not venous dilation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-156_ca042_f01.png",

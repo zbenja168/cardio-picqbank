@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The valve on the right is a bicuspid aortic valve (two cusps instead of three). Abnormal leaflet mechanics accelerate calcification, so these patients typically develop aortic stenosis decades earlier than those with a normal tricuspid valve.",
         "whyCorrect": "The valve on the right is a bicuspid aortic valve (two cusps instead of three). Abnormal leaflet mechanics accelerate calcification, so these patients typically develop aortic stenosis decades earlier than those with a normal tricuspid valve.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitral valve prolapse results from myxomatous degeneration of the mitral leaflets and is not caused by a bicuspid aortic valve.",
+          "B": "Tricuspid regurgitation is usually due to right ventricular dilation or endocarditis, not a congenitally two-cusp aortic valve.",
+          "C": "A secundum ASD is a defect in the atrial septum, unrelated to aortic valve cusp number.",
+          "E": "Pulmonary valve stenosis involves the right-sided semilunar valve, whereas this bicuspid valve is aortic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-006_ca010_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "On CT, calcium is markedly hyperdense (bright white). Cardiac CT is used to evaluate aortic stenosis because it clearly demonstrates the extent of valvular and root calcification, along with coronary anatomy (RCA, LCX, LAD).",
         "whyCorrect": "On CT, calcium is markedly hyperdense (bright white). Cardiac CT is used to evaluate aortic stenosis because it clearly demonstrates the extent of valvular and root calcification, along with coronary anatomy (RCA, LCX, LAD).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Contrast extravasation would appear as an irregular blush outside a vessel, not discrete dense deposits around the valve.",
+          "C": "Lipid-rich plaque is low-attenuation (dark gray) on CT, not bright white.",
+          "D": "Metastatic deposits are soft-tissue masses, and cardiac metastases rarely calcify along the valve.",
+          "E": "Coronary thrombus appears as a low-density filling defect within the lumen, not dense deposits around the aortic valve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-056_ca010_f06.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "In older adults the most common cause of aortic stenosis is age-related calcific (degenerative) change, which scars and stiffens the leaflets so they can no longer open fully. Rheumatic disease and congenital bicuspid valves are less common causes and produce different morphology.",
         "whyCorrect": "In older adults the most common cause of aortic stenosis is age-related calcific (degenerative) change, which scars and stiffens the leaflets so they can no longer open fully. Rheumatic disease and congenital bicuspid valves are less common causes and produce different morphology.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myxomatous degeneration makes leaflets soft, redundant and floppy, typically in the mitral valve, not rigid and immobile.",
+          "C": "Rheumatic disease fuses commissures, typically with mitral involvement, and is less common than calcific degeneration in elderly patients.",
+          "D": "Infective vegetations are friable masses on the closure line that tend to cause regurgitation rather than rigid stenosis.",
+          "E": "A unicuspid valve is a rare congenital anomaly that causes stenosis in childhood or young adulthood, not in the elderly."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-122_ca010_f01.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Chronic pressure overload causes concentric left ventricular hypertrophy. The thick, stiff wall cannot relax and fill normally, so the ventricle develops diastolic (nonsystolic) dysfunction, reducing end-diastolic volume and stroke volume.",
         "whyCorrect": "Chronic pressure overload causes concentric left ventricular hypertrophy. The thick, stiff wall cannot relax and fill normally, so the ventricle develops diastolic (nonsystolic) dysfunction, reducing end-diastolic volume and stroke volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Concentric LV hypertrophy affects the left ventricle; right-sided failure develops only later via pulmonary hypertension.",
+          "B": "Hypertrophy stiffens the ventricle and decreases compliance rather than increasing it.",
+          "C": "Ventricular wall thickening does not make the aortic valve leak; regurgitation results from leaflet or root disease.",
+          "D": "Systolic dysfunction with dilation occurs late in decompensated disease; thickening itself preserves ejection but impairs filling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-123_ca010_f04.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The series depicts degrees of aortic stenosis, from a normal tricuspid valve through aortic sclerosis to severe stenosis. The narrowing results from age-related and atherosclerotic-type fibrocalcific remodeling that thickens and calcifies the leaflets, progressively reducing the systolic orifice area.",
         "whyCorrect": "The series depicts degrees of aortic stenosis, from a normal tricuspid valve through aortic sclerosis to severe stenosis. The narrowing results from age-related and atherosclerotic-type fibrocalcific remodeling that thickens and calcifies the leaflets, progressively reducing the systolic orifice area.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vegetations perforating leaflets would cause regurgitation and leaflet destruction, not progressive thickening and orifice narrowing.",
+          "B": "A fish-mouth orifice from commissural fusion is the rheumatic mitral stenosis pattern, whereas this series shows a three-cusp aortic valve calcifying.",
+          "C": "Fenestrations are small, usually incidental perforations near the commissures and do not progressively narrow the orifice.",
+          "E": "Myxomatous degeneration makes leaflets floppy and prolapsing, causing regurgitation rather than stenosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-162_ca062_f01.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The stenotic valve forces the ventricle to generate very high systolic pressures (making the loop tall), while the obstruction and increased end-systolic volume reduce the width of the loop, which represents stroke volume. This tall, thin shape distinguishes AS from other valvular lesions.",
         "whyCorrect": "The stenotic valve forces the ventricle to generate very high systolic pressures (making the loop tall), while the obstruction and increased end-systolic volume reduce the width of the loop, which represents stroke volume. This tall, thin shape distinguishes AS from other valvular lesions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic stenosis lowers stroke volume and raises chamber pressure, the opposite of a high-volume, low-pressure loop.",
+          "B": "A normal loop is wider and shorter; the tall, narrow loop reflects high afterload with reduced stroke volume.",
+          "D": "The stenotic valve greatly increases afterload, which is why systolic pressure rises so high.",
+          "E": "End-systolic volume increases in aortic stenosis because the ventricle cannot empty fully against obstruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-193_ca010_f03.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The AS murmur occurs between S1 and S2 (systole) and rises then falls in intensity as flow across the valve peaks in mid-systole, giving the crescendo-decrescendo shape. This contrasts with the plateau holosystolic murmur of mitral regurgitation shown below.",
         "whyCorrect": "The AS murmur occurs between S1 and S2 (systole) and rises then falls in intensity as flow across the valve peaks in mid-systole, giving the crescendo-decrescendo shape. This contrasts with the plateau holosystolic murmur of mitral regurgitation shown below.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An early diastolic decrescendo murmur is the pattern of aortic regurgitation, occurring after S2 rather than in systole.",
+          "C": "A holosystolic plateau murmur is the pattern of mitral regurgitation, shown in the lower tracing.",
+          "D": "A continuous machinery murmur spanning systole and diastole is characteristic of patent ductus arteriosus.",
+          "E": "A mid-diastolic rumble indicates mitral stenosis, with flow across a narrowed AV valve during filling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-194_ca010_f05.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In aortic stenosis the narrowed orifice forces the left ventricle to generate a much higher pressure than the aorta during ejection. The vertical gap between the LV and aortic pressure tracings during systole is the transvalvular (systolic) pressure gradient, which increases with stenosis severity.",
         "whyCorrect": "In aortic stenosis the narrowed orifice forces the left ventricle to generate a much higher pressure than the aorta during ejection. The vertical gap between the LV and aortic pressure tracings during systole is the transvalvular (systolic) pressure gradient, which increases with stenosis severity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The atrioventricular gradient occurs during diastolic filling, whereas the separation here appears during systolic ejection.",
+          "C": "Pulse pressure widening from aortic regurgitation reflects a low aortic diastolic pressure, not a systolic gap between LV and aorta.",
+          "D": "A diastolic mitral gradient compares left atrial and LV pressures during filling, not LV and aortic pressures in systole.",
+          "E": "Dynamic septal obstruction in HCM produces a gradient that varies with loading and lies below the valve, whereas this gradient is across a stenotic valve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-260_ca062_f02.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "A short-axis section at the level of the valves shows the dense fibrous cardiac skeleton, a ring of connective tissue that surrounds and anchors all four valve annuli and electrically insulates the atria from the ventricles.",
         "whyCorrect": "A short-axis section at the level of the valves shows the dense fibrous cardiac skeleton, a ring of connective tissue that surrounds and anchors all four valve annuli and electrically insulates the atria from the ventricles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The epicardial fat pad lies on the heart's surface along the grooves and does not anchor valve annuli.",
+          "C": "Chordae tendineae tether AV valve leaflets to papillary muscles but do not form a common anchoring ring for all four valves.",
+          "D": "The interventricular septum separates the ventricles and does not encircle the valve annuli.",
+          "E": "The moderator band carries the right bundle branch across the right ventricle and does not support the valves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-007_ca021_f01.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The valves sit in the fibrous cardiac skeleton, which anchors the leaflets and myocardium and electrically insulates the atria from the ventricles, restricting the only conduction pathway to the AV node. This is why the tricuspid and mitral valves are shown closed during diastole in the same plane.",
         "whyCorrect": "The valves sit in the fibrous cardiac skeleton, which anchors the leaflets and myocardium and electrically insulates the atria from the ventricles, restricting the only conduction pathway to the AV node. This is why the tricuspid and mitral valves are shown closed during diastole in the same plane.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcium for relaxation is handled by the sarcoplasmic reticulum of myocytes, not by fibrous connective tissue.",
+          "C": "The fibrous skeleton is passive connective tissue and does not contract; ventricular myocardium ejects blood.",
+          "D": "The pacemaker impulse arises in the SA node, a specialized myocardial structure, not in the fibrous rings.",
+          "E": "The fibrous skeleton does not supply blood; valve leaflets are largely nourished by diffusion from surrounding blood."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-018_ca063_f01.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Aortic regurgitation produces a soft, high-pitched early diastolic decrescendo murmur that begins right after S2, when the aortic-to-LV pressure gradient is greatest and then falls. Mitral stenosis instead gives a mid-to-late diastolic rumble.",
         "whyCorrect": "Aortic regurgitation produces a soft, high-pitched early diastolic decrescendo murmur that begins right after S2, when the aortic-to-LV pressure gradient is greatest and then falls. Mitral stenosis instead gives a mid-to-late diastolic rumble.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A mid-systolic crescendo-decrescendo murmur is aortic stenosis, occurring between S1 and S2 rather than after S2.",
+          "C": "A holosystolic plateau murmur is mitral or tricuspid regurgitation or VSD, occurring in systole.",
+          "D": "A continuous machinery murmur spans both systole and diastole and is characteristic of patent ductus arteriosus.",
+          "E": "A late diastolic presystolic rumble belongs to mitral stenosis, which is the lower tracing being contrasted."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-063_ca021_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery.",
         "whyCorrect": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Endocarditis vegetations are friable masses on the leaflets, not a domed valve with a single raphe in an infant.",
+          "B": "Rheumatic disease affects the mitral valve of older children and adults, not the pulmonary outflow tract of an infant.",
+          "D": "Myxomatous prolapse affects mitral leaflets and causes regurgitation, not a domed stenotic pulmonary valve.",
+          "E": "Calcific degeneration affects tricuspid aortic valves in the elderly, not the pulmonary valve of an infant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-128_ca021_f07.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease.",
         "whyCorrect": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Shortened chordae from rheumatic scarring affect the mitral valve, which has chordae; the aortic valve does not.",
+          "B": "Vegetations holding cusps open are the mechanism of endocarditis-related regurgitation, not of an ascending aortic dissection.",
+          "C": "Mitral annular dilation affects the mitral valve, not aortic cusp coaptation.",
+          "E": "Calcific stiffening and fusion cause aortic stenosis, obstructing forward flow, rather than acute regurgitation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-163_ca063_f02.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The rising limb reflects the Frank-Starling mechanism, where greater preload increases stroke volume. Past the peak, excessive end-diastolic volume overstretches sarcomeres beyond optimal filament overlap, so stroke volume falls and the heart decompensates.",
         "whyCorrect": "The rising limb reflects the Frank-Starling mechanism, where greater preload increases stroke volume. Past the peak, excessive end-diastolic volume overstretches sarcomeres beyond optimal filament overlap, so stroke volume falls and the heart decompensates.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Reduced afterload shifts the curve upward and increases stroke volume; it does not create a descending limb.",
+          "C": "Tachycardia shortens diastole and impairs filling; it is not what the descending portion of the curve represents.",
+          "D": "Preload reserve is exhausted beyond the peak; further filling no longer adds stroke volume.",
+          "E": "A catecholamine surge raises contractility and shifts the whole curve upward rather than producing a falling limb."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-216_ca021_f02.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "By the Law of Laplace, pressure overload raises wall stress and drives sarcomeres to be added in parallel, thickening the wall (concentric hypertrophy). Volume overload adds sarcomeres in series, dilating the chamber (eccentric hypertrophy).",
         "whyCorrect": "By the Law of Laplace, pressure overload raises wall stress and drives sarcomeres to be added in parallel, thickening the wall (concentric hypertrophy). Volume overload adds sarcomeres in series, dilating the chamber (eccentric hypertrophy).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Reduced afterload lowers ventricular wall stress and removes, rather than provides, the stimulus for hypertrophy.",
+          "C": "Decreased wall tension removes the stimulus for hypertrophy rather than driving it.",
+          "D": "An increased chamber radius describes eccentric dilation from volume overload, not the concentric pathway.",
+          "E": "Volume overload adds sarcomeres in series and dilates the chamber, producing eccentric rather than concentric hypertrophy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-217_ca021_f04.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Irregular, friable masses along the leaflet closure line are vegetations of infective endocarditis, composed of fibrin, platelets, and microorganisms, which can destroy leaflet tissue and cause acute regurgitation.",
         "whyCorrect": "Irregular, friable masses along the leaflet closure line are vegetations of infective endocarditis, composed of fibrin, platelets, and microorganisms, which can destroy leaflet tissue and cause acute regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myxomatous change makes leaflets thickened and floppy throughout, not friable masses on the closure edges.",
+          "C": "Mural thrombus forms on the ventricular or atrial wall, typically over infarcted or akinetic myocardium, not on leaflet edges.",
+          "D": "Lambl excrescences are tiny filiform strands on valve closure lines, not bulky friable masses.",
+          "E": "Annular calcification is a rigid ring of calcium at the valve base, not friable masses on the leaflet edges."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-145_ca032_f02.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Excess spongiosa (myxomatous) connective tissue thickens and enlarges the leaflets, weakening the chordae and widening the annulus, producing mitral valve prolapse and regurgitation.",
         "whyCorrect": "Excess spongiosa (myxomatous) connective tissue thickens and enlarges the leaflets, weakening the chordae and widening the annulus, producing mitral valve prolapse and regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A congenital cleft is a discrete slit in a leaflet, often with AV canal defects, not diffuse thickening and redundancy.",
+          "B": "Annular calcification produces a stiff ring at the valve base rather than thickened, floppy leaflets.",
+          "C": "Rheumatic fusion makes leaflets thick, rigid and fused at the commissures, causing stenosis rather than floppy redundancy.",
+          "D": "Papillary muscle rupture causes a flail leaflet after infarction, but the leaflets themselves are not thickened and redundant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-146_ca032_f03.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Mitral regurgitation results from incomplete leaflet coaptation during systole, so blood regurgitates from the left ventricle back into the left atrium, as shown by the jet in the right panel.",
         "whyCorrect": "Mitral regurgitation results from incomplete leaflet coaptation during systole, so blood regurgitates from the left ventricle back into the left atrium, as shown by the jet in the right panel.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A vegetation blocking diastolic opening would cause obstruction during filling, not a systolic regurgitant jet into the atrium.",
+          "C": "Chordal shortening restricts leaflet motion in rheumatic disease, but the diagram shows systolic backflow from failed coaptation.",
+          "D": "Leaflets that cannot open describe stenosis, obstructing forward flow in diastole rather than causing systolic regurgitation.",
+          "E": "A calcified, narrowed annulus causes stenosis of the orifice, not the systolic regurgitant jet shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-227_ca032_f01.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The chordae tendineae and papillary muscles keep the leaflets from flipping back into the left atrium during systole; loss of that competence allows systolic backflow, i.e. mitral regurgitation.",
         "whyCorrect": "The chordae tendineae and papillary muscles keep the leaflets from flipping back into the left atrium during systole; loss of that competence allows systolic backflow, i.e. mitral regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitral stenosis results from leaflet thickening and commissural fusion that limit opening, not from failure to hold leaflets closed.",
+          "B": "Aortic stenosis involves the semilunar aortic valve, which has no chordae or papillary muscles.",
+          "D": "Tricuspid atresia is a congenital absence of the right AV valve, not a failure of mitral support structures.",
+          "E": "Pulmonic regurgitation involves the semilunar pulmonary valve, which lacks chordae and papillary muscles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-014_ca043_f01.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Annuloplasty ring repair or prosthetic valve replacement restores leaflet coaptation and is the definitive treatment for symptomatic severe mitral regurgitation.",
         "whyCorrect": "Annuloplasty ring repair or prosthetic valve replacement restores leaflet coaptation and is the definitive treatment for symptomatic severe mitral regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An atrial septal defect is closed with a patch or occluder device, not a mitral annuloplasty ring or valve prosthesis.",
+          "B": "Idiopathic pulmonary hypertension is managed with vasodilator drugs and is not treated with mitral surgery.",
+          "D": "Tricuspid atresia is managed with staged palliative operations such as the Fontan, not mitral ring placement.",
+          "E": "Isolated aortic stenosis is treated with aortic valve replacement (surgical or transcatheter), not mitral annuloplasty."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-015_ca043_f08.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The chordae tendineae anchor the leaflets to the papillary muscles and hold the valve closed during systole. Loss of this tethering lets a leaflet flail into the left atrium, causing acute mitral regurgitation.",
         "whyCorrect": "The chordae tendineae anchor the leaflets to the papillary muscles and hold the valve closed during systole. Loss of this tethering lets a leaflet flail into the left atrium, causing acute mitral regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Tricuspid stenosis involves the right-sided valve and is usually rheumatic, not caused by chordal rupture.",
+          "C": "Aortic regurgitation involves the semilunar aortic valve, which has no chordae tendineae.",
+          "D": "Pulmonary congestion may follow acute MR, but isolated pulmonary hypertension is not the direct result of chordal rupture.",
+          "E": "Stenosis develops slowly from leaflet fusion; chordal rupture causes acute leaking, not obstruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-020_ca065_f01.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Placing a ring to remodel and reduce the annular circumference (annuloplasty) restores coaptation and is a mainstay of mitral valve repair, preserving the native leaflets rather than replacing the valve.",
         "whyCorrect": "Placing a ring to remodel and reduce the annular circumference (annuloplasty) restores coaptation and is a mainstay of mitral valve repair, preserving the native leaflets rather than replacing the valve.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Open commissurotomy splits fused commissures to relieve mitral stenosis, not to reduce a dilated annulus.",
+          "B": "Balloon valvuloplasty dilates a stenotic valve via catheter and does not place a ring around the annulus.",
+          "C": "The Ross procedure replaces the aortic valve with the patient's own pulmonary valve and is unrelated to mitral repair.",
+          "D": "Mechanical replacement removes the native leaflets, whereas this operation is valve-sparing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-021_ca065_f08.png",
@@ -887,7 +997,11 @@
       "explanation": {
         "summary": "A three-leaflet (anterior, septal, inferior/posterior) atrioventricular valve seated between the right atrium and right ventricle, adjacent to the AV node artery and right coronary artery, is the tricuspid valve. The mitral valve has only two leaflets, and the aortic and pulmonary valves are semilunar valves with three cusps but no chordae/leaflet arrangement.",
         "whyCorrect": "A three-leaflet (anterior, septal, inferior/posterior) atrioventricular valve seated between the right atrium and right ventricle, adjacent to the AV node artery and right coronary artery, is the tricuspid valve. The mitral valve has only two leaflets, and the aortic and pulmonary valves are semilunar valves with three cusps but no chordae/leaflet arrangement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The mitral valve is a left-sided atrioventricular valve with only two leaflets (anterior and posterior).",
+          "B": "The pulmonary valve is a semilunar valve at the RV outflow with three cusps and no chordae or leaflets of this type.",
+          "D": "The aortic valve is a left-sided semilunar valve with cusps named for the coronary ostia, not anterior, septal and inferior leaflets."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-022_ca066_f01.png",
@@ -922,7 +1036,11 @@
       "explanation": {
         "summary": "A bileaflet atrioventricular valve with a scalloped three-lobed posterior leaflet tethered by chordae tendineae to papillary muscles is the mitral valve, which separates the left atrium from the left ventricle. The tricuspid valve has three leaflets, and the aortic and pulmonary valves are semilunar valves lacking chordae and papillary muscles.",
         "whyCorrect": "A bileaflet atrioventricular valve with a scalloped three-lobed posterior leaflet tethered by chordae tendineae to papillary muscles is the mitral valve, which separates the left atrium from the left ventricle. The tricuspid valve has three leaflets, and the aortic and pulmonary valves are semilunar valves lacking chordae and papillary muscles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The aortic valve is a semilunar valve with three cusps and no chordae tendineae or papillary muscles.",
+          "B": "The tricuspid valve has three leaflets (anterior, septal and posterior), not two.",
+          "C": "The pulmonary valve is a three-cusp semilunar valve without chordae or papillary muscles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-023_ca066_f02.png",
@@ -961,7 +1079,12 @@
       "explanation": {
         "summary": "Myxomatous degeneration expands the spongiosa with proteoglycans, weakening the leaflet and chordae so the valve becomes floppy and bulges into the LA during systole (mitral valve prolapse).",
         "whyCorrect": "Myxomatous degeneration expands the spongiosa with proteoglycans, weakening the leaflet and chordae so the valve becomes floppy and bulges into the LA during systole (mitral valve prolapse).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcific aortic stenosis shows nodular calcium deposits in aortic cusps, not myxoid expansion of a mitral leaflet.",
+          "B": "Rheumatic stenosis shows fibrosis, neovascularization and commissural fusion of the leaflets rather than an expanded spongiosa.",
+          "D": "A bicuspid aortic valve is a congenital cusp-number anomaly of the aortic valve, not a degenerative mitral change.",
+          "E": "Libman-Sacks endocarditis in lupus shows small sterile vegetations on both sides of the leaflet, not spongiosa expansion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-041_ca043_f04.png",
@@ -1000,7 +1123,12 @@
       "explanation": {
         "summary": "Accumulation of proteoglycan-rich myxoid material expanding the spongiosa and disrupting the fibrosa weakens the leaflet, producing the redundant, floppy valve of myxomatous degeneration and mitral valve prolapse.",
         "whyCorrect": "Accumulation of proteoglycan-rich myxoid material expanding the spongiosa and disrupting the fibrosa weakens the leaflet, producing the redundant, floppy valve of myxomatous degeneration and mitral valve prolapse.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amyloid infiltration deposits amorphous pink material that stains with Congo red, not loose myxoid matrix.",
+          "B": "Libman-Sacks lesions are small verrucous vegetations on the leaflet surfaces, not expansion of the spongiosa.",
+          "D": "Calcific degeneration shows dense calcium nodules, mostly in the fibrosa, rather than loose myxoid matrix.",
+          "E": "Chronic rheumatic valvulitis shows fibrosis, neovascularization and commissural fusion rather than proteoglycan-rich expansion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-043_ca065_f04.png",
@@ -1039,7 +1167,12 @@
       "explanation": {
         "summary": "Rupture of the chordae tendineae or a papillary muscle lets a leaflet flail into the left atrium, producing sudden severe regurgitation into a non-compliant LA and flash pulmonary edema.",
         "whyCorrect": "Rupture of the chordae tendineae or a papillary muscle lets a leaflet flail into the left atrium, producing sudden severe regurgitation into a non-compliant LA and flash pulmonary edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic dissection is a tear in the aortic intima and is unrelated to mitral apparatus failure.",
+          "B": "The mitral apparatus is left-sided, so its failure causes mitral regurgitation, not tricuspid regurgitation.",
+          "D": "Constrictive pericarditis is a fibrotic pericardial process, not a result of chordal or papillary muscle rupture.",
+          "E": "Chordal or papillary rupture causes acute leaking, not the slowly developing obstruction of mitral stenosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-157_ca043_f02.png",
@@ -1078,7 +1211,12 @@
       "explanation": {
         "summary": "Friable vegetations composed of organisms, fibrin, and inflammatory cells on the leaflet margins are the hallmark of infective endocarditis, which can destroy leaflet tissue and cause acute MR.",
         "whyCorrect": "Friable vegetations composed of organisms, fibrin, and inflammatory cells on the leaflet margins are the hallmark of infective endocarditis, which can destroy leaflet tissue and cause acute MR.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Papillary fibroelastoma is a small, frond-like tumor on the valve surface, not bulky, friable marginal masses.",
+          "C": "Acute rheumatic valvulitis shows small warty vegetations along closure lines, not bulky friable masses.",
+          "D": "Myxomatous degeneration produces floppy, redundant, prolapsing leaflets without friable masses on their margins.",
+          "E": "Nonbacterial thrombotic endocarditis produces small, sterile, bland vegetations that do not destroy the leaflets."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-158_ca043_f05.png",
@@ -1117,7 +1255,12 @@
       "explanation": {
         "summary": "The posteromedial papillary muscle usually has a single blood supply (typically from the RCA-dependent posterior descending artery), so it is far more vulnerable to infarction and rupture than the dual-supplied anterolateral muscle.",
         "whyCorrect": "The posteromedial papillary muscle usually has a single blood supply (typically from the RCA-dependent posterior descending artery), so it is far more vulnerable to infarction and rupture than the dual-supplied anterolateral muscle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The left main supplies the LAD and circumflex territories, including the anterolateral muscle; it is not the solitary supply of the posteromedial muscle.",
+          "B": "Obtuse marginal branches of the circumflex supply the lateral wall and contribute to the dual supply of the anterolateral papillary muscle.",
+          "C": "The circumflex helps supply the anterolateral muscle and supplies the posteromedial muscle only in left-dominant hearts.",
+          "D": "The LAD, through its diagonal branches, contributes to the dually supplied anterolateral papillary muscle rather than the posteromedial one."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-164_ca065_f02.png",
@@ -1152,7 +1295,11 @@
       "explanation": {
         "summary": "The depicted anomaly is Ebstein anomaly, characterized by apical displacement of the tricuspid valve and an atrialized right ventricle. Maternal lithium exposure during pregnancy is the classic teratogenic association. Warfarin causes fetal warfarin syndrome, isotretinoin causes craniofacial/CNS defects, and valproate causes neural tube defects.",
         "whyCorrect": "The depicted anomaly is Ebstein anomaly, characterized by apical displacement of the tricuspid valve and an atrialized right ventricle. Maternal lithium exposure during pregnancy is the classic teratogenic association. Warfarin causes fetal warfarin syndrome, isotretinoin causes craniofacial/CNS defects, and valproate causes neural tube defects.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Isotretinoin is a retinoid teratogen causing craniofacial, CNS and conotruncal heart defects, not the apically displaced tricuspid valve of Ebstein anomaly.",
+          "C": "Valproate is classically linked to neural tube defects such as spina bifida, not Ebstein anomaly.",
+          "D": "Warfarin causes fetal warfarin syndrome with nasal hypoplasia and stippled epiphyses, not tricuspid valve displacement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-165_ca066_f03.png",
@@ -1191,7 +1338,12 @@
       "explanation": {
         "summary": "Ventricular dilation displaces the papillary muscles outward and downward, tethering the leaflets so they cannot coapt; this functional/ischemic MR occurs with structurally normal leaflets.",
         "whyCorrect": "Ventricular dilation displaces the papillary muscles outward and downward, tethering the leaflets so they cannot coapt; this functional/ischemic MR occurs with structurally normal leaflets.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ruptured chordae produce a flail leaflet that swings into the atrium, the opposite of the restricted, tethered leaflet closure shown.",
+          "C": "Myxomatous degeneration makes leaflets redundant and prolapsing, a primary leaflet problem rather than tethering by displaced papillary muscles.",
+          "D": "Endocarditis causes regurgitation by destroying or perforating leaflets with vegetations, not by papillary muscle displacement.",
+          "E": "Rheumatic disease thickens and fuses leaflets and chordae, a primary valve lesion, whereas here the leaflets are structurally normal but tethered."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-240_ca043_f03.png",
@@ -1230,7 +1382,12 @@
       "explanation": {
         "summary": "Standing decreases preload and LV chamber size, so the redundant leaflet reaches its prolapse point earlier in systole, moving the click and murmur earlier. Squatting raises preload and delays them.",
         "whyCorrect": "Standing decreases preload and LV chamber size, so the redundant leaflet reaches its prolapse point earlier in systole, moving the click and murmur earlier. Squatting raises preload and delays them.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Standing does not raise afterload in a way that delays closure; increased afterload, as with handgrip, actually moves the click later.",
+          "B": "Standing reduces venous return through pooling in the legs; increased venous return, as with squatting, would delay the click.",
+          "C": "Standing tends to raise heart rate through the baroreflex, not cause bradycardia, and the click timing reflects LV volume.",
+          "D": "Contractility is not the main driver; standing moves the click earlier because the ventricle is smaller from reduced preload."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-261_ca065_f07.png",
@@ -1269,7 +1426,12 @@
       "explanation": {
         "summary": "In mitral stenosis the narrowed valve obstructs blood flow from the left atrium into the left ventricle during diastole, so left atrial pressure must remain elevated above LV pressure to drive filling. This transmitral gradient (LA > LV) is the hallmark of the lesion and is transmitted backward to raise pulmonary pressures, while LV volume stays normal or low.",
         "whyCorrect": "In mitral stenosis the narrowed valve obstructs blood flow from the left atrium into the left ventricle during diastole, so left atrial pressure must remain elevated above LV pressure to drive filling. This transmitral gradient (LA > LV) is the hallmark of the lesion and is transmitted backward to raise pulmonary pressures, while LV volume stays normal or low.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Failure to generate systolic pressure is systolic dysfunction, whereas the tracing shows an LA-to-LV gradient during diastole.",
+          "B": "Atrial fibrillation abolishes the a wave but does not by itself create a persistent diastolic LA-LV pressure gradient.",
+          "C": "Outflow obstruction creates a systolic LV-to-aortic gradient, not a diastolic atrial-to-ventricular one.",
+          "D": "Regurgitation through an incompetent valve occurs in systole and produces large v waves, not a sustained diastolic gradient."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-256_ca054_f01.png",
@@ -1304,7 +1466,11 @@
       "explanation": {
         "summary": "The mitral (bicuspid) valve has two leaflets, an anterior and a posterior leaflet, anchored by chordae tendineae to the papillary muscles. This distinguishes it from the tricuspid, aortic, and pulmonic valves, which each have three cusps.",
         "whyCorrect": "The mitral (bicuspid) valve has two leaflets, an anterior and a posterior leaflet, anchored by chordae tendineae to the papillary muscles. This distinguishes it from the tricuspid, aortic, and pulmonic valves, which each have three cusps.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "No normal cardiac valve has a single leaflet; a unicuspid valve is a rare congenital aortic anomaly.",
+          "B": "Three leaflets or cusps belong to the tricuspid, aortic and pulmonary valves, not the valve between left atrium and ventricle.",
+          "D": "No normal cardiac valve has four leaflets; a quadricuspid valve is a rare congenital variant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-019_ca064_f02.png",
@@ -1343,7 +1509,12 @@
       "explanation": {
         "summary": "The mitral valve opens during diastole to permit blood to flow from the left atrium into the left ventricle, and closes during systole to prevent backflow. The chordae tendineae and papillary muscles tether the leaflets to prevent prolapse.",
         "whyCorrect": "The mitral valve opens during diastole to permit blood to flow from the left atrium into the left ventricle, and closes during systole to prevent backflow. The chordae tendineae and papillary muscles tether the leaflets to prevent prolapse.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "During systolic ejection the mitral valve is closed to prevent regurgitation into the left atrium while the aortic valve is open.",
+          "B": "A continuously open mitral valve would mean severe regurgitation; it closes during every systole.",
+          "C": "During isovolumetric relaxation all four valves are closed; the mitral valve opens only when LV pressure falls below LA pressure.",
+          "E": "Isovolumetric contraction begins with mitral closure (S1), and all valves remain closed during this phase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-024_ca067_f02.png",
@@ -1382,7 +1553,12 @@
       "explanation": {
         "summary": "Percutaneous mitral balloon commissurotomy advances a catheter via a transseptal puncture to the mitral valve, where balloon inflation splits the fused commissures and enlarges the stenotic orifice.",
         "whyCorrect": "Percutaneous mitral balloon commissurotomy advances a catheter via a transseptal puncture to the mitral valve, where balloon inflation splits the fused commissures and enlarges the stenotic orifice.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Replacing leaflets with a prosthesis is surgical or transcatheter valve replacement, not balloon commissurotomy.",
+          "B": "The balloon does not remove calcium; heavy calcification actually makes balloon commissurotomy less effective.",
+          "C": "Ablating atrial pathways treats arrhythmias such as atrial fibrillation, not the mechanical obstruction of mitral stenosis.",
+          "D": "Reducing a dilated annulus is the goal of annuloplasty for regurgitation, whereas the balloon widens a narrowed orifice."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-262_ca067_f06.png",

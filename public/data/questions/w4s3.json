@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "First-degree AV block is defined by a fixed PR interval greater than 0.2 s with every atrial impulse conducted to the ventricles; no beats are dropped, so it is purely an ECG finding and usually asymptomatic.",
         "whyCorrect": "First-degree AV block is defined by a fixed PR interval greater than 0.2 s with every atrial impulse conducted to the ventricles; no beats are dropped, so it is purely an ECG finding and usually asymptomatic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wenckebach shows progressive PR lengthening until a beat is dropped, rather than a uniformly prolonged PR with every P conducted.",
+          "B": "Complete heart block shows P waves and QRS complexes dissociated at independent rates, not a fixed long PR before every QRS.",
+          "C": "Normal sinus rhythm has a PR interval of 120-200 ms; a PR consistently over 200 ms is abnormal.",
+          "E": "Right bundle branch block widens the QRS with an RSR' pattern in V1 and does not prolong the PR interval."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-098_ca050_f04.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Wenckebach (Mobitz I) shows progressive PR prolongation of consecutively conducted beats until one P wave fails to conduct and a QRS is dropped; the block is typically within the AV node and usually benign.",
         "whyCorrect": "Wenckebach (Mobitz I) shows progressive PR prolongation of consecutively conducted beats until one P wave fails to conduct and a QRS is dropped; the block is typically within the AV node and usually benign.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "First-degree block has a fixed prolonged PR with no dropped beats, unlike the progressive lengthening and dropped QRS seen here.",
+          "B": "Complete heart block shows no relationship between P waves and QRS complexes, rather than a repeating cycle of conducted beats.",
+          "C": "Mobitz II drops a QRS suddenly with a constant PR interval in the conducted beats, without progressive prolongation.",
+          "E": "Right bundle branch block is a QRS morphology change and does not cause dropped beats or PR changes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-099_ca050_f05.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Mobitz type II shows a fixed PR interval in conducted beats followed by an abrupt non-conducted P wave. The block is usually below the AV node (His-Purkinje), is intrinsic/chronic, and frequently progresses to complete heart block, so it warrants a pacemaker.",
         "whyCorrect": "Mobitz type II shows a fixed PR interval in conducted beats followed by an abrupt non-conducted P wave. The block is usually below the AV node (His-Purkinje), is intrinsic/chronic, and frequently progresses to complete heart block, so it warrants a pacemaker.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wenckebach is preceded by progressive PR lengthening before the dropped beat, which is absent here.",
+          "B": "Complete heart block has no conducted beats and no fixed PR relationship, whereas here most P waves conduct with a constant PR.",
+          "C": "First-degree block conducts every P wave with a long PR; no QRS complexes are dropped.",
+          "E": "Sinus arrhythmia varies the P-P interval with respiration, and every P wave is still followed by a QRS."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-100_ca050_f06.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "In complete heart block there is no conduction between atria and ventricles; P waves and QRS complexes are dissociated, each with its own rate (P faster than QRS), and a slow escape pacemaker drives the ventricles.",
         "whyCorrect": "In complete heart block there is no conduction between atria and ventricles; P waves and QRS complexes are dissociated, each with its own rate (P faster than QRS), and a slow escape pacemaker drives the ventricles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mobitz II conducts most P waves with a constant PR and drops occasional beats; here no P waves relate to the QRS complexes.",
+          "B": "Sinus arrhythmia keeps a P wave before every QRS, with rate varying gradually during respiration.",
+          "D": "Wenckebach shows a repeating pattern of progressive PR lengthening, implying conduction that is absent in this dissociated rhythm.",
+          "E": "First-degree block conducts every P wave with a fixed long PR, unlike the independent P and QRS rates shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-101_ca050_f07.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "This is a fixed 2:1 AV block with a symptomatic, dangerously slow ventricular rate and no reversible cause (no drugs, electrolyte disturbance, or acute MI). A symptomatic, irreversible high-grade block is an indication for permanent pacing.",
         "whyCorrect": "This is a fixed 2:1 AV block with a symptomatic, dangerously slow ventricular rate and no reversible cause (no drugs, electrolyte disturbance, or acute MI). A symptomatic, irreversible high-grade block is an indication for permanent pacing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Imaging the brain and inner ear pursues a neurologic or vestibular cause, yet his dizziness is explained by a dangerously slow ventricular rate from AV block.",
+          "B": "Beta-blockers further slow AV conduction and heart rate and would worsen symptomatic bradycardia.",
+          "C": "Atropine may transiently raise the rate, especially in nodal block, but it is a temporizing bridge, not definitive therapy for irreversible high-grade block.",
+          "E": "Observation is unsafe in symptomatic high-grade AV block with no reversible cause, given the risk of syncope and progression to complete block."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-102_ca050_f08.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The AV node/junction is the sole normal electrical bridge between atria and ventricles. Complete failure produces AV dissociation, forcing a slow (20-40 bpm) ventricular escape pacemaker to take over, i.e. third-degree (complete) heart block.",
         "whyCorrect": "The AV node/junction is the sole normal electrical bridge between atria and ventricles. Complete failure produces AV dissociation, forcing a slow (20-40 bpm) ventricular escape pacemaker to take over, i.e. third-degree (complete) heart block.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "First-degree AV block is merely delayed conduction with every impulse still reaching the ventricles, not complete failure of the AV junction.",
+          "B": "Atrial fibrillation is a disorder of atrial activation, not the result of failure of the AV junction.",
+          "C": "Sinus tachycardia reflects faster SA node firing and does not result from loss of AV conduction.",
+          "D": "Normal sinus rhythm requires intact AV conduction; complete AV failure dissociates atria from ventricles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-251_ca050_f01.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A pulse generator with pacing/sensing leads plus dedicated shock coils able to detect and terminate ventricular tachyarrhythmias represents an implantable cardioverter-defibrillator, which combines pacing capability with high-energy defibrillation.",
         "whyCorrect": "A pulse generator with pacing/sensing leads plus dedicated shock coils able to detect and terminate ventricular tachyarrhythmias represents an implantable cardioverter-defibrillator, which combines pacing capability with high-energy defibrillation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A single-chamber pacemaker has one pacing lead without shock coils and cannot deliver defibrillation.",
+          "B": "An LVAD is a mechanical pump connecting the LV apex to the aorta, not a pulse generator with transvenous leads.",
+          "C": "An implantable loop recorder is a small leadless subcutaneous monitor that records rhythm but delivers no therapy.",
+          "D": "A biventricular pacemaker adds a coronary sinus lead to pace the LV but lacks shock coils unless it is a CRT-defibrillator."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-017_ca051_f06.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "When every other beat is a premature ventricular contraction (a normal beat coupled to one PVC in a 1:1 repeating sequence), the pattern is termed ventricular bigeminy. Trigeminy would be every third beat, and a couplet is two consecutive PVCs.",
         "whyCorrect": "When every other beat is a premature ventricular contraction (a normal beat coupled to one PVC in a 1:1 repeating sequence), the pattern is termed ventricular bigeminy. Trigeminy would be every third beat, and a couplet is two consecutive PVCs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A ventricular couplet is two consecutive PVCs, not a single PVC alternating with each sinus beat.",
+          "B": "Atrial bigeminy alternates sinus beats with premature atrial beats that have an early P wave and a narrow QRS, not wide ventricular complexes.",
+          "D": "Trigeminy places a PVC after every two sinus beats, rather than alternating one-to-one.",
+          "E": "Ventricular tachycardia is three or more consecutive ventricular beats at a rapid rate, not alternating sinus and ventricular beats."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-103_ca051_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The abrupt in-strip termination of a life-threatening ventricular arrhythmia by an internally delivered shock is the signature of an implantable cardioverter-defibrillator sensing and treating the rhythm automatically.",
         "whyCorrect": "The abrupt in-strip termination of a life-threatening ventricular arrhythmia by an internally delivered shock is the signature of an implantable cardioverter-defibrillator sensing and treating the rhythm automatically.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An LVAD is a mechanical circulatory pump that cannot sense arrhythmias or deliver an electrical shock.",
+          "B": "A demand pacemaker delivers low-energy pacing pulses for bradycardia and cannot terminate ventricular fibrillation or polymorphic VT.",
+          "D": "A CRT pacemaker synchronizes ventricular contraction for heart failure but delivers no high-energy shocks unless it includes a defibrillator.",
+          "E": "Transcutaneous pacing delivers external pacing for bradycardia, not automatic internal termination of a ventricular arrhythmia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-104_ca051_f03.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "A fast, regular series of wide QRS complexes that all share the same shape (monomorphic) with AV dissociation indicates monomorphic ventricular tachycardia, distinct from the varying complexes of polymorphic VT and the chaotic disorganization of VF.",
         "whyCorrect": "A fast, regular series of wide QRS complexes that all share the same shape (monomorphic) with AV dissociation indicates monomorphic ventricular tachycardia, distinct from the varying complexes of polymorphic VT and the chaotic disorganization of VF.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "SVT with aberrancy can be wide and regular, but AV dissociation with unrelated P waves points to a ventricular origin.",
+          "B": "Torsades is polymorphic, with QRS complexes twisting in amplitude around the baseline, rather than uniform complexes.",
+          "C": "Atrial fibrillation is irregularly irregular, usually with narrow QRS complexes, unlike this regular wide-complex rhythm.",
+          "E": "Ventricular fibrillation is chaotic without identifiable QRS complexes, not a regular series of uniform complexes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-105_ca051_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The absence of any organized QRS complexes, replaced by disorganized fibrillatory waves reflecting uncoordinated quivering of the ventricular myocardium with no effective cardiac output, is diagnostic of ventricular fibrillation.",
         "whyCorrect": "The absence of any organized QRS complexes, replaced by disorganized fibrillatory waves reflecting uncoordinated quivering of the ventricular myocardium with no effective cardiac output, is diagnostic of ventricular fibrillation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Torsades has identifiable wide QRS complexes that twist rhythmically around the baseline, unlike this disorganized activity.",
+          "B": "Asystole is a flat line with no electrical activity, not continuous chaotic oscillations.",
+          "C": "Ventricular tachycardia shows organized, recognizable wide QRS complexes at a rapid rate.",
+          "E": "Atrial fibrillation retains discernible, irregularly spaced QRS complexes with a fibrillatory baseline between them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-106_ca051_f05.png",

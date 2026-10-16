@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Narrowing of the vessel lumen (vasoconstriction) raises the resistance to blood flow through the systemic vessels, increasing systemic vascular resistance (SVR). Because blood pressure is the product of cardiac output and SVR, a rise in SVR increases blood pressure. The dilated segment on the right does the opposite, lowering SVR and blood pressure.",
         "whyCorrect": "Narrowing of the vessel lumen (vasoconstriction) raises the resistance to blood flow through the systemic vessels, increasing systemic vascular resistance (SVR). Because blood pressure is the product of cardiac output and SVR, a rise in SVR increases blood pressure. The dilated segment on the right does the opposite, lowering SVR and blood pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Narrowing the lumen raises resistance rather than lowering it, and blood pressure rises with resistance.",
+          "B": "Increased SVR raises blood pressure (MAP = CO × SVR) if cardiac output is maintained, rather than lowering it.",
+          "D": "Decreased SVR and blood pressure follow the dilated segment on the right, not the constricted segment on the left.",
+          "E": "Resistance rises steeply with narrowing (inversely with radius to the fourth power), so both SVR and pressure change."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-191_ca009_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The hormone shown branching to vasoconstriction, aldosterone secretion, ADH release, and renal sodium/water reabsorption is angiotensin II, the central effector of the renin-angiotensin-aldosterone system. Its combined actions raise both systemic vascular resistance and blood volume, thereby increasing blood pressure. The natriuretic peptides and baroreceptor reflex oppose or acutely buffer pressure rather than producing this coordinated pressor response.",
         "whyCorrect": "The hormone shown branching to vasoconstriction, aldosterone secretion, ADH release, and renal sodium/water reabsorption is angiotensin II, the central effector of the renin-angiotensin-aldosterone system. Its combined actions raise both systemic vascular resistance and blood volume, thereby increasing blood pressure. The natriuretic peptides and baroreceptor reflex oppose or acutely buffer pressure rather than producing this coordinated pressor response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The baroreceptor reflex adjusts autonomic tone within seconds through the medulla and does not itself trigger aldosterone or ADH release via a single hormone.",
+          "B": "The kallikrein-kinin system produces bradykinin, a vasodilator that lowers blood pressure rather than raising it.",
+          "C": "Natriuretic peptides promote natriuresis and vasodilation and inhibit renin and aldosterone, opposing this pressor response.",
+          "E": "The sympathetic system acts through nerves and catecholamines, not through one hormone triggering aldosterone and ADH secretion; it activates RAAS by stimulating renin release."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-192_ca009_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "As mean arterial pressure increases from low to high (top to bottom rows), the green firing markers become progressively denser, showing that greater arterial stretch drives a higher baroreceptor firing rate on a beat-to-beat basis. This graded, pressure-dependent firing is what allows the reflex to sense both increases and decreases in blood pressure.",
         "whyCorrect": "As mean arterial pressure increases from low to high (top to bottom rows), the green firing markers become progressively denser, showing that greater arterial stretch drives a higher baroreceptor firing rate on a beat-to-beat basis. This graded, pressure-dependent firing is what allows the reflex to sense both increases and decreases in blood pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The firing markers become denser as pressure rises, so baroreceptor firing is pressure-dependent, not constant.",
+          "B": "Greater arterial stretch increases baroreceptor firing; firing falls only when pressure falls.",
+          "D": "Baroreceptor discharge clusters during the systolic upstroke when stretch is greatest, not only in diastole.",
+          "E": "Baroreceptors fire across the physiologic range, from roughly 50 to 180 mm Hg, not only above 200 mm Hg."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-195_ca011_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "When blood pressure falls, arterial stretch and carotid sinus nerve firing decrease. Because this afferent signal normally restrains the medullary sympathetic centers, its reduction disinhibits sympathetic outflow while lowering parasympathetic activity, raising heart rate, contractility, and vascular resistance to restore blood pressure toward normal.",
         "whyCorrect": "When blood pressure falls, arterial stretch and carotid sinus nerve firing decrease. Because this afferent signal normally restrains the medullary sympathetic centers, its reduction disinhibits sympathetic outflow while lowering parasympathetic activity, raising heart rate, contractility, and vascular resistance to restore blood pressure toward normal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Baroreceptor afferents synapse in the nucleus tractus solitarius of the medulla, not on peripheral sympathetic ganglia.",
+          "B": "Reduced afferent firing decreases vagal acetylcholine release on the SA node, allowing heart rate to rise.",
+          "C": "Angiotensin II rises more slowly via renin; the immediate reflex sympathetic increase comes from medullary disinhibition, not circulating hormones.",
+          "E": "When blood pressure falls, parasympathetic tone decreases, not increases, so heart rate can rise."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-196_ca011_f03.png",
@@ -162,34 +182,39 @@
       "id": "capic-197",
       "topicId": "humoral-regulation-of-blood-pressure",
       "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "This schematic shows the synthesis of a vasodilating peptide from its precursor during inflammation. From which cells is this peptide primarily released?",
+      "stem": "This schematic shows the synthesis of a vasodilating peptide from its precursor during inflammation. Which enzyme normally inactivates this peptide, explaining a characteristic adverse effect of a common antihypertensive drug class?",
       "choices": [
         {
           "label": "A",
-          "text": "Mast cells and basophils"
+          "text": "Angiotensin-converting enzyme (kininase II)"
         },
         {
           "label": "B",
-          "text": "Renal collecting-duct principal cells"
+          "text": "Renin"
         },
         {
           "label": "C",
-          "text": "Vascular endothelial cells"
+          "text": "Monoamine oxidase"
         },
         {
           "label": "D",
-          "text": "Posterior pituitary neurons"
+          "text": "Cyclooxygenase-1"
         },
         {
           "label": "E",
-          "text": "Atrial cardiomyocytes"
+          "text": "Phospholipase A2"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The diagram depicts bradykinin synthesis: kallikrein cleaves kininogen to yield bradykinin, causing vasodilatation. Like histamine, bradykinin is released mainly by mast cells and basophils during inflammation. Endothelial cells release NO and endothelin, atrial cardiomyocytes release ANP, and the posterior pituitary releases ADH.",
-        "whyCorrect": "The diagram depicts bradykinin synthesis: kallikrein cleaves kininogen to yield bradykinin, causing vasodilatation. Like histamine, bradykinin is released mainly by mast cells and basophils during inflammation. Endothelial cells release NO and endothelin, atrial cardiomyocytes release ANP, and the posterior pituitary releases ADH.",
-        "whyWrongByChoice": {}
+        "summary": "The diagram depicts bradykinin generation: kallikrein cleaves kininogen to yield bradykinin, a potent vasodilator. Bradykinin is inactivated by angiotensin-converting enzyme (also called kininase II), so ACE inhibitors raise bradykinin levels, causing dry cough and, rarely, angioedema.",
+        "whyCorrect": "The diagram depicts bradykinin generation: kallikrein cleaves kininogen to yield bradykinin, a potent vasodilator. Bradykinin is inactivated by angiotensin-converting enzyme (also called kininase II), so ACE inhibitors raise bradykinin levels, causing dry cough and, rarely, angioedema.",
+        "whyWrongByChoice": {
+          "B": "Renin cleaves angiotensinogen to angiotensin I; it does not degrade bradykinin.",
+          "C": "Monoamine oxidase degrades catecholamines and serotonin, not peptide kinins.",
+          "D": "Cyclooxygenase-1 makes prostaglandins and thromboxane from arachidonic acid; bradykinin can stimulate prostaglandin synthesis but is not broken down by COX.",
+          "E": "Phospholipase A2 releases arachidonic acid from membrane phospholipids; it does not inactivate bradykinin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-197_ca012_f02.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The internal and external elastic membranes and abundant elastin allow large arteries to stretch as blood is ejected in systole and recoil in diastole, sustaining pressure between beats; collagen provides tensile strength and smooth muscle adjusts tone, but elastic tissue drives the reversible expansion.",
         "whyCorrect": "The internal and external elastic membranes and abundant elastin allow large arteries to stretch as blood is ejected in systole and recoil in diastole, sustaining pressure between beats; collagen provides tensile strength and smooth muscle adjusts tone, but elastic tissue drives the reversible expansion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The adventitia anchors the vessel and contains vasa vasorum and nerves, but it is not responsible for elastic expansion and recoil.",
+          "B": "The endothelium lines the lumen and regulates tone and clotting, but a single cell layer cannot provide elastic recoil.",
+          "C": "Collagen gives tensile strength and limits overdistension; it resists stretch and does not provide reversible elastic recoil.",
+          "D": "Arteries do not contain valves; valves occur in veins and the heart, preventing backflow."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-032_ca013_f08.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Arteries are exposed to high pressures and large radii, so by the law of Laplace they experience high wall tension and require thick walls rich in elastin and collagen; veins operate at low pressure and thus have thin, less muscular walls, giving the collapsed, thin-walled appearance seen here.",
         "whyCorrect": "Arteries are exposed to high pressures and large radii, so by the law of Laplace they experience high wall tension and require thick walls rich in elastin and collagen; veins operate at low pressure and thus have thin, less muscular walls, giving the collapsed, thin-walled appearance seen here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Veins hold more blood volume than arteries (about two-thirds of total), so volume does not explain the thicker arterial wall.",
+          "C": "Arterial and venous blood have nearly identical viscosity, and blood does not erode vessel walls.",
+          "D": "Valves are intimal folds in some veins; they do not thin the venous wall, which is thin because venous pressure is low.",
+          "E": "By Laplace's law, a smaller radius reduces wall tension; the arterial wall is thick because of the high pressure it must withstand."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-033_ca013_f11.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The sphygmomanometer cuff is inflated above systolic pressure to occlude the brachial artery; as it deflates, turbulent flow through the partially compressed artery produces Korotkoff sounds. The first sound marks systolic pressure and their disappearance marks diastolic pressure.",
         "whyCorrect": "The sphygmomanometer cuff is inflated above systolic pressure to occlude the brachial artery; as it deflates, turbulent flow through the partially compressed artery produces Korotkoff sounds. The first sound marks systolic pressure and their disappearance marks diastolic pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic valve closure produces S2 heard over the precordium, not sounds at the antecubital fossa that track cuff pressure.",
+          "B": "A pericardial friction rub arises from inflamed pericardial layers over the heart and is unrelated to a cuff on the arm.",
+          "D": "A venous hum is a continuous sound heard over the neck veins, not the basis of arm blood pressure measurement.",
+          "E": "Laminar flow is silent; it is turbulent flow through a partly compressed artery that creates the audible sounds used for measurement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-057_ca013_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The incisura (dicrotic notch) on the arterial waveform reflects aortic valve closure at the end of systole, briefly interrupting the pressure decline and separating systolic from diastolic phases; the following dicrotic wave results from brief backward flow against the closed valve.",
         "whyCorrect": "The incisura (dicrotic notch) on the arterial waveform reflects aortic valve closure at the end of systole, briefly interrupting the pressure decline and separating systolic from diastolic phases; the following dicrotic wave results from brief backward flow against the closed valve.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The a wave is a feature of atrial or venous (JVP) pressure tracings and occurs before ventricular ejection, not on the descending aortic limb.",
+          "C": "Isovolumetric contraction occurs before the aortic valve opens, preceding the upstroke rather than following the peak.",
+          "D": "Reflected waves alter the shape of the arterial pulse, but the classic notch just after peak is the incisura from aortic valve closure.",
+          "E": "Mitral valve opening occurs at the end of isovolumetric relaxation and is not recorded as a notch on the aortic pressure waveform."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-198_ca013_f02.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In the upright position gravity pulls blood toward the feet, adding a hydrostatic pressure column so both arterial and venous pressures in the dependent legs increase; the driving gradient between arteries and veins nonetheless stays roughly constant at 85-95 mmHg.",
         "whyCorrect": "In the upright position gravity pulls blood toward the feet, adding a hydrostatic pressure column so both arterial and venous pressures in the dependent legs increase; the driving gradient between arteries and veins nonetheless stays roughly constant at 85-95 mmHg.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The rise appears in both arterial and venous pressures in dependent regions, reflecting a gravitational column, not increased stroke volume.",
+          "C": "Arterial compliance does not fall to zero on standing; the pressure increase is hydrostatic.",
+          "D": "Venous valves are passive one-way flaps that break up the hydrostatic column during walking; they do not generate pressure.",
+          "E": "Sympathetic vasoconstriction maintains pressure on standing, but it cannot explain parallel rises in both arterial and venous pressure in the legs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-199_ca013_f03.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Compliance is volume change divided by pressure change. Panel A shows zero compliance (stiff, noncompliant), panel B shows infinite compliance (large volume change, no pressure change), and panel C shows finite compliance typical of most real vessels where both pressure and volume increase.",
         "whyCorrect": "Compliance is volume change divided by pressure change. Panel A shows zero compliance (stiff, noncompliant), panel B shows infinite compliance (large volume change, no pressure change), and panel C shows finite compliance typical of most real vessels where both pressure and volume increase.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Elastance is the inverse of compliance, so it is infinite in the stiff vessel of panel A and zero in panel B, not infinite in panel B.",
+          "B": "All three vessels are tested in the same position with the same added fluid, so gravity does not differ between panels.",
+          "C": "Wall tension relates pressure and radius by Laplace's law, but the panels compare volume change versus pressure change.",
+          "D": "Resistance describes pressure drop per unit steady flow, not the static relationship between added volume and pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-200_ca013_f04.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "At low pressures the floppy vena cava is highly compliant and rounds out as it fills; once fully distended its elastic fibers are maximally stretched, so additional volume produces large pressure rises and compliance falls, giving the plateau. The aorta, with thicker muscular walls, is far less compliant throughout.",
         "whyCorrect": "At low pressures the floppy vena cava is highly compliant and rounds out as it fills; once fully distended its elastic fibers are maximally stretched, so additional volume produces large pressure rises and compliance falls, giving the plateau. The aorta, with thicker muscular walls, is far less compliant throughout.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Venous rupture would cause a sudden drop in pressure rather than a progressive stiffening curve.",
+          "C": "The plateau reflects passive stretching of wall elements; active smooth muscle contraction is not what limits filling in this preparation.",
+          "D": "The pressure-volume curve is measured in an isolated vessel, so gravity is not a factor.",
+          "E": "The aorta and vena cava are separated by the capillary beds, and aortic recoil cannot transmit pressure back to the vena cava."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-201_ca013_f05.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "During systole the aorta stretches to accommodate the stroke volume; when the aortic valve closes in diastole, the elastic aorta recoils inward, maintaining the ~80 mmHg diastolic pressure and driving blood onward to the systemic circulation even though the ventricle is not ejecting.",
         "whyCorrect": "During systole the aorta stretches to accommodate the stroke volume; when the aortic valve closes in diastole, the elastic aorta recoils inward, maintaining the ~80 mmHg diastolic pressure and driving blood onward to the systemic circulation even though the ventricle is not ejecting.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The left ventricle relaxes and fills during diastole; it does not contract and eject.",
+          "C": "Aortic smooth muscle sets tone but does not contract rhythmically to propel blood; diastolic flow comes from passive elastic recoil.",
+          "D": "The skeletal muscle pump assists venous return from limb veins and does not compress the aorta.",
+          "E": "Closure of the aortic valve does not generate suction; it prevents backflow while elastic recoil drives flow forward."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-202_ca013_f09.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Discontinuous (sinusoidal) capillaries have large gaps in their wall, making them highly permeable; they are found where large substances and cells must cross, such as liver, spleen, and bone marrow.",
         "whyCorrect": "Discontinuous (sinusoidal) capillaries have large gaps in their wall, making them highly permeable; they are found where large substances and cells must cross, such as liver, spleen, and bone marrow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blood-brain barrier capillaries have tight junctions and are the least permeable, the opposite of liver sinusoids.",
+          "C": "Fenestrated capillaries have small pores suited for fluid and small solute exchange (kidney, gut, endocrine glands) but generally restrict cells and large proteins.",
+          "D": "Lymphatic capillaries drain interstitial fluid back to the circulation and are not the blood capillaries of liver and marrow.",
+          "E": "Continuous capillaries have an uninterrupted endothelium and are the least leaky type, found in muscle, skin and lung."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-034_ca014_f05.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome.",
         "whyCorrect": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pretibial myxedema of Graves disease causes non-pitting, waxy thickening of the shins from glycosaminoglycan deposition.",
+          "C": "Cellulitis causes warm, red, tender, usually unilateral skin, and an abscess is a fluctuant collection, not bilateral pitting.",
+          "D": "Lymphedema is protein-rich and becomes fibrotic and non-pitting, so it does not leave a persistent indentation.",
+          "E": "Venous stasis hyperpigmentation is brown hemosiderin staining of the skin and does not describe the pressure-induced pit."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-124_ca014_f07.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The blind-ended lymphatic capillary collects the small excess of filtered fluid and proteins not reabsorbed at the venular end, returning them to the venous circulation and preventing interstitial fluid accumulation (edema).",
         "whyCorrect": "The blind-ended lymphatic capillary collects the small excess of filtered fluid and proteins not reabsorbed at the venular end, returning them to the venous circulation and preventing interstitial fluid accumulation (edema).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Capillary hydrostatic pressure is generated by the heart and arterioles, not by the lymphatic vessel draining the interstitium.",
+          "B": "Lymphatics carry interstitial fluid, not oxygenated blood, which is delivered by arterioles and capillaries.",
+          "C": "Lymphatics remove plasma proteins that leaked into the interstitium; they do not secrete proteins.",
+          "E": "Alveolar gas exchange occurs across pulmonary capillaries, not blind-ended lymphatic vessels in tissue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-203_ca014_f01.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Extracellular fluid comprises plasma (intravascular) and interstitial fluid; these are separated by the capillary wall. The cell membrane instead separates extracellular from intracellular fluid.",
         "whyCorrect": "Extracellular fluid comprises plasma (intravascular) and interstitial fluid; these are separated by the capillary wall. The cell membrane instead separates extracellular from intracellular fluid.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The blood-brain barrier is a specialized capillary wall in the brain only, not the general boundary between plasma and interstitial fluid.",
+          "C": "Lymphatic endothelium carries interstitial fluid back to the blood but is not the main barrier between plasma and interstitial fluid.",
+          "D": "The cell membrane separates extracellular fluid from intracellular fluid, not the two extracellular compartments from each other.",
+          "E": "The glomerular basement membrane is a renal filtration barrier between blood and Bowman's space, not the general ECF divider."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-204_ca014_f02.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "At the arteriolar end, high capillary hydrostatic pressure outweighs the relatively constant oncotic pressure, driving fluid out (filtration); pressure falls toward the venular end, where reabsorption dominates.",
         "whyCorrect": "At the arteriolar end, high capillary hydrostatic pressure outweighs the relatively constant oncotic pressure, driving fluid out (filtration); pressure falls toward the venular end, where reabsorption dominates.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Capillary oncotic pressure stays relatively constant along the capillary, and if anything opposes filtration rather than favoring it.",
+          "B": "Lymphatics drain interstitial fluid overall; they do not determine where along the capillary filtration predominates.",
+          "C": "Interstitial hydrostatic pressure is near zero or slightly negative and would oppose filtration if strongly positive.",
+          "E": "The capillary wall is permeable to water along its length, which is how filtration occurs at the arteriolar end."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-205_ca014_f03.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Because hydrostatic pressure falls below the roughly constant oncotic pressure toward the venular end, the balance of Starling forces favors reabsorption of fluid back into the capillary.",
         "whyCorrect": "Because hydrostatic pressure falls below the roughly constant oncotic pressure toward the venular end, the balance of Starling forces favors reabsorption of fluid back into the capillary.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blood keeps flowing from the arteriolar to the venular end; Starling forces affect fluid movement across the wall, not flow direction.",
+          "B": "Hydrostatic pressure falls below the oncotic pressure at the venular end, so there is net movement into the capillary rather than none.",
+          "C": "Filtration is greatest at the arteriolar end, and lymphatics drain the interstitium rather than receiving fluid directly from capillaries.",
+          "E": "Net filtration occurs at the arteriolar end, where hydrostatic pressure exceeds oncotic pressure, not at the venular end."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-206_ca014_f04.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "At the distal capillary the capillary oncotic pressure exceeds the reduced hydrostatic pressure, so the net Starling force draws fluid back into the vessel (reabsorption).",
         "whyCorrect": "At the distal capillary the capillary oncotic pressure exceeds the reduced hydrostatic pressure, so the net Starling force draws fluid back into the vessel (reabsorption).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphatics drain only the small excess of filtered fluid left in the interstitium; they do not receive all fluid movement at the venular end, where Starling forces favor reabsorption.",
+          "B": "Filtration dominates at the arteriolar end, where capillary hydrostatic pressure is high; at the venular end hydrostatic pressure has fallen below plasma oncotic pressure.",
+          "D": "Capillary flow is nearly steady because arterioles damp pulsatility, and the direction of fluid exchange is set by Starling forces, not by each heartbeat.",
+          "E": "The forces are not balanced at the venular end: capillary hydrostatic pressure has dropped below plasma oncotic pressure, leaving a net inward (absorptive) force."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-207_ca014_f06.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Active (functional) hyperemia results from metabolites such as CO2, H+, adenosine, and K+ accumulating during increased activity, which dilate local vessels and raise flow to match demand.",
         "whyCorrect": "Active (functional) hyperemia results from metabolites such as CO2, H+, adenosine, and K+ accumulating during increased activity, which dilate local vessels and raise flow to match demand.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Beta-1 receptors are on the heart, not on resistance vessels, and active hyperemia is a local metabolic response that persists even when circulating catecholamines are unchanged.",
+          "B": "Arterial PO2 does not rise with tissue activity; it is local tissue PO2 that falls as oxygen is consumed, and a rise in PO2 would tend to constrict arterioles.",
+          "D": "Baroreceptor reflexes regulate systemic arterial pressure globally; they do not selectively dilate the vascular bed of a tissue whose metabolism has increased.",
+          "E": "Sympathetic outflow constricts most vascular beds via alpha-1 receptors and would reduce flow, opposing the metabolically driven increase shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-208_ca015_f02.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "During occlusion, metabolites build up and cannot be washed away; on reperfusion these dilators cause blood flow to transiently exceed baseline (reactive hyperemia).",
         "whyCorrect": "During occlusion, metabolites build up and cannot be washed away; on reperfusion these dilators cause blood flow to transiently exceed baseline (reactive hyperemia).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Venous return and preload affect cardiac output globally; they cannot explain a flow overshoot confined to the vascular bed that was just occluded.",
+          "B": "Reactive hyperemia is a local phenomenon in the released bed; a systemic rise in heart rate would not selectively raise flow above baseline there.",
+          "C": "Endothelin-1 is a potent vasoconstrictor, so its release would lower flow rather than produce the post-occlusion surge.",
+          "D": "Reactive hyperemia occurs even in denervated tissue; it is driven by locally accumulated metabolites, not by withdrawal of sympathetic tone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-209_ca015_f03.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The endothelium releases both dilators (NO, EDHF, PGI2) and constrictors; endothelin-1 is the potent vasoconstrictor, promoting smooth muscle contraction while the others favor relaxation.",
         "whyCorrect": "The endothelium releases both dilators (NO, EDHF, PGI2) and constrictors; endothelin-1 is the potent vasoconstrictor, promoting smooth muscle contraction while the others favor relaxation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "L-arginine is the substrate that endothelial NO synthase converts to nitric oxide, so it feeds the relaxing pathway rather than constricting smooth muscle.",
+          "B": "EDHF hyperpolarizes vascular smooth muscle by opening potassium channels, closing voltage-gated calcium channels and causing relaxation.",
+          "C": "Prostacyclin acts on IP receptors to raise cAMP in smooth muscle, causing vasodilation and inhibiting platelet aggregation.",
+          "E": "Nitric oxide diffuses into smooth muscle, activates soluble guanylyl cyclase and raises cGMP, producing relaxation, the opposite of endothelin's effect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-210_ca015_f05.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Nitric oxide activates guanylyl cyclase, raising cGMP, which lowers intracellular calcium and activates myosin light chain phosphatase to relax vascular smooth muscle.",
         "whyCorrect": "Nitric oxide activates guanylyl cyclase, raising cGMP, which lowers intracellular calcium and activates myosin light chain phosphatase to relax vascular smooth muscle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "DAG is generated with IP3 by Gq-coupled phospholipase C activity and activates protein kinase C, a pathway that promotes contraction, not NO-mediated relaxation.",
+          "C": "IP3 releases calcium from the sarcoplasmic reticulum via Gq signaling, raising intracellular calcium and driving contraction rather than relaxation.",
+          "D": "Calcium-calmodulin activates myosin light chain kinase and is the trigger for smooth muscle contraction; the NO pathway lowers its activity.",
+          "E": "cAMP mediates relaxation from beta-2 agonists and prostacyclin, but the endothelial NO pathway shown signals through guanylyl cyclase and cGMP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-211_ca015_f06.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "At physiologic levels epinephrine engages beta-2 receptors causing skeletal muscle vasodilation, which counterbalances its alpha-mediated pressor action; norepinephrine acts mainly on alpha-1, so it raises MAP and triggers reflex bradycardia.",
         "whyCorrect": "At physiologic levels epinephrine engages beta-2 receptors causing skeletal muscle vasodilation, which counterbalances its alpha-mediated pressor action; norepinephrine acts mainly on alpha-1, so it raises MAP and triggers reflex bradycardia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reflex bradycardia is characteristic of norepinephrine, whose pressor effect triggers the baroreflex; epinephrine typically raises heart rate via beta-1 stimulation.",
+          "B": "Epinephrine binds alpha-1, alpha-2, beta-1 and beta-2 receptors; its small MAP change reflects opposing receptor effects, not absent binding.",
+          "C": "Norepinephrine has little beta-2 activity; it acts mainly on alpha-1 (and beta-1) receptors, which is why it constricts vessels and raises pressure.",
+          "E": "Norepinephrine is a potent alpha-1 agonist, and that alpha-1 vasoconstriction is exactly why it raises mean arterial pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-212_ca015_f07.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Tilting the patient head-down (legs elevated) uses gravity to redistribute pooled venous blood from the lower extremities toward the central circulation, transiently increasing venous return, preload, stroke volume, and thus cardiac output and blood pressure.",
         "whyCorrect": "Tilting the patient head-down (legs elevated) uses gravity to redistribute pooled venous blood from the lower extremities toward the central circulation, transiently increasing venous return, preload, stroke volume, and thus cardiac output and blood pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Positioning does not meaningfully lower intrathoracic pressure, and coronary filling is not the mechanism; the benefit comes from shifting blood centrally to raise preload.",
+          "B": "Renal sodium and water retention takes hours to days and works through RAAS and ADH, whereas this maneuver acts within seconds by redistributing existing blood.",
+          "C": "Baroreceptor activation by a rise in pressure would reduce sympathetic drive and contractility; the maneuver raises output through the Frank-Starling effect of increased preload.",
+          "E": "Lowering systemic vascular resistance would reduce blood pressure; the maneuver raises pressure by increasing venous return and stroke volume."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-213_ca016_f01.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "A slow rate with an upright P wave preceding every QRS in a 1:1 fashion and normal PR interval indicates the impulse still originates in the SA node, defining sinus bradycardia rather than a junctional, blocked, or ectopic rhythm.",
         "whyCorrect": "A slow rate with an upright P wave preceding every QRS in a 1:1 fashion and normal PR interval indicates the impulse still originates in the SA node, defining sinus bradycardia rather than a junctional, blocked, or ectopic rhythm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A junctional escape rhythm has absent, retrograde or inverted P waves near the QRS, not an upright P wave with a normal PR before every complex.",
+          "B": "Sinoatrial exit block produces intermittently dropped P waves and pauses, whereas this tracing shows a regular rhythm with consistent 1:1 P-QRS conduction.",
+          "C": "Atrial fibrillation is irregularly irregular with no discrete P waves, which contradicts the regular rhythm and organized P waves seen here.",
+          "E": "Second-degree AV block shows P waves that are not followed by a QRS, breaking the 1:1 relationship present on this ECG."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-058_ca017_f01.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "The precise R-R small-box method divides 1500 (small boxes per minute at 25 mm/s) by the number of small boxes between consecutive R waves to yield beats per minute.",
         "whyCorrect": "The precise R-R small-box method divides 1500 (small boxes per minute at 25 mm/s) by the number of small boxes between consecutive R waves to yield beats per minute.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Multiplying small boxes by 0.04 s gives the R-R interval in seconds, not the heart rate; rate requires dividing into a per-minute count.",
+          "B": "Dividing 300 by the number of large boxes is the quicker, less precise large-box method, not the small-box count illustrated.",
+          "C": "The 6-second strip method counts complexes and multiplies by 10; it is used for irregular rhythms and does not count small boxes between R waves.",
+          "D": "Sixty divided by the R-R interval works only when the interval is in seconds; large boxes are 0.2 s each, so this formula would give a wrong rate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-059_ca017_f02.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "A fast but regular rhythm with a normal P wave before each QRS and a constant PR interval indicates the SA node is simply firing faster, defining sinus tachycardia rather than a reentrant or ectopic tachyarrhythmia.",
         "whyCorrect": "A fast but regular rhythm with a normal P wave before each QRS and a constant PR interval indicates the SA node is simply firing faster, defining sinus tachycardia rather than a reentrant or ectopic tachyarrhythmia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrial fibrillation is irregularly irregular without distinct P waves, unlike this regular rhythm with an upright P before each QRS.",
+          "C": "AVNRT is typically abrupt in onset, often faster (150-250 bpm), with P waves hidden in or just after the QRS rather than normal P waves preceding it.",
+          "D": "Focal atrial tachycardia arises from an ectopic atrial site and produces P waves of abnormal morphology or axis, not normal sinus-appearing P waves.",
+          "E": "Atrial flutter shows sawtooth flutter waves at about 300/min, typically producing a ventricular rate near 150 with 2:1 conduction, not discrete normal P waves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-060_ca017_f06.png",

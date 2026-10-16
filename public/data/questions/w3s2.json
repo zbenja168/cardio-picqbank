@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Coronary CT angiography is a sensitive noninvasive test for coronary artery occlusion. The arrow marks a focal narrowing (stenosis) of the LAD lumen; a positive scan is typically confirmed with functional testing or invasive angiography before intervention.",
         "whyCorrect": "Coronary CT angiography is a sensitive noninvasive test for coronary artery occlusion. The arrow marks a focal narrowing (stenosis) of the LAD lumen; a positive scan is typically confirmed with functional testing or invasive angiography before intervention.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A myocardial bridge shows a coronary segment tunneling through muscle with systolic compression, not a focal fixed narrowing of the lumen.",
+          "B": "A dissection flap would show a linear intimal flap with two lumens, not a simple focal narrowing.",
+          "C": "Pericardial calcification surrounds the heart's outer surface, not the lumen of the LAD.",
+          "D": "A saccular aneurysm is a focal outpouching that widens the contrast column, the opposite of the narrowing marked."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-080_ca036_f04.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Cardiac biomarkers such as troponin and CK-MB become detectable roughly 4-6 hours after MI onset. Because a test may therefore be falsely negative on early arrival at the ER, the ECG remains the best initial test and serial biomarker testing is required.",
         "whyCorrect": "Cardiac biomarkers such as troponin and CK-MB become detectable roughly 4-6 hours after MI onset. Because a test may therefore be falsely negative on early arrival at the ER, the ECG remains the best initial test and serial biomarker testing is required.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Troponin and CK-MB are detectable well before 2-3 days; that window is closer to when CK-MB returns to normal.",
+          "B": "At 7-10 days troponin is waning and CK-MB has long normalized; this is not when markers first appear.",
+          "C": "Biomarkers are not reliably detectable within 30 minutes, which is why an early negative test cannot exclude MI.",
+          "D": "By 12-24 hours troponin and CK-MB are near peak levels; their first rise occurs earlier, about 4-6 hours after onset."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-081_ca037_f06.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "In the first several hours after an MI there are no visible gross changes. TTC is reduced by intact dehydrogenase enzymes in viable myocardium to a brick-red color, so infarcted tissue that has lost these enzymes remains pale/unstained, allowing early infarcts to be demonstrated.",
         "whyCorrect": "In the first several hours after an MI there are no visible gross changes. TTC is reduced by intact dehydrogenase enzymes in viable myocardium to a brick-red color, so infarcted tissue that has lost these enzymes remains pale/unstained, allowing early infarcts to be demonstrated.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Prussian blue stains hemosiderin iron, as in heart failure cells or hemochromatosis, not enzyme loss in early infarcts.",
+          "B": "PAS highlights glycogen and mucopolysaccharides and is not the standard gross technique for showing early infarction.",
+          "C": "Oil red O stains neutral lipid on frozen sections and does not distinguish viable from recently infarcted myocardium.",
+          "E": "Congo red identifies amyloid by apple-green birefringence and has no role in detecting early infarcts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-149_ca037_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The dense neutrophilic infiltrate seen here is characteristic of the 1-3 day window after an MI. Neutrophils arrive to clear debris left behind by the dead myocytes, while coagulative necrosis (bright pink cells retaining outlines but lacking nuclei) is still present.",
         "whyCorrect": "The dense neutrophilic infiltrate seen here is characteristic of the 1-3 day window after an MI. Neutrophils arrive to clear debris left behind by the dead myocytes, while coagulative necrosis (bright pink cells retaining outlines but lacking nuclei) is still present.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "After 8 weeks the infarct is a dense collagen scar with no necrosis or acute inflammation.",
+          "B": "At 3-10 days macrophages clear the necrotic tissue and granulation tissue begins, rather than a dense neutrophilic infiltrate.",
+          "C": "At 1-2 weeks granulation tissue with new vessels and fibroblasts dominates, not neutrophils with coagulative necrosis.",
+          "D": "Within the first 4 hours there are usually no light-microscopic changes beyond wavy fibers, and neutrophils have not yet arrived."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-150_ca037_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The mature scar is composed of dense layers of collagen laid down by fibroblasts. Unlike myocardium it neither contracts nor conducts electricity, which produces chronic ECG abnormalities (e.g., pathologic Q waves) and reduced contractile function.",
         "whyCorrect": "The mature scar is composed of dense layers of collagen laid down by fibroblasts. Unlike myocardium it neither contracts nor conducts electricity, which produces chronic ECG abnormalities (e.g., pathologic Q waves) and reduced contractile function.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Adult cardiomyocytes have minimal regenerative capacity, so infarcted myocardium heals by fibrosis, not new muscle.",
+          "C": "Collagen scar does not conduct impulses at all; slowed conduction around scar can instead create reentry circuits.",
+          "D": "Natriuretic peptides are secreted by stretched viable myocytes, not by fibrous scar tissue.",
+          "E": "Scar has no contractile elements; it is akinetic or dyskinetic rather than more forceful."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-151_ca037_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "When an infarcted vessel is reopened, an influx of calcium into damaged, reperfused myocytes causes uncontrolled hypercontraction of the muscle fibers. This forms the thick eosinophilic contraction bands (about 4-5 micrometers wide) that span the short axis of the myocyte, a hallmark of reperfusion injury.",
         "whyCorrect": "When an infarcted vessel is reopened, an influx of calcium into damaged, reperfused myocytes causes uncontrolled hypercontraction of the muscle fibers. This forms the thick eosinophilic contraction bands (about 4-5 micrometers wide) that span the short axis of the myocyte, a hallmark of reperfusion injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neutrophil enzymatic digestion causes myocyte breakdown and debris, not transverse hypercontraction bands.",
+          "B": "Collagen deposition by fibroblasts occurs weeks later and forms scar, not eosinophilic bands within myocytes.",
+          "C": "Amyloid appears as amorphous pink extracellular deposits around myocytes, not as transverse bands inside them.",
+          "D": "Bacterial invasion of infarcts is not a feature of reperfusion injury and would not form intracellular contraction bands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-152_ca037_f08.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Calcium binding to troponin C alters the troponin complex, causing tropomyosin to move and uncover the myosin-binding sites on actin. This allows the myosin heads of the thick filament to cross-bridge with the thin filament and generate contraction.",
         "whyCorrect": "Calcium binding to troponin C alters the troponin complex, causing tropomyosin to move and uncover the myosin-binding sites on actin. This allows the myosin heads of the thick filament to cross-bridge with the thin filament and generate contraction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myosin heads attach to actin after calcium binding; detachment requires ATP binding and is part of each cross-bridge cycle, not a permanent effect.",
+          "C": "Filaments do not shorten themselves; the thick and thin filaments slide past each other as the sarcomere shortens.",
+          "D": "Troponin T anchors the complex to tropomyosin and stays bound; calcium acts on troponin C to shift tropomyosin.",
+          "E": "Actin filaments remain polymerized during contraction; depolymerization would abolish the thin filament."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-232_ca037_f07.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In most hearts the right coronary artery supplies the inferior and posterior walls of the left ventricle as well as the right ventricle, which is why inferior infarcts are typically attributed to RCA occlusion. The LAD supplies the anterior wall and the circumflex the lateral wall.",
         "whyCorrect": "In most hearts the right coronary artery supplies the inferior and posterior walls of the left ventricle as well as the right ventricle, which is why inferior infarcts are typically attributed to RCA occlusion. The LAD supplies the anterior wall and the circumflex the lateral wall.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The circumflex runs in the left atrioventricular groove and chiefly supplies the lateral wall; it supplies the inferior and posterior walls only in left-dominant hearts.",
+          "C": "The LAD supplies the anterior wall, apex and anterior two-thirds of the septum, not the inferior and posterior walls.",
+          "D": "The aorta gives rise to the coronary arteries but does not itself perfuse the myocardium directly.",
+          "E": "The left main divides into the LAD and circumflex, which mainly supply the anterior and lateral walls, not the inferior wall."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-012_ca038_f05.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "ST elevation across the precordial leads with lateral involvement (I, aVL) defines an anterolateral injury pattern, which corresponds to the left coronary system, chiefly the LAD and its branches. RCA occlusion instead produces inferior (II, III, aVF) changes.",
         "whyCorrect": "ST elevation across the precordial leads with lateral involvement (I, aVL) defines an anterolateral injury pattern, which corresponds to the left coronary system, chiefly the LAD and its branches. RCA occlusion instead produces inferior (II, III, aVF) changes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Isolated diagonal occlusion causes limited lateral changes (often I, aVL, V2), not ST elevation spanning V2 through V6.",
+          "C": "The posterior descending artery supplies the inferior wall and posterior septum, which would elevate II, III and aVF.",
+          "D": "The sinoatrial nodal artery supplies the SA node; its occlusion causes sinus node dysfunction, not anterolateral ST elevation.",
+          "E": "Right coronary occlusion produces inferior ST elevation in II, III and aVF, often with reciprocal depression in I and aVL."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-082_ca038_f06.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "ST elevation in the inferior lead group (II, III, aVF) with reciprocal ST depression in aVL localizes the injury to the inferior wall, most often from right coronary artery occlusion. Anterior injury would elevate the precordial leads instead.",
         "whyCorrect": "ST elevation in the inferior lead group (II, III, aVF) with reciprocal ST depression in aVL localizes the injury to the inferior wall, most often from right coronary artery occlusion. Anterior injury would elevate the precordial leads instead.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anterior wall injury elevates ST segments in V3-V4 (precordial leads), not in II, III and aVF.",
+          "B": "High lateral injury elevates I and aVL; here aVL shows reciprocal depression, the opposite pattern.",
+          "D": "Apical injury shows changes in V5-V6 and often inferior leads together with anterior leads, not an isolated inferior pattern with aVL reciprocity.",
+          "E": "Anteroseptal injury elevates V1-V2 (often V3), not the inferior limb leads."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-083_ca038_f07.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Leads V7-V9 are placed around the left posterior thorax to record directly over the posterior left ventricle, where standard leads show only subtle reciprocal changes. They are used to confirm acute posterior infarction, often from right coronary or left circumflex territory occlusion.",
         "whyCorrect": "Leads V7-V9 are placed around the left posterior thorax to record directly over the posterior left ventricle, where standard leads show only subtle reciprocal changes. They are used to confirm acute posterior infarction, often from right coronary or left circumflex territory occlusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The high lateral wall is assessed with leads I and aVL, not with posterior chest leads.",
+          "C": "The septum is seen by leads V1 and V2 on the anterior chest.",
+          "D": "The anterior wall is assessed by V3 and V4 on the front of the chest.",
+          "E": "Right ventricular infarction is detected with right-sided leads such as V4R placed on the right chest, not leads wrapping toward the left back."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-084_ca038_f09.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The subendocardium is farthest from the epicardial coronary supply and endures the highest wall stress, making it the most vulnerable layer and the first affected. Injury limited to it (illustration A) causes ST depression, whereas transmural injury extending to the epicardium (illustration B) causes ST elevation.",
         "whyCorrect": "The subendocardium is farthest from the epicardial coronary supply and endures the highest wall stress, making it the most vulnerable layer and the first affected. Injury limited to it (illustration A) causes ST depression, whereas transmural injury extending to the epicardium (illustration B) causes ST elevation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The mid-myocardium is better perfused and under less wall stress than the subendocardium, so it is not the first layer injured.",
+          "C": "The pericardium is a sac around the heart and is not myocardium vulnerable to coronary ischemia.",
+          "D": "Atrial endocardium is not the site of earliest ventricular ischemic injury, which begins in the ventricular subendocardium.",
+          "E": "The epicardium sits closest to the epicardial coronary arteries and is affected last, only when injury becomes transmural."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-153_ca038_f04.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The highlighted band marks phase 2 (plateau) of the ventricular action potential, which underlies the isoelectric ST segment. During the plateau, L-type calcium channel influx roughly balances potassium efflux, keeping the membrane potential near a plateau and producing no net deflection on the ECG.",
         "whyCorrect": "The highlighted band marks phase 2 (plateau) of the ventricular action potential, which underlies the isoelectric ST segment. During the plateau, L-type calcium channel influx roughly balances potassium efflux, keeping the membrane potential near a plateau and producing no net deflection on the ECG.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chloride currents play a minor role in ventricular myocytes and do not maintain the plateau.",
+          "B": "The large rapid sodium current drives phase 0 and the QRS complex, not the plateau corresponding to the ST segment.",
+          "C": "The funny current drives phase 4 pacemaker depolarization in nodal cells; it is not active during the plateau of ventricular contractile cells.",
+          "E": "Potassium efflux alone would repolarize the cell as in phase 3; the plateau persists because inward calcium current balances it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-233_ca038_f02.png",

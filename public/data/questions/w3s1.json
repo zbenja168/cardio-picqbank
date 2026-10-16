@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The vessel shown running down the anterior interventricular groove is the left anterior descending (LAD) artery, a branch of the left main coronary artery. It supplies the anterior LV wall and most of the interventricular septum, so its occlusion produces an anterior/anteroseptal infarct.",
         "whyCorrect": "The vessel shown running down the anterior interventricular groove is the left anterior descending (LAD) artery, a branch of the left main coronary artery. It supplies the anterior LV wall and most of the interventricular septum, so its occlusion produces an anterior/anteroseptal infarct.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The posterior left atrial wall is supplied mainly by the circumflex artery, not the vessel in the anterior interventricular groove.",
+          "B": "The SA node and right atrium are supplied by the right coronary artery in most people.",
+          "C": "The inferior wall is supplied by the posterior descending artery, usually from the right coronary artery.",
+          "D": "The right ventricular free wall is supplied by acute marginal branches of the right coronary artery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-010_ca029_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "During systole the ventricular muscle contracts intensely and squeezes the intramural and subendocardial vessels, greatly raising vascular resistance and nearly occluding flow. Coronary flow therefore peaks in early diastole when compression is relieved.",
         "whyCorrect": "During systole the ventricular muscle contracts intensely and squeezes the intramural and subendocardial vessels, greatly raising vascular resistance and nearly occluding flow. Coronary flow therefore peaks in early diastole when compression is relieved.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic diastolic pressure is what drives coronary flow; flow peaks in diastole, so low diastolic pressure cannot explain the systolic drop.",
+          "C": "Alpha-1 constriction is a minor influence on coronary tone and does not explain the cyclical systolic cessation of left coronary flow.",
+          "D": "The aortic valve leaflets do not seal the coronary ostia; the dominant cause of reduced systolic flow is compression by the contracting myocardium.",
+          "E": "Myocardial metabolic demand is highest during contraction, which would tend to increase flow, not decrease it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-223_ca029_f03.png",
@@ -100,7 +110,7 @@
         },
         {
           "label": "D",
-          "text": "The open aortic valve leaflets cover the coronary ostia"
+          "text": "Contracting myocardium compresses the intramural coronary vessels"
         },
         {
           "label": "E",
@@ -109,9 +119,14 @@
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "During ventricular contraction (aortic valve open) the leaflets are pressed against the aortic root and partially block the coronary ostia while contracting muscle compresses the vessels. In relaxation, backflow closes the aortic valve and blood fills the coronary arteries, so most coronary perfusion occurs in diastole.",
-        "whyCorrect": "During ventricular contraction (aortic valve open) the leaflets are pressed against the aortic root and partially block the coronary ostia while contracting muscle compresses the vessels. In relaxation, backflow closes the aortic valve and blood fills the coronary arteries, so most coronary perfusion occurs in diastole.",
-        "whyWrongByChoice": {}
+        "summary": "During ventricular contraction the contracting myocardium squeezes the intramural coronary arteries (especially in the subendocardium of the left ventricle), so left coronary inflow falls sharply in systole. In relaxation the vessels decompress and the closed aortic valve lets aortic pressure drive flow into the coronary ostia, so most left coronary perfusion occurs in diastole.",
+        "whyCorrect": "During ventricular contraction the contracting myocardium squeezes the intramural coronary arteries (especially in the subendocardium of the left ventricle), so left coronary inflow falls sharply in systole. In relaxation the vessels decompress and the closed aortic valve lets aortic pressure drive flow into the coronary ostia, so most left coronary perfusion occurs in diastole.",
+        "whyWrongByChoice": {
+          "A": "Aortic pressure is highest in systole, not diastole, and diastolic pressure drives rather than opposes coronary inflow.",
+          "B": "The coronary sinus drains venous blood from the myocardium into the right atrium; it does not divert arterial inflow.",
+          "C": "The pulmonary valve guards the pulmonary trunk, which has no coronary ostia, so its closure cannot obstruct coronary filling.",
+          "E": "During ventricular contraction the aortic valve is open, not closed; it closes at the start of diastole."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-224_ca029_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
         "whyCorrect": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The lower panel shows narrowing from plaque, not dilation, so flow decreases rather than increases.",
+          "C": "Capillary permeability is a microvascular property; narrowing of a large artery restricts flow rather than altering capillary leak.",
+          "D": "The change is intimal plaque narrowing the lumen, not thinning of the arterial wall.",
+          "E": "Arteries have no valves, so valve incompetence and backflow do not apply to this change."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-142_ca030_f01.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
         "whyCorrect": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aneurysm formation results from chronic medial weakening over time, not from acute rupture of a plaque's fibrous cap.",
+          "B": "Lymphatic obstruction is unrelated to atheroma rupture, which acts on the arterial lumen.",
+          "C": "Vasospasm is a transient constriction (as in Prinzmetal angina) and is not the direct consequence of cap rupture.",
+          "D": "Chronic stable angina arises from a fixed, stable stenosis with an intact cap; rupture causes an acute coronary syndrome."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-143_ca030_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
         "whyCorrect": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Caseating granulomas are tuberculous lesions with central cheesy necrosis, not raised yellow lipid-rich intimal plaques.",
+          "B": "Syphilitic aortitis involves the ascending aorta with tree-bark wrinkling from obliterative endarteritis of the vasa vasorum, not yellow ulcerated plaques.",
+          "C": "The aortic wall is not normal; thrombus sits on top of raised, ulcerated lipid plaques.",
+          "E": "Fibrinous exudate is a thin coating seen on serosal surfaces in inflammation, not raised yellow intimal lesions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-144_ca030_f05.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma.",
         "whyCorrect": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chylomicrons carry dietary triglyceride to muscle and fat; their triglyceride is not what intimal macrophages engulf to become foam cells.",
+          "C": "VLDL remnants can contribute to atherogenesis, but the principal lipid taken up by intimal macrophages is LDL that has been oxidized after entering the intima.",
+          "D": "HDL removes cholesterol from peripheral tissues and foam cells (reverse cholesterol transport), so it protects against atheroma rather than supplying its lipid.",
+          "E": "Dietary cholesterol is absorbed by enterocytes and packaged into chylomicrons; crystals are not absorbed directly into the arterial wall."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-225_ca030_f02.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues.",
         "whyCorrect": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cardiac preload is ventricular end-diastolic filling, a property of the heart and venous return, not of a diseased artery.",
+          "B": "Venous return depends on venous pressure gradients and capacitance, not on plaque progression in an artery.",
+          "C": "Capillary hydrostatic pressure is a microvascular Starling force; the depicted lesions narrow the artery itself and limit downstream flow.",
+          "D": "Lymphatic drainage of interstitial fluid is unrelated to atherosclerotic narrowing of an arterial lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-226_ca030_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor.",
         "whyCorrect": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute angle-closure glaucoma presents with a painful red eye, fixed mid-dilated pupil and corneal edema, not a cherry-red macular spot.",
+          "C": "Central retinal vein occlusion gives a 'blood and thunder' fundus with widespread hemorrhages and dilated tortuous veins, not a pale retina.",
+          "D": "Papilledema is bilateral optic disc swelling with blurred margins, not diffuse retinal pallor with a cherry-red macula.",
+          "E": "Proliferative diabetic retinopathy is defined by neovascularization and vitreous hemorrhage, not acute ischemic whitening of the retina."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-075_ca031_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction.",
         "whyCorrect": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "This study is a contrast-enhanced CT, not a non-contrast MRI, and imaging cholesterol crystals is not the goal in arterial thromboembolism.",
+          "B": "Plain radiographs cannot opacify arteries and show only bone and gas, so they could not reveal arterial filling defects.",
+          "C": "Duplex ultrasound avoids radiation, but the image is a CT with intravascular contrast, and ultrasound is limited for deep visceral arteries.",
+          "D": "Without contrast the arterial lumen cannot be distinguished from clot, so filling defects would not be visible."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-076_ca031_f06.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Endarterectomy removes the atheromatous plaque and inner arterial layer through an open arteriotomy, directly relieving high-grade stenosis in symptomatic patients.",
         "whyCorrect": "Endarterectomy removes the atheromatous plaque and inner arterial layer through an open arteriotomy, directly relieving high-grade stenosis in symptomatic patients.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Carotid body tumor resection removes a paraganglioma splaying the bifurcation; it does not involve opening the artery to strip plaque.",
+          "B": "External carotid embolization is an endovascular technique to occlude branches (for epistaxis or tumors), not an open removal of plaque.",
+          "C": "Angioplasty and stenting is a percutaneous catheter procedure that compresses plaque against the wall rather than excising it through an arteriotomy.",
+          "D": "A bypass graft reroutes blood around a blockage with a conduit, whereas this operation removes the plaque itself from the native artery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-011_ca033_f07.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Loss of gray-white differentiation and hypodensity mark an evolving ischemic infarct; here an embolus of carotid origin has occluded the right middle cerebral artery. Hemorrhage would appear hyperdense (bright).",
         "whyCorrect": "Loss of gray-white differentiation and hypodensity mark an evolving ischemic infarct; here an embolus of carotid origin has occluded the right middle cerebral artery. Hemorrhage would appear hyperdense (bright).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute hemorrhage is hyperdense (bright) on non-contrast CT, the opposite of the hypodense area marked here.",
+          "C": "Physiologic calcification is bright, well-defined and symmetric in the basal ganglia, not an ill-defined dark region in one hemisphere.",
+          "D": "A chronic subdural hematoma is a crescent-shaped extra-axial collection along the convexity, not an intraparenchymal hypodensity.",
+          "E": "A calcified meningioma is a well-circumscribed, dural-based, bright mass, not an ill-defined area of low attenuation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-077_ca033_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli.",
         "whyCorrect": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fibromuscular dysplasia produces beaded narrowing in the mid-portion of renal or internal carotid arteries of young women, not a bulky yellow plaque at the bifurcation.",
+          "C": "Giant cell arteritis causes granulomatous wall inflammation with smooth thickening, not a lipid-rich yellow intimal mass.",
+          "D": "Thromboangiitis obliterans affects small and medium limb vessels of smokers with inflammatory thrombi, not the carotid bifurcation.",
+          "E": "Dissection splits the wall with an intramural hematoma and intimal flap, rather than forming a bulky yellow-tan intimal plaque."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-147_ca033_f01.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The image depicts an embolus arising from a ruptured carotid plaque that travels downstream to occlude an intracranial branch, the dominant mechanism of stroke in carotid disease.",
         "whyCorrect": "The image depicts an embolus arising from a ruptured carotid plaque that travels downstream to occlude an intracranial branch, the dominant mechanism of stroke in carotid disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Berry aneurysm rupture causes subarachnoid hemorrhage at the circle of Willis, not ischemia from a fragment traveling from the carotid.",
+          "C": "Cardioembolism originates in the heart, usually the left atrial appendage, whereas this embolus arises from the carotid bifurcation lesion.",
+          "D": "Watershed infarcts result from global hypoperfusion affecting border zones, not from a discrete embolus occluding a single branch.",
+          "E": "Lacunar infarcts come from in-situ disease of small penetrating arteries, not from emboli shed by a large-artery plaque."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-228_ca033_f02.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease.",
         "whyCorrect": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulse pressure variation is a respiratory change in arterial pulse pressure used to judge fluid responsiveness, not a limb-to-arm comparison.",
+          "B": "Cardiac index is cardiac output divided by body surface area, measured by invasive or echocardiographic methods, not by cuffs and Doppler.",
+          "C": "Central venous pressure is measured through a central line in the vena cava and reflects right-sided filling, not limb arterial disease.",
+          "D": "Mean arterial pressure gradient is not a standard PAD index; the test divides ankle systolic by brachial systolic pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-078_ca035_f02.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees).",
         "whyCorrect": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphatic obstruction causes chronic limb swelling (lymphedema) and does not produce pallor when the leg is elevated.",
+          "C": "A normal arterial supply keeps the leg pink even at 90 degrees of elevation; early pallor is abnormal.",
+          "D": "DVT produces swelling, warmth and erythema of the limb, and elevation would typically improve rather than provoke color change.",
+          "E": "Venous valvular incompetence causes dependent swelling and varicosities that improve with elevation, not elevation pallor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-079_ca035_f04.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
         "whyCorrect": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cellulitis would show a red, warm, swollen area of skin, not the thin, tapered calves of chronic ischemia.",
+          "B": "Pitting edema enlarges the legs, whereas these legs are wasted and thin.",
+          "D": "DVT causes unilateral acute swelling, the opposite of the muscle wasting shown.",
+          "E": "Lymphedema produces chronic, non-pitting enlargement of the limb, not thinning of the calves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-148_ca035_f03.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above.",
         "whyCorrect": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Disturbed flow reduces nitric oxide bioavailability; increased NO is a protective feature of laminar flow, not a driver of progression.",
+          "B": "Medial (Monckeberg) calcification affects the media in renal failure and diabetes and is not driven by flow disturbance across an intimal plaque.",
+          "C": "Lymphocytes in plaques promote inflammation; abnormal flow does not trigger plaque regression.",
+          "D": "Laminar flow induces endothelial quiescence and is atheroprotective, but the stenosis replaces it with turbulent flow that injures endothelium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-229_ca035_f01.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement.",
         "whyCorrect": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An atherectomy burr grinds away plaque and is withdrawn after use, not left in the artery.",
+          "B": "An embolic protection filter captures debris during the procedure and is removed at its end.",
+          "C": "An IVC filter is placed in the inferior vena cava to trap venous emboli, not deployed in an atherosclerotic artery after angioplasty.",
+          "D": "A venous bypass graft is placed surgically to route blood around a blockage, not delivered by catheter after balloon inflation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-230_ca035_f06.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis.",
         "whyCorrect": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trapping emboli is the role of filters, not of a conduit sewn above and below an occlusion.",
+          "C": "Stripping plaque from the inner lining is endarterectomy, which removes the lesion rather than detouring around it.",
+          "D": "Dissolving clot is done with thrombolytic drugs, not with a surgically attached vessel.",
+          "E": "Balloon dilation is angioplasty, a catheter technique that opens the native lumen rather than adding a new channel."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-231_ca035_f08.png",

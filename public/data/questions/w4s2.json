@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Only nodal (pacemaker) cells lack a true resting potential and undergo automatic phase 4 depolarization driven by the funny current (If) through HCN channels, followed by a calcium-dependent phase 0 (ICa) and potassium-dependent phase 3 (IK). Working myocytes and Purkinje fibers have a stable resting potential and a fast Na+-dependent upstroke.",
         "whyCorrect": "Only nodal (pacemaker) cells lack a true resting potential and undergo automatic phase 4 depolarization driven by the funny current (If) through HCN channels, followed by a calcium-dependent phase 0 (ICa) and potassium-dependent phase 3 (IK). Working myocytes and Purkinje fibers have a stable resting potential and a fast Na+-dependent upstroke.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrial myocytes have a stable resting potential and a fast sodium-driven upstroke, not spontaneous phase 4 drift.",
+          "B": "Purkinje fibers have latent automaticity but a near-stable resting potential and a rapid sodium upstroke, unlike this gradual nodal pattern.",
+          "C": "Skeletal muscle fibers have a stable resting potential and fire only when stimulated by motor neurons.",
+          "D": "Ventricular myocytes have a stable resting potential near -90 mV and a long calcium plateau, not spontaneous depolarization."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-248_ca047_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Class II antiarrhythmics (beta-blockers) inhibit sympathetic beta-1 stimulation of nodal cells, flattening the slope of phase 4 depolarization. This slows the firing rate of the SA node and conduction through the AV node, producing bradycardia and a prolonged PR interval.",
         "whyCorrect": "Class II antiarrhythmics (beta-blockers) inhibit sympathetic beta-1 stimulation of nodal cells, flattening the slope of phase 4 depolarization. This slows the firing rate of the SA node and conduction through the AV node, producing bradycardia and a prolonged PR interval.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Muscarinic (M2) activation slows nodal firing largely by opening potassium channels that hyperpolarize the cell; it is vagal signaling, not the class II antiarrhythmic action depicted.",
+          "B": "Calcium channel blockade chiefly slows the phase 0 upstroke of nodal cells, a different modification from the flattened phase 4 described.",
+          "C": "Fast sodium channel blockade affects working myocytes and Purkinje fibers, not the calcium-dependent nodal action potential.",
+          "E": "Potassium channel blockade prolongs repolarization in ventricular myocytes and does not reduce the slope of phase 4."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-249_ca047_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Nodal cells depend on L-type calcium influx for their phase 0 upstroke. Class IV agents (verapamil, diltiazem) block these L-type calcium channels, slowing depolarization and conduction through the AV node (negative dromotropy), which reduces heart rate and prolongs the PR interval.",
         "whyCorrect": "Nodal cells depend on L-type calcium influx for their phase 0 upstroke. Class IV agents (verapamil, diltiazem) block these L-type calcium channels, slowing depolarization and conduction through the AV node (negative dromotropy), which reduces heart rate and prolongs the PR interval.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The sodium-calcium exchanger removes calcium after contraction and does not generate the nodal upstroke.",
+          "B": "The funny current drives phase 4 depolarization; blocking it, as with ivabradine, slows the diastolic slope, not phase 0.",
+          "C": "Nodal cells lack a significant fast sodium current; their upstroke depends on calcium.",
+          "D": "Delayed-rectifier potassium current drives repolarization (phase 3) and does not shape the upstroke."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-250_ca047_f03.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The yellow-highlighted vessels are the pulmonary veins draining into the left atrium. Ectopic foci at the pulmonary vein ostia are the most common trigger for atrial fibrillation, which is why pulmonary vein isolation is the cornerstone of AF ablation.",
         "whyCorrect": "The yellow-highlighted vessels are the pulmonary veins draining into the left atrium. Ectopic foci at the pulmonary vein ostia are the most common trigger for atrial fibrillation, which is why pulmonary vein isolation is the cornerstone of AF ablation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Typical atrial flutter is a macroreentrant circuit around the tricuspid annulus in the right atrium, involving the cavotricuspid isthmus rather than the pulmonary veins.",
+          "C": "Ventricular tachycardia arises in the ventricles, often around scar, not from the pulmonary veins entering the left atrium.",
+          "D": "WPW tachycardia uses an accessory atrioventricular pathway crossing the valve annulus, not ectopic foci in the pulmonary veins.",
+          "E": "AVNRT uses dual pathways within the AV node, not ectopic triggers at the pulmonary vein ostia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-016_ca048_f01.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "In atrial fibrillation, multiple simultaneous reentrant wavelets produce a chaotic atrial rate exceeding 350 per minute. The AV node filters these impulses irregularly, producing the irregularly irregular ventricular response seen here.",
         "whyCorrect": "In atrial fibrillation, multiple simultaneous reentrant wavelets produce a chaotic atrial rate exceeding 350 per minute. The AV node filters these impulses irregularly, producing the irregularly irregular ventricular response seen here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Around 150 per minute is the typical ventricular rate of atrial flutter with 2:1 block, not the atrial rate of fibrillation.",
+          "B": "An organized atrial rate of 250-350 per minute is characteristic of atrial flutter, which shows regular sawtooth waves.",
+          "C": "A rate under 60 per minute is bradycardic and nowhere near the chaotic atrial activity of fibrillation.",
+          "E": "60-100 per minute is a normal sinus rate, not the fibrillatory atrial rate shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-091_ca048_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "An early, abnormally shaped (ectopic) P wave that is still conducted through the AV node to produce a normal narrow QRS is the hallmark of a premature atrial contraction. A PVC would show a wide QRS with no preceding P wave.",
         "whyCorrect": "An early, abnormally shaped (ectopic) P wave that is still conducted through the AV node to produce a normal narrow QRS is the hallmark of a premature atrial contraction. A PVC would show a wide QRS with no preceding P wave.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sinus arrhythmia shows gradual rate variation with respiration and P waves of identical sinus morphology.",
+          "B": "A PVC is a wide, bizarre QRS without a preceding P wave, whereas this beat has an early P wave and a narrow QRS.",
+          "C": "A junctional escape beat arrives late after a pause and lacks a normal preceding P wave.",
+          "E": "Second-degree AV block shows P waves that fail to conduct, not an early ectopic P wave that conducts normally."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-092_ca049_f01.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "In atrial flutter the atrial (flutter) rate is fixed; when the AV node conducts at changing ratios (e.g. alternating 2:1 and 4:1) the ventricular rhythm becomes irregular even though the atrial rate is constant.",
         "whyCorrect": "In atrial flutter the atrial (flutter) rate is fixed; when the AV node conducts at changing ratios (e.g. alternating 2:1 and 4:1) the ventricular rhythm becomes irregular even though the atrial rate is constant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The flutter waves march at a constant rate, so the atrial cycle length is fixed; the irregularity arises at the AV node.",
+          "B": "Multiple ectopic atrial foci produce varying P-wave shapes, as in multifocal atrial tachycardia, not uniform sawtooth flutter waves.",
+          "D": "Accessory pathway conduction gives pre-excited, wide QRS complexes with delta waves rather than narrow complexes at varying flutter ratios.",
+          "E": "Retrograde ventriculoatrial conduction would alter atrial activation timing; it does not explain variable spacing of QRS complexes under fixed flutter waves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-093_ca049_f03.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Three or more distinct P-wave morphologies with an irregular rate over 100/min define multifocal atrial tachycardia, seen most often with pulmonary disease. Atrial fibrillation lacks discrete organized P waves.",
         "whyCorrect": "Three or more distinct P-wave morphologies with an irregular rate over 100/min define multifocal atrial tachycardia, seen most often with pulmonary disease. Atrial fibrillation lacks discrete organized P waves.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sinus tachycardia is regular with a single, uniform sinus P-wave morphology, not three or more distinct P-wave shapes.",
+          "B": "Atrial flutter shows regular sawtooth flutter waves of identical shape rather than discrete P waves of varying morphology.",
+          "D": "Wandering atrial pacemaker also has three or more P-wave shapes, but the rate is under 100/min; this rhythm is tachycardic.",
+          "E": "Atrial fibrillation has no discrete P waves at all, only a fibrillatory baseline, whereas distinct P waves are visible here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-094_ca049_f04.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "AVNRT is a micro-reentrant circuit using fast and slow pathways within the AV node, producing a regular narrow-complex tachycardia with a retrograde P wave close to the QRS. It is the most common SVT in young people.",
         "whyCorrect": "AVNRT is a micro-reentrant circuit using fast and slow pathways within the AV node, producing a regular narrow-complex tachycardia with a retrograde P wave close to the QRS. It is the most common SVT in young people.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Digitalis-induced triggered activity causes atrial tachycardia with block or ventricular ectopy, not the typical SVT of young healthy patients.",
+          "B": "A macroreentrant right atrial circuit is atrial flutter, which shows sawtooth flutter waves rather than a retrograde P wave just after the QRS.",
+          "D": "Orthodromic AVRT over a bypass tract is common but less so than AVNRT, and its retrograde P wave falls farther from the QRS, often in the ST segment.",
+          "E": "Focal atrial tachycardia from enhanced automaticity shows an abnormal P wave before each QRS, often with warm-up behavior rather than abrupt onset."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-095_ca049_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The slurred initial upstroke (delta wave) with a short PR interval reflects early ventricular depolarization arriving through an accessory pathway that bypasses the AV node, i.e. pre-excitation as in WPW.",
         "whyCorrect": "The slurred initial upstroke (delta wave) with a short PR interval reflects early ventricular depolarization arriving through an accessory pathway that bypasses the AV node, i.e. pre-excitation as in WPW.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "AV nodal reentry produces a regular narrow-complex tachycardia, not a short PR with a slurred QRS onset during sinus rhythm.",
+          "C": "Delayed His-Purkinje conduction would prolong conduction and widen the QRS without shortening the PR interval.",
+          "D": "Bundle branch block widens the QRS with a normal PR interval and lacks the initial slurred delta wave.",
+          "E": "Retrograde atrial activation produces inverted P waves, not a short PR with slurring at the start of the QRS."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-096_ca049_f06.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The short PR interval plus delta waves during sinus rhythm signify ventricular pre-excitation through an accessory (Kent) bundle, the defining ECG signature of Wolff-Parkinson-White syndrome.",
         "whyCorrect": "The short PR interval plus delta waves during sinus rhythm signify ventricular pre-excitation through an accessory (Kent) bundle, the defining ECG signature of Wolff-Parkinson-White syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Prior infarction leaves pathologic Q waves, not a short PR interval with a slurred QRS upstroke.",
+          "B": "Hyperkalemia causes peaked T waves, flattened P waves and eventually QRS widening, but not a short PR with delta waves.",
+          "C": "LVH increases QRS voltage, often with strain-type repolarization changes, but does not shorten the PR or slur the QRS onset.",
+          "E": "First-degree AV block prolongs the PR interval beyond 200 ms, the opposite of the short PR seen here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "capic-097_ca049_f07.png",
